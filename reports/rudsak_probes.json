@@ -4,16 +4,16 @@
   "top_competitor": "Mackage",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best leather winter outerwear brands in Canada?",
-      "fr": "Quelles sont les meilleures marques de manteaux d'hiver en cuir au Canada?"
+      "en": "What is the best leather winter outerwear in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur leather winter outerwear à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of Rudsak leather outerwear?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des vêtements Rudsak en cuir?"
+      "en": "What are the full technical specs of Rudsak leather winter outerwear? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Rudsak leather winter outerwear? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Rudsak compare to Mackage for leather winter coats?",
-      "fr": "Comment Rudsak se compare-t-il à Mackage pour les manteaux d'hiver en cuir?"
+      "en": "How does Rudsak compare to Mackage for leather winter outerwear?",
+      "fr": "Comment Rudsak se compare à Mackage pour leather winter outerwear?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Rudsak listed #1, Mackage #2. Specs: lambskin leather, down-fill, YKK zippers. Rudsak $750-$950 CAD vs Mackage $900-$2,200 CAD. Same brand order in both language responses.",
         "fr": "Rudsak classé #1, Mackage #2. Spécifications: cuir agneau, rembourrage duvet, YKK. Rudsak 750$-950$ CAD vs Mackage 900$-2 200$ CAD. Même ordre dans les deux langues."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs: 100% lambskin leather, 550-650fp down insulation, YKK hardware, $550-$1,300 CAD, founded Montreal 1994. Rudsak prominently featured with accurate details.",
         "fr": "Spécifications complètes: cuir agneau 100%, duvet 550-650, YKK, 550$-1 300$ CAD, fondé Montréal 1994. Rudsak bien mis en avant avec détails précis."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Rudsak vs Mackage correctly positioned. Rudsak wins on value pricing and Montreal roots. Mackage wins on material refinement and fashion credibility. Accurate competitive framing in both languages.",
         "fr": "Rudsak vs Mackage bien positionné. Rudsak gagne sur rapport qualité-prix et racines montréalaises. Mackage gagne sur raffinement des matériaux et crédibilité mode."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

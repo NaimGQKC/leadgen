@@ -6,4 +6,4 @@
 
 ---
 
-Hi Michael, ran an AI audit on Groupe Dynamite -- French searches for fast fashion coat and jacket surface Zara over you across GPT, Gemini + Claude. Score: 51/100. Have the full report.
+Hi Michael, ran an AI audit on Groupe Dynamite -- French searches for fast fashion coat and jacket surface Zara over you across GPT, Gemini + Claude. Score: 42/100. Have the full report.

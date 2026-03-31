@@ -1,6 +1,6 @@
 # AI Inference Audit: Rudsak
 
-**Inference Alignment Score: 70/100 -- GREEN**
+**Inference Alignment Score: 61/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** leather winter outerwear
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quelles sont les meilleures marques de manteaux d'hiver en cuir au Canada?"
+**Query:** "Quel est le meilleur leather winter outerwear à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Mackage |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Rudsak classé #1, Mackage #2. Spécifications: cuir agneau, rembourrage duvet, YKK. Rudsak 750$-950$ CAD vs Mackage 900$-2 200$ CAD. Même ordre dans les deux langues.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 4 | 3 |
-| Preservation ratio | -- | 75% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 6 | 5 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 83% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Rudsak | Rudsak | No |
+| GPT-4o | Rudsak | Rudsak | No |
+| Gemini | Rudsak | Rudsak | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 70/100** = ~30% of French AI queries failing or degraded
+- **IAS 61/100** = ~39% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

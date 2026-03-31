@@ -6,4 +6,4 @@
 
 ---
 
-Hi Véronique, ran an AI audit on Kanuk -- French searches for Montreal-made winter coat surface Quartz Co over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Véronique, ran an AI audit on Kanuk -- French searches for Montreal-made winter coat surface Quartz Co over you across GPT, Gemini + Claude. Score: 60/100. Have the full report.

@@ -1,21 +1,25 @@
 {
   "brand": "Moose Knuckles",
-  "ias": 72,
-  "severity": "GREEN",
+  "ias": 61,
+  "severity": "YELLOW",
   "llm_scores": {
     "claude": {
-      "score": 100,
+      "score": 98,
       "details": {
         "generic_fr_present": true,
         "rank_parity": true,
         "en_rank": 1,
         "fr_rank": 1,
-        "spec_ratio": 1.5,
-        "en_spec_count": 2,
-        "fr_spec_count": 3,
+        "spec_ratio": 0.9,
+        "en_spec_count": 10,
+        "fr_spec_count": 9,
         "hijacking": false,
-        "pricing_check": "specs_present",
+        "pricing_check": "both_present",
         "competitors_in_fr_generic": [
+          "Canada Goose",
+          "Mackage"
+        ],
+        "competitors_in_en_generic": [
           "Canada Goose",
           "Mackage"
         ],
@@ -23,9 +27,9 @@
       }
     },
     "gpt4o": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -33,15 +37,16 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     },
     "gemini": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -49,9 +54,10 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     }
   }

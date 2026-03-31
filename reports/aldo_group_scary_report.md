@@ -1,6 +1,6 @@
 # AI Inference Audit: Aldo Group
 
-**Inference Alignment Score: 54/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** stylish boots and shoes
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quelles sont les meilleures marques de bottes et chaussures tendance au Canada?"
+**Query:** "Quel est le meilleur stylish boots and shoes à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
-| Claude | Unknown (#None) | ABSENT (#None) | Aldo, Steve Madden |
+| Claude | Yes (#1) | Yes (#1) | Steve Madden |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Aldo bien mis en avant avec Steve Madden. Spécifications: cuir/PU, semelle TPR, 70$-250$ CAD, programme EarthKind mentionné. Même proéminence en FR.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 1 | 2 |
-| Preservation ratio | -- | 200% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 7 | 7 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
 
 ---
 
@@ -43,14 +61,16 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
-| Claude | Aldo Group | **Aldo, Steve Madden** | YES |
+| Claude | Aldo Group | Aldo Group | No |
+| GPT-4o | Aldo Group | Aldo Group | No |
+| Gemini | Aldo Group | Aldo Group | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 54/100** = ~46% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

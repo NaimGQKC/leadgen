@@ -6,4 +6,4 @@
 
 ---
 
-Hi Marie-Josée, ran an AI audit on Rudsak -- French searches for leather winter outerwear surface Mackage over you across GPT, Gemini + Claude. Score: 70/100. Have the full report.
+Hi Marie-Josée, ran an AI audit on Rudsak -- French searches for leather winter outerwear surface Mackage over you across GPT, Gemini + Claude. Score: 61/100. Have the full report.

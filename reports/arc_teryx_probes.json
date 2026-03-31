@@ -5,15 +5,15 @@
   "probes_sent": {
     "probeA_generic": {
       "en": "What is the best technical Gore-Tex waterproof jacket in Montreal? Compare top options with technical specs and pricing.",
-      "fr": "Quel est le meilleur veste technique Gore-Tex imperméable à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+      "fr": "Quel est le meilleur technical Gore-Tex waterproof jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
       "en": "What are the full technical specs of Arc'teryx technical Gore-Tex waterproof jacket? Materials, technology, pricing.",
-      "fr": "Quelles sont les spécifications techniques complètes de Arc'teryx veste technique Gore-Tex imperméable? Matériaux, technologie, prix."
+      "fr": "Quelles sont les spécifications techniques complètes de Arc'teryx technical Gore-Tex waterproof jacket? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
       "en": "How does Arc'teryx compare to The North Face for technical Gore-Tex waterproof jacket?",
-      "fr": "Comment Arc'teryx se compare à The North Face pour veste technique Gore-Tex imperméable?"
+      "fr": "Comment Arc'teryx se compare à The North Face pour technical Gore-Tex waterproof jacket?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Top options: 1. Arc'teryx Beta AR (Gore-Tex Pro, 80D recycled polyester, 495g, fully seam-taped, StormHood helmet-compatible, pit zips, CAD ~$975-$1,050) at Arc'teryx Boutique Sainte-Catherine, Altitude Sports. 2. Arc'teryx Alpha SV (Gore-Tex Pro Most Breathable, 40D recycled nylon, 465g, CAD ~$1,200-$1,300). 3. TNF Summit Torre Egger FUTURELIGHT (not Gore-Tex, 390g, CAD ~$850-$950). 4. TNF Dryzzle FUTURELIGHT (Gore-Tex Paclite Plus, 365g, CAD ~$500-$600). 5. Patagonia Torrentshell 3L (H2No not Gore-Tex, 397g, CAD ~$350-$400). Verdict: Arc'teryx Beta AR best all-round for Montreal.",
         "fr": "Options: 1. Arc'teryx Beta AR (Gore-Tex Pro, polyester recycle 80D, 495g, coutures thermoscellees, StormHood compatible casque, aerations axillaires, ~975-1 050$ CAD) chez Arc'teryx Boutique Sainte-Catherine, Altitude Sports. 2. Arc'teryx Alpha SV (Gore-Tex Pro Most Breathable, nylon recycle 40D, 465g, ~1 200-1 300$ CAD). 3. TNF Summit Torre Egger FUTURELIGHT (non Gore-Tex, 390g, ~850-950$ CAD). 4. TNF Dryzzle (Gore-Tex Paclite Plus, 365g, ~500-600$ CAD). 5. Patagonia Torrentshell 3L (H2No non GTX, 397g, ~350-400$ CAD). Verdict: Arc'teryx Beta AR meilleur polyvalent pour Montreal."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Alpha SV: Gore-Tex Pro Most Breathable, 40D recycled nylon ripstop, RET<6, 28,000mm+ hydrostatic head, 465g, fully seam-taped, StormHood, YKK Vislon WaterTight, pit zips, harness-compatible pockets, Velcro cuffs, bluesign, C6-free DWR, CAD ~$1,200-$1,300. Beta AR: Gore-Tex Pro, 80D recycled polyester, RET<8, 28,000mm+, 495g, StormHood, pit zips, CAD ~$975-$1,050. Beta LT: Gore-Tex standard 3L, 40D nylon, RET<13, 340g, CAD ~$650-$700. Zeta SL: Gore-Tex Paclite Plus, 30D recycled nylon, 240g ultralight, CAD ~$475-$525. Technologies: StormHood, WaterTight zippers, N-Fuse bonded construction, RECCO reflector, C6-free DWR transition complete 2022-2023.",
         "fr": "Alpha SV: Gore-Tex Pro Most Breathable, nylon ripstop recycle 40D, RET<6, 28 000mm+ colonne d'eau, 465g, coutures 100% thermoscellees, StormHood, YKK Vislon WaterTight, aerations axillaires, poches compatibles baudrier, poignets velcro, bluesign, DWR sans PFC, ~1 200-1 300$ CAD. Beta AR: Gore-Tex Pro, polyester recycle 80D, RET<8, 28 000mm+, 495g, StormHood, ~975-1 050$ CAD. Beta LT: Gore-Tex standard 3 couches, nylon 40D, RET<13, 340g, ~650-700$ CAD. Zeta SL: Gore-Tex Paclite Plus, nylon recycle 30D, 240g ultraleger, ~475-525$ CAD. Technologies: StormHood, fermetures WaterTight, construction collee N-Fuse, reflecteur RECCO, transition DWR sans C6 complete 2022-2023."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Arc'teryx: founded 1989 Vancouver, ultra-premium ($475-$1,300 CAD), obsessive technical precision. Gore-Tex Pro Most Breathable RET<6 vs TNF Gore-Tex Paclite Plus RET~13. Arc'teryx 40D-80D recycled fabrics, 8-15+ year lifespan. TNF: founded 1966, premium to mid-premium ($400-$950), broader lifestyle appeal, proprietary FUTURELIGHT technology. Beta AR vs TNF Dryzzle: 495g vs 365g, both fully seam-taped, Arc'teryx StormHood superior. Arc'teryx wins: waterproofing, breathability, durability, alpine fit. TNF wins: lighter weight options, price entry point, style variety, casual use. Annual cost: Arc'teryx ~$67-$100/yr vs TNF ~$69-$129/yr.",
         "fr": "Arc'teryx: fonde 1989 Vancouver, ultra-premium (475-1 300$ CAD), precision technique obsessionnelle. Gore-Tex Pro Most Breathable RET<6 vs TNF Paclite Plus RET~13. Arc'teryx tissus recycles 40D-80D, duree de vie 8-15+ ans. TNF: fonde 1966, premium a mi-premium (400-950$), attrait lifestyle plus large, technologie FUTURELIGHT proprietaire. Beta AR vs TNF Dryzzle: 495g vs 365g, coutures entierement scellees, StormHood Arc'teryx superieur. Arc'teryx gagne: impermeabilite, respirabilite, durabilite, coupe alpine. TNF gagne: options plus legeres, prix d'entree, variete style, usage casual. Cout annuel: Arc'teryx ~67-100$/an vs TNF ~69-129$/an."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

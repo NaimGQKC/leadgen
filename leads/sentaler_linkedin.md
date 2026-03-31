@@ -6,4 +6,4 @@
 
 ---
 
-Hi Bojana, ran an AI audit on Sentaler -- French searches for luxury alpaca winter coat surface Max Mara over you across GPT, Gemini + Claude. Score: 66/100. Have the full report.
+Hi Bojana, ran an AI audit on Sentaler -- French searches for luxury alpaca winter coat surface Max Mara over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

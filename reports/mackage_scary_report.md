@@ -1,6 +1,6 @@
 # AI Inference Audit: Mackage
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** luxury winter down coat
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quel est le meilleur manteau hiver duvet luxe à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+**Query:** "Quel est le meilleur luxury winter down coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Canada Goose, Moose Knuckles, Nobis |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Options: 1. Mackage (Eddie, Elodie, Kent, Adali; 650-800 power duvet canard/oie; nylon/polyester/cuir DWR; -30C; 800-2 200$ CAD; fondee a Montreal). 2. Canada Goose (Expedition, Langford, Mystique; 625-800 power; Arctic-Tech; TEI 3-5 -30C a -40C; 900-1 950$ CAD). 3. Moose Knuckles (Stirling, Ballistic; 625 power; nylon; -25C; 750-1 400$ CAD). 4. Nobis (Yatesy, Talia; 800 power RDS; -30C; 600-1 100$ CAD). Mackage domine pour le style urbain avec chaleur; Canada Goose pour la performance extreme.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 5 | 5 |
-| Preservation ratio | -- | 100% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 10 | 10 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Mackage | Mackage | No |
+| GPT-4o | Mackage | Mackage | No |
+| Gemini | Mackage | Mackage | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

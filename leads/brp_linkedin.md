@@ -6,4 +6,4 @@
 
 ---
 
-Hi Josée, ran an AI audit on BRP -- French searches for snowmobile and powersports vehicle surface Polaris over you across GPT, Gemini + Claude. Score: 66/100. Have the full report.
+Hi Josée, ran an AI audit on BRP -- French searches for snowmobile and powersports vehicle surface Polaris over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

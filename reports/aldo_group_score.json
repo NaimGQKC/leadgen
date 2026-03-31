@@ -1,51 +1,50 @@
 {
   "brand": "Aldo Group",
-  "ias": 54,
+  "ias": 62,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
-      "score": 45,
+      "score": 100,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": true,
+        "en_rank": 1,
+        "fr_rank": 1,
+        "spec_ratio": 1.0,
+        "en_spec_count": 7,
+        "fr_spec_count": 7,
+        "hijacking": false,
+        "pricing_check": "both_present",
+        "competitors_in_fr_generic": [
+          "Steve Madden"
+        ],
+        "competitors_in_en_generic": [
+          "Steve Madden"
+        ],
+        "ghosted": false
+      }
+    },
+    "gpt4o": {
+      "score": 43,
       "details": {
         "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
-        "spec_ratio": 2.0,
-        "en_spec_count": 1,
-        "fr_spec_count": 2,
-        "hijacking": true,
-        "hijacked_by": [
-          "Aldo",
-          "Steve Madden"
-        ],
-        "pricing_check": "specs_present",
-        "competitors_in_fr_generic": [
-          "Aldo",
-          "Steve Madden"
-        ],
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "none",
+        "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
         "ghosted": true
       }
     },
-    "gpt4o": {
-      "score": 58,
-      "details": {
-        "generic_fr_present": "unknown",
-        "rank_parity": "unknown",
-        "en_rank": null,
-        "fr_rank": null,
-        "spec_ratio": "unknown",
-        "en_spec_count": 0,
-        "fr_spec_count": 0,
-        "hijacking": false,
-        "pricing_check": "unknown",
-        "competitors_in_fr_generic": [],
-        "ghosted": false
-      }
-    },
     "gemini": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -53,9 +52,10 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     }
   }

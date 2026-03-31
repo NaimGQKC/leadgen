@@ -1,6 +1,6 @@
 # AI Inference Audit: BRP
 
-**Inference Alignment Score: 66/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** snowmobile and powersports vehicle
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quelles sont les meilleures marques de motoneiges dans le monde?"
+**Query:** "Quel est le meilleur snowmobile and powersports vehicle à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Polaris |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > BRP Ski-Doo #1 mondial, Polaris #2, Arctic Cat #3, Yamaha #4. Spécifications: Rotax 850 E-TEC 165ch, 9 999$-25 999$ CAD. Même ordre en FR. BRP clairement dominant.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 0 | 0 |
-| Preservation ratio | -- | unknown |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 5 | 5 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | BRP | BRP | No |
+| GPT-4o | BRP | BRP | No |
+| Gemini | BRP | BRP | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 66/100** = ~34% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

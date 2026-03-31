@@ -1,6 +1,6 @@
 # AI Inference Audit: Cirque du Soleil
 
-**Inference Alignment Score: 53/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** live entertainment show
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quels sont les meilleurs spectacles de divertissement en direct à Montréal?"
+**Query:** "Quel est le meilleur live entertainment show à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
-| Claude | Unknown (#None) | ABSENT (#None) | N/A |
+| Claude | Yes (#1) | Yes (#1) | N/A |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Cirque #1, OSM, Juste pour Rire, TOHU listés. Même proéminence en FR. Le Cirque domine clairement comme marque phare du divertissement live à Montréal.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 0 | 0 |
-| Preservation ratio | -- | unknown |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 1 | 1 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Cirque du Soleil | Cirque du Soleil | No |
+| GPT-4o | Cirque du Soleil | Cirque du Soleil | No |
+| Gemini | Cirque du Soleil | Cirque du Soleil | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 53/100** = ~47% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

@@ -4,16 +4,16 @@
   "top_competitor": "Blue Man Group",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best live entertainment shows in Montreal?",
-      "fr": "Quels sont les meilleurs spectacles de divertissement en direct à Montréal?"
+      "en": "What is the best live entertainment show in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur live entertainment show à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the details and ticket prices for Cirque du Soleil shows?",
-      "fr": "Quels sont les détails et les prix des billets pour les spectacles du Cirque du Soleil?"
+      "en": "What are the full technical specs of Cirque du Soleil live entertainment show? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Cirque du Soleil live entertainment show? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Cirque du Soleil compare to Blue Man Group for live entertainment?",
-      "fr": "Comment le Cirque du Soleil se compare-t-il au Blue Man Group pour le divertissement en direct?"
+      "en": "How does Cirque du Soleil compare to Blue Man Group for live entertainment show?",
+      "fr": "Comment Cirque du Soleil se compare à Blue Man Group pour live entertainment show?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Cirque #1, OSM, Just for Laughs, TOHU listed. Same prominence in FR (Juste pour Rire substituted). Cirque clearly dominates as the flagship Montreal live entertainment brand.",
         "fr": "Cirque #1, OSM, Juste pour Rire, TOHU listés. Même proéminence en FR. Le Cirque domine clairement comme marque phare du divertissement live à Montréal."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full details: founded 1984 Baie-Saint-Paul, 60+ countries, 200M+ audience, $55-$500+ CAD, hydraulic stages, 1,500+ lighting fixtures. Cirque featured with strong production-scale emphasis.",
         "fr": "Détails complets: fondé 1984 Baie-Saint-Paul, 60+ pays, 200M+ spectateurs, 55$-500$+ CAD, scènes hydrauliques, 1 500+ projecteurs. Cirque bien mis en avant."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Cirque vs Blue Man Group correctly noted: Blue Man Group acquired by Cirque in 2017. Cirque dominates on scale, global reach, and production value. Not a true independent competitive comparison.",
         "fr": "Cirque vs Blue Man Group correctement noté: Blue Man Group acquis par Cirque en 2017. Cirque domine sur échelle, portée mondiale et valeur de production. Pas vraiment une comparaison indépendante."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

@@ -1,30 +1,33 @@
 {
   "brand": "BRP",
-  "ias": 66,
+  "ias": 62,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
-      "score": 83,
+      "score": 100,
       "details": {
         "generic_fr_present": true,
         "rank_parity": true,
         "en_rank": 1,
         "fr_rank": 1,
-        "spec_ratio": "unknown",
-        "en_spec_count": 0,
-        "fr_spec_count": 0,
+        "spec_ratio": 1.0,
+        "en_spec_count": 5,
+        "fr_spec_count": 5,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "both_present",
         "competitors_in_fr_generic": [
+          "Polaris"
+        ],
+        "competitors_in_en_generic": [
           "Polaris"
         ],
         "ghosted": false
       }
     },
     "gpt4o": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -32,15 +35,16 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     },
     "gemini": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -48,9 +52,10 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     }
   }

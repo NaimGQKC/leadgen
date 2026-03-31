@@ -1,6 +1,6 @@
 # AI Inference Audit: Moose Knuckles
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 61/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** premium Canadian down parka
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quel est le meilleur parka canadien premium en duvet? Comparer les meilleures options avec spécifications techniques et prix."
+**Query:** "Quel est le meilleur premium Canadian down parka à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Canada Goose, Mackage |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Options: 1. Canada Goose Expedition Parka (duvet canard blanc 625 cuin, Arctic Tech 85%poly/15%coton, -30C+, 1 195$-1 395$ USD). 2. Moose Knuckles Ballistic Parka (duvet canard 625 cuin, 100% nylon DWR, -25C a -30C, 1 095$-1 195$ USD). 3. Moose Knuckles Stirling Parka (625 cuin, nylon, -25C, 895$-995$ USD). 4. Canada Goose Chilliwack Bomber (625 cuin, Arctic Tech, -15C a -25C, 795$-925$ USD). 5. Mackage Edward (melange duvet, polyester, -20C, 895$-1 050$ USD). Meilleur global: CG Expedition pour froid extreme; MK Ballistic pour style avant-gardiste avec chaleur comparable.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 2 | 3 |
-| Preservation ratio | -- | 150% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 10 | 9 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 90% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Moose Knuckles | Moose Knuckles | No |
+| GPT-4o | Moose Knuckles | Moose Knuckles | No |
+| Gemini | Moose Knuckles | Moose Knuckles | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 61/100** = ~39% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

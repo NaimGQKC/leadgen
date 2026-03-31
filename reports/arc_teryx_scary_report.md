@@ -1,6 +1,6 @@
 # AI Inference Audit: Arc'teryx
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 61/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** technical Gore-Tex waterproof jacket
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quel est le meilleur veste technique Gore-Tex imperméable à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+**Query:** "Quel est le meilleur technical Gore-Tex waterproof jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Patagonia |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Options: 1. Arc'teryx Beta AR (Gore-Tex Pro, polyester recycle 80D, 495g, coutures thermoscellees, StormHood compatible casque, aerations axillaires, ~975-1 050$ CAD) chez Arc'teryx Boutique Sainte-Catherine, Altitude Sports. 2. Arc'teryx Alpha SV (Gore-Tex Pro Most Breathable, nylon recycle 40D, 465g, ~1 200-1 300$ CAD). 3. TNF Summit Torre Egger FUTURELIGHT (non Gore-Tex, 390g, ~850-950$ CAD). 4. TNF Dryzzle (Gore-Tex Paclite Plus, 365g, ~500-600$ CAD). 5. Patagonia Torrentshell 3L (H2No non GTX, 397g, ~350-400$ CAD). Verdict: Arc'teryx Beta AR meilleur polyvalent pour Montreal.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 7 | 7 |
-| Preservation ratio | -- | 100% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 26 | 24 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 92% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Arc'teryx | Arc'teryx | No |
+| GPT-4o | Arc'teryx | Arc'teryx | No |
+| Gemini | Arc'teryx | Arc'teryx | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 61/100** = ~39% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

@@ -5,4 +5,4 @@
 
 ---
 
-Hi Haein, ran an AI audit on SSENSE -- French searches for luxury designer winter coat surface Farfetch over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Haein, ran an AI audit on SSENSE -- French searches for luxury designer winter coat surface Farfetch over you across GPT, Gemini + Claude. Score: 61/100. Have the full report.

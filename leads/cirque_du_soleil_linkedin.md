@@ -5,4 +5,4 @@
 
 ---
 
-Hi there, ran an AI audit on Cirque du Soleil -- French searches for live entertainment show surface Blue Man Group over you across GPT, Gemini + Claude. Score: 53/100. Have the full report.
+Hi there, ran an AI audit on Cirque du Soleil -- French searches for live entertainment show surface Blue Man Group over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

@@ -4,16 +4,16 @@
   "top_competitor": "Quartz Co",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best Montreal-made winter coats?",
-      "fr": "Quels sont les meilleurs manteaux d'hiver fabriqués à Montréal?"
+      "en": "What is the best Montreal-made winter coat in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur Montreal-made winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of Kanuk winter coats?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des manteaux Kanuk?"
+      "en": "What are the full technical specs of Kanuk Montreal-made winter coat? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Kanuk Montreal-made winter coat? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Kanuk compare to Quartz Co for winter coats?",
-      "fr": "Comment Kanuk se compare-t-il à Quartz Co pour les manteaux d'hiver?"
+      "en": "How does Kanuk compare to Quartz Co for Montreal-made winter coat?",
+      "fr": "Comment Kanuk se compare à Quartz Co pour Montreal-made winter coat?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Kanuk listed #1, Quartz Co #2. Both brands featured with specs: 625fp, -40C rating, YKK zippers, nylon shell, $800-$1,200 CAD. Strong parity between EN and FR responses.",
         "fr": "Kanuk classé #1, Quartz Co #2. Deux marques présentées avec spécifications: 625fp, -40C, fermetures YKK, nylon, 800$-1 200$ CAD. Bonne parité EN/FR."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs returned: 100% nylon shell, 625fp proprietary fill, YKK double-slider zippers, -40C rating, $700-$1,500 CAD price range, lifetime repair program. Kanuk prominent throughout.",
         "fr": "Spécifications complètes: nylon 100%, 625 pouvoir remplissage, YKK double curseur, -40C, 700$-1 500$ CAD, réparation à vie. Kanuk bien mis en avant."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Kanuk vs Quartz Co correctly positioned. Kanuk wins on heritage, extreme cold performance (-40C), and customization options. Quartz Co wins on value pricing and sustainability certifications.",
         "fr": "Kanuk vs Quartz Co bien positionné. Kanuk gagne sur patrimoine, froid extrême (-40C), personnalisation. Quartz Co gagne sur prix et certifications durabilité."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

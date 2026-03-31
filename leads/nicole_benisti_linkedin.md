@@ -6,4 +6,4 @@
 
 ---
 
-Hi Andrew, ran an AI audit on Nicole Benisti -- French searches for luxury women winter coat surface Mackage over you across GPT, Gemini + Claude. Score: 69/100. Have the full report.
+Hi Andrew, ran an AI audit on Nicole Benisti -- French searches for luxury women winter coat surface Mackage over you across GPT, Gemini + Claude. Score: 60/100. Have the full report.

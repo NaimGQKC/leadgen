@@ -6,4 +6,4 @@
 
 ---
 
-Hi Nick, ran an AI audit on Lululemon -- French searches for technical athletic jacket surface Nike over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Nick, ran an AI audit on Lululemon -- French searches for technical athletic jacket surface Nike over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

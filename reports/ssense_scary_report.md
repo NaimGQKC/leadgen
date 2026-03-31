@@ -1,6 +1,6 @@
 # AI Inference Audit: SSENSE
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 61/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** luxury designer winter coat
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quel est le meilleur manteau designer luxe hiver à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+**Query:** "Quel est le meilleur luxury designer winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Yes (#1) | Yes (#1) | Canada Goose, Mackage, Moose Knuckles |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Options: 1. Canada Goose Expedition Parka (duvet 625 cuin, Arctic-Tech, -30C, 1 150$-1 400$ CAD) chez SSENSE/Holt Renfrew. 2. Moncler Maya (90% duvet 700 cuin, nylon ripstop, 1 750$-2 200$ CAD) chez SSENSE. 3. Moose Knuckles Ballistic (625 cuin, nylon, 1 095$-1 495$ CAD) chez SSENSE. 4. Mackage Adali (625 cuin, nylon DWR, 895$-1 195$ CAD) chez SSENSE. 5. Toteme Manteau Echarpe (laine vierge/cachemire, 1 200$-1 600$ CAD) chez SSENSE. Siege social SSENSE Vieux-Port Montreal.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 4 | 5 |
-| Preservation ratio | -- | 125% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 11 | 9 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 82% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | SSENSE | SSENSE | No |
+| GPT-4o | SSENSE | SSENSE | No |
+| Gemini | SSENSE | SSENSE | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 61/100** = ~39% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

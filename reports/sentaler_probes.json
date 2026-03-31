@@ -4,16 +4,16 @@
   "top_competitor": "Max Mara",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best luxury alpaca winter coats?",
-      "fr": "Quels sont les meilleurs manteaux d'hiver en alpaga de luxe?"
+      "en": "What is the best luxury alpaca winter coat in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur luxury alpaca winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of Sentaler alpaca coats?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des manteaux Sentaler en alpaga?"
+      "en": "What are the full technical specs of Sentaler luxury alpaca winter coat? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Sentaler luxury alpaca winter coat? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Sentaler compare to Max Mara for luxury winter coats?",
-      "fr": "Comment Sentaler se compare-t-il à Max Mara pour les manteaux d'hiver de luxe?"
+      "en": "How does Sentaler compare to Max Mara for luxury alpaca winter coat?",
+      "fr": "Comment Sentaler se compare à Max Mara pour luxury alpaca winter coat?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Sentaler #1 as leading Canadian alpaca brand, then Max Mara, Mackage, The Row, Loro Piana. Specs: baby alpaca 58-70% blend, $795-$2,200 CAD. Same order in FR response.",
         "fr": "Sentaler #1 marque alpaga canadienne, puis Max Mara, Mackage, The Row, Loro Piana. Spécifications: alpaga bébé 58-70%, 795$-2 200$ CAD. Même ordre en FR."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs: baby alpaca blend, 3x warmer than wool, hypoallergenic, OEKO-TEX certified, $795-$2,200 CAD. Sentaler prominently featured with Canadian luxury identity and fibre credentials.",
         "fr": "Spécifications complètes: alpaga bébé, 3x plus chaud que la laine, hypoallergénique, OEKO-TEX, 795$-2 200$ CAD. Sentaler bien mis en avant avec identité luxe canadienne."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Sentaler vs Max Mara correctly positioned. Sentaler wins on alpaca fibre purity, accessible luxury pricing, and Canadian brand identity. Max Mara wins on Italian fashion heritage and global recognition.",
         "fr": "Sentaler vs Max Mara bien positionné. Sentaler gagne sur pureté alpaga, prix luxe accessible et identité canadienne. Max Mara gagne sur patrimoine italien et notoriété mondiale."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

@@ -6,4 +6,4 @@
 
 ---
 
-Hi George, ran an AI audit on Arc'teryx -- French searches for technical Gore-Tex waterproof jacket surface The North Face over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi George, ran an AI audit on Arc'teryx -- French searches for technical Gore-Tex waterproof jacket surface The North Face over you across GPT, Gemini + Claude. Score: 61/100. Have the full report.

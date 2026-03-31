@@ -1,6 +1,6 @@
 # AI Inference Audit: Groupe Dynamite
 
-**Inference Alignment Score: 51/100 -- YELLOW**
+**Inference Alignment Score: 42/100 -- YELLOW**
 
 **Date:** 2026-03-30
 **Category:** fast fashion coat and jacket
@@ -8,17 +8,19 @@
 
 ## How We Tested
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
 
 ---
 
 ## Finding 1: Ghosting
 
-**Query:** "Quels sont les meilleurs manteaux et vestes de mode abordables au Canada?"
+**Query:** "Quel est le meilleur fast fashion coat and jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
 
 | AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
 |-------------|-------------|-------------|----------------------|
 | Claude | Unknown (#None) | ABSENT (#None) | Zara, Dynamite |
+| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
+| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
 
 ### Claude EN response:
 
@@ -28,14 +30,30 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 
 > Dynamite #1, Zara #2, H&M #3, Aritzia #4, Simons #5. Spécifications: polyester, 60$-250$ CAD, 0C à -10C. Même ordre en FR.
 
+### GPT-4o EN response:
+
+> [OpenAI key not configured]
+
+### GPT-4o FR response:
+
+> [OpenAI key not configured]
+
+### Gemini EN response:
+
+> [Gemini key not configured]
+
+### Gemini FR response:
+
+> [Gemini key not configured]
+
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 3 | 2 |
-| Preservation ratio | -- | 67% |
+| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
+|--------|-------|-------|-------|-------|-------|-------|
+| Spec count | 5 | 4 | 0 | 0 | 0 | 0 |
+| Preservation ratio | -- | 80% | -- | unknown | -- | unknown |
 
 ---
 
@@ -44,13 +62,15 @@ Queried 1 AI platform (Claude) in EN and FR with identical prompts.
 | AI Platform | EN Recommendation | FR Recommendation | Switched? |
 |-------------|------------------|------------------|-----------|
 | Claude | Groupe Dynamite | **Zara, Dynamite** | YES |
+| GPT-4o | Groupe Dynamite | Groupe Dynamite | No |
+| Gemini | Groupe Dynamite | Groupe Dynamite | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 51/100** = ~49% of French AI queries failing or degraded
+- **IAS 42/100** = ~58% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

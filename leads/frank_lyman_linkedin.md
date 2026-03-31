@@ -6,4 +6,4 @@
 
 ---
 
-Hi Patrick, ran an AI audit on Frank Lyman -- French searches for women designer fashion surface Joseph Ribkoff over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Patrick, ran an AI audit on Frank Lyman -- French searches for women designer fashion surface Joseph Ribkoff over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

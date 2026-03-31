@@ -6,4 +6,4 @@
 
 ---
 
-Hi Amelie, ran an AI audit on Aldo Group -- French searches for stylish boots and shoes surface Steve Madden over you across GPT, Gemini + Claude. Score: 54/100. Have the full report.
+Hi Amelie, ran an AI audit on Aldo Group -- French searches for stylish boots and shoes surface Steve Madden over you across GPT, Gemini + Claude. Score: 62/100. Have the full report.

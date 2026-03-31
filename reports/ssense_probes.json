@@ -5,15 +5,15 @@
   "probes_sent": {
     "probeA_generic": {
       "en": "What is the best luxury designer winter coat in Montreal? Compare top options with technical specs and pricing.",
-      "fr": "Quel est le meilleur manteau designer luxe hiver à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+      "fr": "Quel est le meilleur luxury designer winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
       "en": "What are the full technical specs of SSENSE luxury designer winter coat? Materials, technology, pricing.",
-      "fr": "Quelles sont les spécifications techniques complètes de SSENSE manteau designer luxe hiver? Matériaux, technologie, prix."
+      "fr": "Quelles sont les spécifications techniques complètes de SSENSE luxury designer winter coat? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
       "en": "How does SSENSE compare to Farfetch for luxury designer winter coat?",
-      "fr": "Comment SSENSE se compare à Farfetch pour manteau designer luxe hiver?"
+      "fr": "Comment SSENSE se compare à Farfetch pour luxury designer winter coat?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Top options: 1. Canada Goose Expedition Parka (625-fill, Arctic-Tech, -30C, CAD $1,150-$1,400) at SSENSE/Holt Renfrew. 2. Moncler Grenoble Maya (90% down 700fp, nylon ripstop, CAD $1,750-$2,200) at SSENSE. 3. Moose Knuckles Ballistic Parka (625-fill, nylon, CAD $1,095-$1,495) at SSENSE. 4. Mackage Adali (625-fill, DWR nylon, CAD $895-$1,195) at SSENSE/Mackage. 5. Toteme Scarf Coat (virgin wool/cashmere, CAD $1,200-$1,600) at SSENSE. SSENSE headquartered in Montreal Old Port, same-day delivery.",
         "fr": "Options: 1. Canada Goose Expedition Parka (duvet 625 cuin, Arctic-Tech, -30C, 1 150$-1 400$ CAD) chez SSENSE/Holt Renfrew. 2. Moncler Maya (90% duvet 700 cuin, nylon ripstop, 1 750$-2 200$ CAD) chez SSENSE. 3. Moose Knuckles Ballistic (625 cuin, nylon, 1 095$-1 495$ CAD) chez SSENSE. 4. Mackage Adali (625 cuin, nylon DWR, 895$-1 195$ CAD) chez SSENSE. 5. Toteme Manteau Echarpe (laine vierge/cachemire, 1 200$-1 600$ CAD) chez SSENSE. Siege social SSENSE Vieux-Port Montreal."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "SSENSE is multi-brand retailer, not manufacturer. Top coats: Canada Goose Expedition (625fp duck down, Arctic-Tech 85% poly/15% nylon, DWR, TEI 5 -30C+, YKK two-way zipper, RDS certified, CAD $1,150-$1,595). Moncler Maya (90/10 down/feather 700fp, nylon ripstop, CAD $1,495-$2,800). Toteme Scarf Coat (56% wool/36% polyamide/8% cashmere, viscose lining, CAD $1,200-$1,850). Acne Studios Wool Coat (80% wool/20% polyamide, CAD $1,100-$2,200). Rick Owens (cotton canvas/wool, CAD $1,800-$5,500+). SSENSE: free shipping Canada, same-day Montreal, 30-day returns.",
         "fr": "SSENSE est detaillant multimarque de luxe. Manteaux: Canada Goose Expedition (duvet canard 625 cuin, Arctic-Tech 85% polyester/15% nylon, DWR deperlant, -30C, YKK double-sens, RDS, 1 150$-1 595$ CAD). Moncler Maya (90% duvet/10% plumes 700 cuin, nylon ripstop, 1 495$-2 800$ CAD). Toteme Manteau (56% laine vierge/36% polyamide/8% cachemire, doublure viscose, 1 200$-1 850$ CAD). Acne Studios (80% laine/20% polyamide, 1 100$-2 200$ CAD). Livraison gratuite Canada, jour meme Montreal, retours 30 jours."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "SSENSE: direct inventory model, founded 2003 Montreal, ~500+ brands, CAD pricing, Montreal same-day delivery, free shipping/returns Canada, bilingual EN/FR support, curated editorial. Winter coat brands: Canada Goose, Moncler, Mackage, Moose Knuckles, Toteme, Acne Studios, Rick Owens. Farfetch: marketplace model, founded 2007 London, 3,000+ brands from 700+ boutiques, broader ultra-luxury selection (Loro Piana, Brunello Cucinelli $5K-$30K), loyalty program. For Montreal: SSENSE wins on speed, no customs, CAD pricing, bilingual service. Farfetch wins on selection breadth.",
         "fr": "SSENSE: modele inventaire direct, fonde 2003 Montreal, 500+ marques, prix en CAD, livraison jour meme Montreal, livraison/retours gratuits Canada, support bilingue FR/EN, editorial curate. Marques manteaux: Canada Goose, Moncler, Mackage, Moose Knuckles, Toteme, Acne Studios. Farfetch: modele place de marche, fonde 2007 Londres, 3 000+ marques de 700+ boutiques, selection ultra-luxe plus large (Loro Piana, Brunello Cucinelli). Pour Montreal: SSENSE gagne sur rapidite, sans douanes, prix CAD, service bilingue. Farfetch gagne sur largeur de selection."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

@@ -4,16 +4,16 @@
   "top_competitor": "Nike",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best technical athletic jackets on the market?",
-      "fr": "Quelles sont les meilleures vestes de sport techniques sur le marché?"
+      "en": "What is the best technical athletic jacket in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur technical athletic jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of Lululemon athletic jackets?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des vestes de sport Lululemon?"
+      "en": "What are the full technical specs of Lululemon technical athletic jacket? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Lululemon technical athletic jacket? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Lululemon compare to Nike for technical athletic jackets?",
-      "fr": "Comment Lululemon se compare-t-il à Nike pour les vestes de sport techniques?"
+      "en": "How does Lululemon compare to Nike for technical athletic jacket?",
+      "fr": "Comment Lululemon se compare à Nike pour technical athletic jacket?"
     }
   },
   "responses": {
@@ -21,18 +21,42 @@
       "claude": {
         "en": "Lululemon, Nike, Arc'teryx, The North Face all listed. Specs: Luxtreme fabric, 4-way stretch, DWR finish, $148-$398 CAD. Same brand grouping in FR response.",
         "fr": "Lululemon, Nike, Arc'teryx, The North Face listés. Spécifications: tissu Luxtreme, extensible 4 voies, DWR, 148$-398$ CAD. Même regroupement de marques en FR."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs: 86% nylon/14% Lycra Luxtreme, 700fp RDS-certified down, RepelShell DWR, $148-$398 CAD, Luon/Nulux/Everlux fabric tech. Lululemon accurately featured with proprietary tech detail.",
         "fr": "Spécifications complètes: 86% nylon/14% Lycra Luxtreme, duvet 700 fils RDS, DWR RepelShell, 148$-398$ CAD, technologies Luon/Nulux/Everlux. Lululemon bien présenté."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Lululemon vs Nike correctly positioned. Lululemon wins on premium fabric quality and lifestyle appeal. Nike wins on lower entry price points, sport-specific performance, and broader waterproofing range.",
         "fr": "Lululemon vs Nike bien positionné. Lululemon gagne sur qualité des tissus et lifestyle. Nike gagne sur prix d'entrée, performance sportive spécifique et imperméabilisation."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
       }
     }
   }

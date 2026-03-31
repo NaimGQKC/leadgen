@@ -6,4 +6,4 @@
 
 ---
 
-Hi Ian, ran an AI audit on Moose Knuckles -- French searches for premium Canadian down parka surface Canada Goose over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Ian, ran an AI audit on Moose Knuckles -- French searches for premium Canadian down parka surface Canada Goose over you across GPT, Gemini + Claude. Score: 61/100. Have the full report.

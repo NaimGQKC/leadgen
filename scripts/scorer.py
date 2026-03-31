@@ -21,43 +21,135 @@ def load_probes(brand):
         return json.load(f)
 
 
+def is_valid_response(text):
+    """Check if a response is real (not placeholder or error)."""
+    if not text:
+        return False
+    if "[ERROR]" in text or "[TO BE FILLED" in text:
+        return False
+    return True
+
+
 def brand_in_text(brand, text):
-    """Check if brand appears in text (case-insensitive)."""
-    if not text or "[ERROR]" in text or "[TO BE FILLED" in text:
+    """Check if brand appears in text (case-insensitive). Handles sub-brands and variants."""
+    if not is_valid_response(text):
         return None  # Unknown
-    return brand.lower() in text.lower()
+    text_lower = text.lower()
+    brand_lower = brand.lower()
+    # Direct match
+    if brand_lower in text_lower:
+        return True
+    # Handle variants: "Arc'teryx" -> also check "arcteryx", "arc teryx"
+    brand_stripped = re.sub(r"['\-\s]", "", brand_lower)
+    text_stripped = re.sub(r"['\-\s]", "", text_lower)
+    if brand_stripped in text_stripped:
+        return True
+    # Handle "Aldo Group" -> check for just "Aldo"
+    first_word = brand_lower.split()[0] if " " in brand_lower else None
+    if first_word and len(first_word) >= 3 and first_word in text_lower:
+        return True
+    return False
 
 
 def find_brand_rank(brand, text):
     """Try to find what position/rank the brand appears at in a list."""
-    if not text or "[ERROR]" in text or "[TO BE FILLED" in text:
+    if not is_valid_response(text):
         return None
     lines = text.split("\n")
     brand_lower = brand.lower()
+    brand_stripped = re.sub(r"['\-\s]", "", brand_lower)
+    first_word = brand_lower.split()[0] if " " in brand_lower else None
+
     for i, line in enumerate(lines):
-        if brand_lower in line.lower():
-            # Check if it's in a numbered list
+        line_lower = line.lower()
+        line_stripped = re.sub(r"['\-\s]", "", line_lower)
+        found = (brand_lower in line_lower or
+                 brand_stripped in line_stripped or
+                 (first_word and len(first_word) >= 3 and first_word in line_lower))
+        if found:
             match = re.match(r'^\s*(\d+)', line)
             if match:
                 return int(match.group(1))
-            return i + 1  # Position in text
-    return None  # Not found
+            return i + 1
+    return None
 
 
 def count_specs_in_text(text):
-    """Count technical spec keywords in text."""
-    if not text or "[ERROR]" in text or "[TO BE FILLED" in text:
+    """Count technical specs using pattern matching for materials, measurements, tech names, pricing."""
+    if not is_valid_response(text):
         return 0
-    spec_words = [
-        "gore-tex", "fill power", "fill-power", "waterproof", "imperméable",
-        "seam-sealed", "coutures", "nylon", "polyester", "cashmere", "cachemire",
-        "down", "duvet", "leather", "cuir", "breathable", "respirant",
-        "windproof", "coupe-vent", "insulation", "isolation", "DWR", "YKK",
-        "ripstop", "lambskin", "agneau", "recycled", "recyclé",
-        "temperature", "température", "mm", "denier",
-    ]
+
+    count = 0
     text_lower = text.lower()
-    return sum(1 for kw in spec_words if kw in text_lower)
+
+    # Materials (EN + FR)
+    materials = [
+        r"gore[\-\s]?tex", r"nylon", r"polyester", r"cashmere", r"cachemire",
+        r"leather", r"cuir", r"lambskin", r"agneau", r"down\b", r"duvet",
+        r"ripstop", r"merino", r"alpaca", r"alpaga", r"wool", r"laine",
+        r"silk", r"soie", r"cotton", r"coton", r"canvas", r"toile",
+        r"suede", r"daim", r"rubber", r"caoutchouc", r"eva\b", r"tpr\b",
+        r"pu\b", r"kevlar", r"cordura", r"pertex", r"primaloft",
+        r"thinsulate", r"polartec", r"lycra", r"spandex", r"elastane",
+        r"satin", r"velour", r"velvet", r"fleece", r"textile",
+    ]
+    for pat in materials:
+        if re.search(pat, text_lower):
+            count += 1
+
+    # Measurements: weight (g/kg), length (mm/cm), denier (D), volume (cc/L), power (hp/ch)
+    if re.search(r'\d+\s*g\b', text_lower):
+        count += 1
+    if re.search(r'\d+\s*mm\b', text_lower):
+        count += 1
+    if re.search(r'\d+\s*d\b', text_lower):  # denier
+        count += 1
+    if re.search(r'\d+\s*cc\b', text_lower):
+        count += 1
+    if re.search(r'\d+\s*(hp|ch|chevaux)\b', text_lower):
+        count += 1
+    if re.search(r'\d+\s*kg\b', text_lower):
+        count += 1
+    if re.search(r'\d+\s*cm\b', text_lower):
+        count += 1
+    if re.search(r'fill[\-\s]?power', text_lower):
+        count += 1
+    if re.search(r'ret\s*[<>]\s*\d', text_lower):
+        count += 1
+    if re.search(r'hydrostatic|colonne\s+d.eau', text_lower):
+        count += 1
+
+    # Pricing ($ or CAD or prix)
+    if re.search(r'[\$]\s*\d+|\d+\s*\$|\d+\s*cad\b', text_lower):
+        count += 1
+
+    # Technology names (brand-specific)
+    tech_names = [
+        r"stormhood", r"futurelight", r"e[\-\s]?tec", r"rotax",
+        r"dwr\b", r"bluesign", r"recco", r"ykk", r"vislon",
+        r"watertight", r"thermoscell[eé]", r"seam[\-\s]?tape", r"seam[\-\s]?seal",
+        r"coutures?\s+(thermo)?scell[eé]", r"n[\-\s]?fuse",
+        r"waterproof", r"imperm[eé]able", r"breathable", r"respirant",
+        r"windproof", r"coupe[\-\s]?vent", r"insulation", r"isolation",
+        r"earthkind", r"h2no", r"omni[\-\s]?heat", r"omni[\-\s]?tech",
+        r"windstopper", r"solartex", r"hyvent", r"goretex",
+    ]
+    for pat in tech_names:
+        if re.search(pat, text_lower):
+            count += 1
+
+    # Construction terms
+    construction = [
+        r"recycl[eé]", r"recycled", r"pit\s*zip", r"a[eé]ration",
+        r"helmet[\-\s]?compatible", r"compatible\s+casque",
+        r"harness[\-\s]?compatible", r"compatible\s+baudrier",
+        r"velcro", r"snap", r"zipper", r"fermeture",
+    ]
+    for pat in construction:
+        if re.search(pat, text_lower):
+            count += 1
+
+    return count
 
 
 def extract_competitors(text, brand):
@@ -73,11 +165,28 @@ def extract_competitors(text, brand):
         "Farfetch", "Polaris", "Blue Man Group",
         "BRP", "Bombardier", "Cirque du Soleil", "Garage",
     ]
-    if not text or "[ERROR]" in text or "[TO BE FILLED" in text:
+    if not is_valid_response(text):
         return []
     text_lower = text.lower()
     brand_lower = brand.lower()
-    return [b for b in known_brands if b.lower() in text_lower and b.lower() != brand_lower]
+    brand_first = brand_lower.split()[0] if " " in brand_lower else brand_lower
+    results = []
+    for b in known_brands:
+        b_lower = b.lower()
+        b_first = b_lower.split()[0] if " " in b_lower else b_lower
+        # Skip if it's the brand itself
+        if b_lower == brand_lower or b_first == brand_first:
+            continue
+        if b_lower in text_lower:
+            results.append(b)
+    return results
+
+
+def detect_pricing(text):
+    """Check if pricing info is present in text."""
+    if not is_valid_response(text):
+        return False
+    return bool(re.search(r'[\$]\s*\d+|\d+\s*\$|\d+\s*cad\b|\d+\s*€', text.lower()))
 
 
 def score_brand(brand, probes_data):
@@ -136,25 +245,26 @@ def score_brand(brand, probes_data):
 
         # +20: All technical specs preserved in FR
         if en_specs > 0:
-            ratio = fr_specs / en_specs if en_specs > 0 else 0
+            ratio = fr_specs / en_specs
             spec_score = min(20, int(ratio * 20))
             score += spec_score
             details["spec_ratio"] = round(ratio, 2)
+        elif fr_specs > 0:
+            # FR has specs but EN somehow didn't match -- still give credit
+            score += 15
+            details["spec_ratio"] = "fr_only"
         else:
             score += 10  # Unknown
             details["spec_ratio"] = "unknown"
         details["en_spec_count"] = en_specs
         details["fr_spec_count"] = fr_specs
 
-        # Probe C: Competitive displacement
-        probe_c = responses.get("probeC_competitive", {}).get(llm_name, {})
-        en_c = probe_c.get("en", "")
-        fr_c = probe_c.get("fr", "")
-
         # +15: No competitor hijacking in FR
-        en_comps = extract_competitors(fr_a, brand)
+        # Hijacking = competitor appears in FR generic AND brand does NOT appear
         fr_comps_in_generic = extract_competitors(fr_a, brand)
-        hijack_detected = fr_present is False and len(fr_comps_in_generic) > 0
+        en_comps_in_generic = extract_competitors(en_a, brand)
+        # Only flag hijacking if brand is ABSENT in FR but competitors are present
+        hijack_detected = (fr_present is False and len(fr_comps_in_generic) > 0)
         if not hijack_detected:
             score += 15
             details["hijacking"] = False
@@ -162,28 +272,42 @@ def score_brand(brand, probes_data):
             details["hijacking"] = True
             details["hijacked_by"] = fr_comps_in_generic[:3]
 
-        # +15: Pricing accurate in FR (basic check)
-        # If both probe B responses have similar price mentions, it's a pass
-        if en_specs > 0 and fr_specs > 0:
+        # +15: Pricing accurate in FR
+        en_has_price = detect_pricing(en_b)
+        fr_has_price = detect_pricing(fr_b)
+        if en_has_price and fr_has_price:
             score += 15
-            details["pricing_check"] = "specs_present"
-        elif en_specs == 0 and fr_specs == 0:
-            score += 8
-            details["pricing_check"] = "unknown"
+            details["pricing_check"] = "both_present"
+        elif not en_has_price and not fr_has_price:
+            score += 8  # Unknown / N/A category
+            details["pricing_check"] = "none"
+        elif fr_has_price and not en_has_price:
+            score += 15  # FR actually has more info
+            details["pricing_check"] = "fr_only"
         else:
-            details["pricing_check"] = "mismatch"
+            score += 5  # EN has price, FR doesn't -- mild penalty
+            details["pricing_check"] = "en_only"
 
-        details["competitors_in_fr_generic"] = extract_competitors(fr_a, brand)[:5]
-        details["ghosted"] = fr_present is False
+        details["competitors_in_fr_generic"] = fr_comps_in_generic[:5]
+        details["competitors_in_en_generic"] = en_comps_in_generic[:5]
+        # Ghosting: brand absent in FR generic. Case-insensitive full-text check already done above.
+        details["ghosted"] = (fr_present is False)
         llm_scores[llm_name] = {"score": min(100, score), "details": details}
 
-    # Average across available LLMs (skip unknowns with placeholder text)
-    valid_scores = [v["score"] for k, v in llm_scores.items()
-                    if not all("[TO BE FILLED" in str(responses.get(p, {}).get(k, {}).get("en", ""))
-                              for p in ["probeA_generic", "probeB_accuracy", "probeC_competitive"])]
+    # Average across available LLMs (skip those with all placeholder text)
+    valid_scores = []
+    for k, v in llm_scores.items():
+        # Check if this LLM has any real responses
+        has_real = False
+        for probe_key in ["probeA_generic", "probeB_accuracy", "probeC_competitive"]:
+            llm_resp = responses.get(probe_key, {}).get(k, {})
+            if is_valid_response(llm_resp.get("en", "")) or is_valid_response(llm_resp.get("fr", "")):
+                has_real = True
+                break
+        if has_real:
+            valid_scores.append(v["score"])
 
     if not valid_scores:
-        # All are placeholders, use claude score anyway
         valid_scores = [llm_scores.get("claude", {}).get("score", 0)]
 
     avg_score = round(sum(valid_scores) / len(valid_scores)) if valid_scores else 0
