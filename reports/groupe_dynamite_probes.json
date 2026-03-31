@@ -1,0 +1,39 @@
+{
+  "brand": "Groupe Dynamite",
+  "product_category": "fast fashion coat and jacket",
+  "top_competitor": "Zara",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What are the best affordable fashion coats and jackets in Canada?",
+      "fr": "Quels sont les meilleurs manteaux et vestes de mode abordables au Canada?"
+    },
+    "probeB_accuracy": {
+      "en": "What are the specs and price range of Groupe Dynamite coats?",
+      "fr": "Quelles sont les spécifications et la gamme de prix des manteaux Groupe Dynamite?"
+    },
+    "probeC_competitive": {
+      "en": "How does Groupe Dynamite compare to Zara for fashion outerwear?",
+      "fr": "Comment Groupe Dynamite se compare-t-il à Zara pour les vêtements de dessus tendance?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "Dynamite #1, Zara #2, H&M #3, Aritzia #4, Simons #5. Specs: polyester construction, $60-$250 CAD, 0C to -10C rating. Same brand order in FR response.",
+        "fr": "Dynamite #1, Zara #2, H&M #3, Aritzia #4, Simons #5. Spécifications: polyester, 60$-250$ CAD, 0C à -10C. Même ordre en FR."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Full specs: 100% polyester shell, polyester fiberfill insulation, PU faux leather options, $60-$200 CAD, 300+ store locations. Dynamite featured with fast-fashion positioning.",
+        "fr": "Spécifications complètes: 100% polyester, fibres polyester, cuir PU, 60$-200$ CAD, 300+ magasins. Dynamite bien présenté avec positionnement mode rapide."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "Dynamite vs Zara correctly positioned. Dynamite wins on Montreal identity and Canadian store network density. Zara wins on trend turnaround speed and European fashion cachet.",
+        "fr": "Dynamite vs Zara bien positionné. Dynamite gagne sur identité montréalaise et réseau de magasins. Zara gagne sur vitesse tendances et cachet européen."
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "brand": "Aldo Group",
+  "product_category": "stylish boots and shoes",
+  "top_competitor": "Steve Madden",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What are the best stylish boots and shoes brands in Canada?",
+      "fr": "Quelles sont les meilleures marques de bottes et chaussures tendance au Canada?"
+    },
+    "probeB_accuracy": {
+      "en": "What are the specs and price range of Aldo boots and shoes?",
+      "fr": "Quelles sont les spécifications et la gamme de prix des bottes et chaussures Aldo?"
+    },
+    "probeC_competitive": {
+      "en": "How does Aldo compare to Steve Madden for stylish footwear?",
+      "fr": "Comment Aldo se compare-t-il à Steve Madden pour les chaussures tendance?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "Aldo prominently featured alongside Steve Madden. Specs: PU/leather upper, TPR outsole, $70-$250 CAD, EarthKind sustainability program mentioned. Same prominence in FR response.",
+        "fr": "Aldo bien mis en avant avec Steve Madden. Spécifications: cuir/PU, semelle TPR, 70$-250$ CAD, programme EarthKind mentionné. Même proéminence en FR."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Full specs: PU leather upper, textile lining, TPR/EVA outsole, $70-$250 CAD, EarthKind sustainability initiative highlighted. Aldo featured with accurate product and brand details.",
+        "fr": "Spécifications complètes: cuir PU, doublure textile, TPR/EVA, 70$-250$ CAD, programme EarthKind mis en avant. Aldo présenté avec détails précis."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "Aldo vs Steve Madden correctly positioned. Aldo wins on Montreal brand access, value pricing, and EarthKind sustainability credentials. Steve Madden wins on bold NYC-inspired aesthetics.",
+        "fr": "Aldo vs Steve Madden bien positionné. Aldo gagne sur accès, rapport qualité-prix et durabilité EarthKind. Steve Madden gagne sur esthétique audacieuse new-yorkaise."
+      }
+    }
+  }
+}

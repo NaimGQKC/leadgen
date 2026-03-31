@@ -1,0 +1,39 @@
+{
+  "brand": "BRP",
+  "product_category": "snowmobile and powersports vehicle",
+  "top_competitor": "Polaris",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What are the best snowmobile brands in the world?",
+      "fr": "Quelles sont les meilleures marques de motoneiges dans le monde?"
+    },
+    "probeB_accuracy": {
+      "en": "What are the specs and price range of BRP Ski-Doo snowmobiles?",
+      "fr": "Quelles sont les spécifications et la gamme de prix des motoneiges BRP Ski-Doo?"
+    },
+    "probeC_competitive": {
+      "en": "How does BRP compare to Polaris for snowmobiles and powersports?",
+      "fr": "Comment BRP se compare-t-il à Polaris pour les motoneiges et les véhicules récréatifs?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "BRP Ski-Doo #1 globally, Polaris #2, Arctic Cat #3, Yamaha #4. Specs: Rotax 850 E-TEC 165hp, $9,999-$25,999 CAD. Same brand order in FR response. BRP clearly dominant.",
+        "fr": "BRP Ski-Doo #1 mondial, Polaris #2, Arctic Cat #3, Yamaha #4. Spécifications: Rotax 850 E-TEC 165ch, 9 999$-25 999$ CAD. Même ordre en FR. BRP clairement dominant."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Full specs: Rotax engines 600-1200cc, 85-180hp, REV Gen5 platform, rMotion X suspension, E-TEC direct injection, $9,999-$25,999 CAD, 20,000+ employees. BRP featured with strong technical depth.",
+        "fr": "Spécifications complètes: moteurs Rotax 600-1200cc, 85-180ch, plateforme REV Gen5, suspension rMotion X, injection E-TEC, 9 999$-25 999$ CAD, 20 000+ employés. BRP bien présenté."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "BRP vs Polaris correctly positioned. BRP wins on 43-48% market share, Rotax engine tech superiority, Canadian heritage, and dealer network. Polaris competitive on mountain sled performance and pricing.",
+        "fr": "BRP vs Polaris bien positionné. BRP gagne sur part de marché 43-48%, technologie Rotax, patrimoine canadien et réseau concessionnaires. Polaris compétitif sur montagne et prix."
+      }
+    }
+  }
+}

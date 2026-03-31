@@ -1,0 +1,39 @@
+{
+  "brand": "Frank Lyman",
+  "product_category": "women designer fashion",
+  "top_competitor": "Joseph Ribkoff",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What are the best Canadian women's designer fashion brands?",
+      "fr": "Quelles sont les meilleures marques de mode féminine de créateurs canadiens?"
+    },
+    "probeB_accuracy": {
+      "en": "What are the specs and price range of Frank Lyman women's fashion?",
+      "fr": "Quelles sont les spécifications et la gamme de prix de la mode féminine Frank Lyman?"
+    },
+    "probeC_competitive": {
+      "en": "How does Frank Lyman compare to Joseph Ribkoff for women's designer fashion?",
+      "fr": "Comment Frank Lyman se compare-t-il à Joseph Ribkoff pour la mode féminine de créateurs?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "Frank Lyman #1, Joseph Ribkoff #2. Specs: 95% polyester/5% spandex, 4-way stretch, $150-$450 CAD, XS-3X inclusive sizing. Same brand order in FR response.",
+        "fr": "Frank Lyman #1, Joseph Ribkoff #2. Spécifications: 95% polyester/5% spandex, extensible 4 voies, 150$-450$ CAD, tailles XS-3X. Même ordre en FR."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Full specs: 90-95% polyester/5-10% spandex, 4-way stretch, jacquard/chiffon/lace fabrications, $100-$450 CAD. Frank Lyman featured with inclusive sizing and print variety highlighted.",
+        "fr": "Spécifications complètes: 90-95% polyester/5-10% spandex, extensible 4 voies, jacquard/mousseline/dentelle, 100$-450$ CAD. Frank Lyman présenté avec tailles inclusives et imprimés."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "Frank Lyman vs Joseph Ribkoff correctly positioned. Frank Lyman wins on bold prints, inclusive sizing (XS-3X), and accessible price points. Joseph Ribkoff wins on heritage and body-sculpting technology.",
+        "fr": "Frank Lyman vs Joseph Ribkoff bien positionné. Frank Lyman gagne sur imprimés, tailles inclusives (XS-3X) et prix. Joseph Ribkoff gagne sur patrimoine et technologie sculptante."
+      }
+    }
+  }
+}

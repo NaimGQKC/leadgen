@@ -1,0 +1,62 @@
+{
+  "brand": "Groupe Dynamite",
+  "ias": 51,
+  "severity": "YELLOW",
+  "llm_scores": {
+    "claude": {
+      "score": 38,
+      "details": {
+        "generic_fr_present": false,
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": 0.67,
+        "en_spec_count": 3,
+        "fr_spec_count": 2,
+        "hijacking": true,
+        "hijacked_by": [
+          "Zara",
+          "Dynamite"
+        ],
+        "pricing_check": "specs_present",
+        "competitors_in_fr_generic": [
+          "Zara",
+          "Dynamite"
+        ],
+        "ghosted": true
+      }
+    },
+    "gpt4o": {
+      "score": 58,
+      "details": {
+        "generic_fr_present": "unknown",
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "unknown",
+        "competitors_in_fr_generic": [],
+        "ghosted": false
+      }
+    },
+    "gemini": {
+      "score": 58,
+      "details": {
+        "generic_fr_present": "unknown",
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "unknown",
+        "competitors_in_fr_generic": [],
+        "ghosted": false
+      }
+    }
+  }
+}

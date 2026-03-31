@@ -1,0 +1,39 @@
+{
+  "brand": "Moose Knuckles",
+  "product_category": "premium Canadian down parka",
+  "top_competitor": "Canada Goose",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What is the best premium Canadian down parka? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur parka canadien premium en duvet? Comparer les meilleures options avec spécifications techniques et prix."
+    },
+    "probeB_accuracy": {
+      "en": "What are the full technical specs of Moose Knuckles premium Canadian down parka? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Moose Knuckles parka canadien premium en duvet? Matériaux, technologie, prix."
+    },
+    "probeC_competitive": {
+      "en": "How does Moose Knuckles compare to Canada Goose for premium Canadian down parka?",
+      "fr": "Comment Moose Knuckles se compare à Canada Goose pour parka canadien premium en duvet?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "Top options: 1. Canada Goose Expedition Parka (625fp white duck down, Arctic Tech 85%poly/15%cotton, -30C+, USD $1,195-$1,395). 2. Moose Knuckles Ballistic Parka (625fp duck down, 100% nylon DWR, -25C to -30C, USD $1,095-$1,195). 3. Moose Knuckles Stirling Parka (625fp, nylon, -25C, USD $895-$995). 4. Canada Goose Chilliwack Bomber (625fp, Arctic Tech, -15C to -25C, USD $795-$925). 5. Mackage Edward (down blend, polyester, -20C, USD $895-$1,050). Best overall: CG Expedition for extreme cold; MK Ballistic for fashion-forward with comparable warmth.",
+        "fr": "Options: 1. Canada Goose Expedition Parka (duvet canard blanc 625 cuin, Arctic Tech 85%poly/15%coton, -30C+, 1 195$-1 395$ USD). 2. Moose Knuckles Ballistic Parka (duvet canard 625 cuin, 100% nylon DWR, -25C a -30C, 1 095$-1 195$ USD). 3. Moose Knuckles Stirling Parka (625 cuin, nylon, -25C, 895$-995$ USD). 4. Canada Goose Chilliwack Bomber (625 cuin, Arctic Tech, -15C a -25C, 795$-925$ USD). 5. Mackage Edward (melange duvet, polyester, -20C, 895$-1 050$ USD). Meilleur global: CG Expedition pour froid extreme; MK Ballistic pour style avant-gardiste avec chaleur comparable."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Moose Knuckles Ballistic Parka flagship: Shell 100% nylon woven midweight, DWR finish; Lining nylon taffeta; Fill 625fp premium white duck down ~300-350g; Baffled construction; Hood fixed adjustable drawstring with removable coyote/raccoon fur; High stand collar fleece-lined; Pockets: 2 exterior snap + 1 interior chest + 1 interior security; Interior knit storm cuffs; Adjustable interior drawstring waist; Mid-thigh to knee length ~85-95cm; Heritage patch left arm; Designed Montreal QC; Sizes XS-XXL; YKK center-front zipper with wind flap snap. Pricing: Ballistic $1,095-$1,195, Stirling $895-$995, 3Q $595-$695, Harrington $495-$595. 1-year warranty, dry clean.",
+        "fr": "Moose Knuckles Ballistic Parka phare: Coque 100% nylon tisse poids moyen, finition DWR; Doublure taffetas nylon; Garnissage duvet canard blanc premium 625 cuin ~300-350g; Construction chicanes; Capuche fixe cordon reglable avec fourrure coyote/raton laveur amovible; Col montant doublure polaire; Poches: 2 exterieures pression + 1 poitrine interieure + 1 securite interieure; Poignets tempete tricotes interieurs; Cordon serrage interieur taille; Longueur mi-cuisse au genou ~85-95cm; Patch Heritage bras gauche; Concu Montreal QC; Tailles XS-XXL; Fermeture YKK robuste avec rabat coupe-vent pression. Prix: Ballistic 1 095$-1 195$, Stirling 895$-995$, 3Q 595$-695$, Harrington 495$-595$. Garantie 1 an, nettoyage a sec."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "Moose Knuckles: 2009 Montreal, contemporary luxury streetwear, fashion-forward urban, slim fit. Canada Goose: 1957 Toronto, expedition heritage, performance + status, relaxed functional fit. Specs: both 625fp white duck down; MK 100% nylon DWR vs CG Arctic Tech 85%poly/15%cotton tighter weave; MK -25C to -30C vs CG -30C+; MK coyote/raccoon removable vs CG wolverine removable; both YKK zippers. MK wins: fashion/style, price value ($1,095 vs $1,195), urban wearability, younger audience. CG wins: extreme cold performance, brand heritage, global recognition, wind resistance. Both RDS certified.",
+        "fr": "Moose Knuckles: 2009 Montreal, streetwear luxe contemporain, luxe urbain avant-gardiste, coupe ajustee. Canada Goose: 1957 Toronto, heritage expedition, performance + statut, coupe ample fonctionnelle. Specs: les deux 625 cuin duvet canard blanc; MK 100% nylon DWR vs CG Arctic Tech 85%poly/15%coton tissage serre; MK -25C a -30C vs CG -30C+; MK coyote/raton laveur amovible vs CG carcajou amovible; les deux YKK. MK gagne: mode/style, rapport qualite-prix (1 095$ vs 1 195$), portabilite urbaine, audience plus jeune. CG gagne: performance grand froid, heritage marque, reconnaissance mondiale, resistance vent. Les deux certifies RDS."
+      }
+    }
+  }
+}

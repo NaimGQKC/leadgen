@@ -1,0 +1,39 @@
+{
+  "brand": "Mackage",
+  "product_category": "luxury winter down coat",
+  "top_competitor": "Canada Goose",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What is the best luxury winter down coat in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur manteau hiver duvet luxe à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+    },
+    "probeB_accuracy": {
+      "en": "What are the full technical specs of Mackage luxury winter down coat? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Mackage manteau hiver duvet luxe? Matériaux, technologie, prix."
+    },
+    "probeC_competitive": {
+      "en": "How does Mackage compare to Canada Goose for luxury winter down coat?",
+      "fr": "Comment Mackage se compare à Canada Goose pour manteau hiver duvet luxe?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "Top options: 1. Mackage (Eddie, Elodie, Kent, Adali; 650-800fp duck/goose down; nylon/polyester/leather DWR; -30C; CAD $800-$2,200; Montreal-founded). 2. Canada Goose (Expedition, Langford, Mystique; 625-800fp; Arctic-Tech; TEI 3-5 -30C to -40C; CAD $900-$1,950). 3. Moose Knuckles (Stirling, Ballistic; 625fp; nylon; -25C; CAD $750-$1,400). 4. Nobis (Yatesy, Talia; 800fp RDS; -30C; CAD $600-$1,100). Mackage leads for urban style with warmth; Canada Goose for extreme performance.",
+        "fr": "Options: 1. Mackage (Eddie, Elodie, Kent, Adali; 650-800 power duvet canard/oie; nylon/polyester/cuir DWR; -30C; 800-2 200$ CAD; fondee a Montreal). 2. Canada Goose (Expedition, Langford, Mystique; 625-800 power; Arctic-Tech; TEI 3-5 -30C a -40C; 900-1 950$ CAD). 3. Moose Knuckles (Stirling, Ballistic; 625 power; nylon; -25C; 750-1 400$ CAD). 4. Nobis (Yatesy, Talia; 800 power RDS; -30C; 600-1 100$ CAD). Mackage domine pour le style urbain avec chaleur; Canada Goose pour la performance extreme."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Mackage founded Montreal 1999. Materials: Shell 100% nylon/polyester/leather (Nappa lambskin); Lining polyester taffeta; Fill 650-800fp duck/goose down RDS; Hardware YKK VISLON; DWR coating; Coyote/rabbit fur removable. Construction: sewn-through and box-baffle quilting, storm flap, ribbed inner cuffs + adjustable outer, strategic baffling. Models: Eddie (750fp, $1,250-$1,450), Kent (700fp, $950-$1,100), Elodie (750fp, $1,350-$1,650), Adali (800fp, $900-$1,100). Sizing XS-XXL European slim cut. Sustainability: RDS down, bluesign fabrics, LWG leather. 1-year warranty, lifetime repair.",
+        "fr": "Mackage fondee Montreal 1999. Materiaux: Coquille 100% nylon/polyester/cuir (Nappa agneau pleine fleur); Doublure taffetas polyester; Garnissage 650-800 power duvet canard/oie RDS; Quincaillerie YKK VISLON; Revetement DWR deperlant; Fourrure coyote/lapin amovible. Construction: piqure traversante et matelassage box-baffle, rabat tempete, poignets interieurs coteles + exterieurs ajustables. Modeles: Eddie (750 power, 1 250-1 450$), Kent (700 power, 950-1 100$), Elodie (750 power, 1 350-1 650$), Adali (800 power, 900-1 100$). Tailles XS-XXL coupe slim europeenne. Durabilite: RDS, bluesign, LWG. Garantie 1 an, reparation a vie."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "Mackage: 1999 Montreal, fashion-forward luxury, European style + NA cold engineering, Italian fabrics. Canada Goose: 1957 Toronto, performance-driven luxury, Arctic expedition heritage. Specs: Mackage 650-800fp vs CG 625-800fp; Mackage nylon/polyester/leather vs CG Arctic-Tech 85%poly/15%cotton; Mackage -30C vs CG -40C (Expedition); Mackage no TEI system vs CG TEI 1-5. Mackage wins: style/refinement, urban luxury, breathability, office-to-dinner. CG wins: extreme cold -35C+, brand heritage, wind resistance, TEI transparency. Pricing comparable: Mackage $800-$2,200 vs CG $900-$1,950.",
+        "fr": "Mackage: 1999 Montreal, luxe mode avant-gardiste, style europeen + ingenierie froid NA, tissus italiens. Canada Goose: 1957 Toronto, luxe performance, heritage expedition arctique. Specs: Mackage 650-800 power vs CG 625-800 power; Mackage nylon/polyester/cuir vs CG Arctic-Tech 85%poly/15%coton; Mackage -30C vs CG -40C (Expedition); Mackage sans systeme TEI vs CG TEI 1-5. Mackage gagne: style/raffinement, luxe urbain, respirabilite, bureau-au-restaurant. CG gagne: froid extreme -35C+, heritage marque, resistance vent, transparence TEI. Prix comparables: Mackage 800-2 200$ vs CG 900-1 950$."
+      }
+    }
+  }
+}

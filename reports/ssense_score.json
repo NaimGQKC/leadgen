@@ -1,0 +1,60 @@
+{
+  "brand": "SSENSE",
+  "ias": 72,
+  "severity": "GREEN",
+  "llm_scores": {
+    "claude": {
+      "score": 100,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": true,
+        "en_rank": 1,
+        "fr_rank": 1,
+        "spec_ratio": 1.25,
+        "en_spec_count": 4,
+        "fr_spec_count": 5,
+        "hijacking": false,
+        "pricing_check": "specs_present",
+        "competitors_in_fr_generic": [
+          "Canada Goose",
+          "Mackage",
+          "Moose Knuckles",
+          "Moncler"
+        ],
+        "ghosted": false
+      }
+    },
+    "gpt4o": {
+      "score": 58,
+      "details": {
+        "generic_fr_present": "unknown",
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "unknown",
+        "competitors_in_fr_generic": [],
+        "ghosted": false
+      }
+    },
+    "gemini": {
+      "score": 58,
+      "details": {
+        "generic_fr_present": "unknown",
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "unknown",
+        "competitors_in_fr_generic": [],
+        "ghosted": false
+      }
+    }
+  }
+}

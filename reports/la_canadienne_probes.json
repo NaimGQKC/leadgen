@@ -1,0 +1,39 @@
+{
+  "brand": "La Canadienne",
+  "product_category": "waterproof winter boots",
+  "top_competitor": "Blundstone",
+  "probes_sent": {
+    "probeA_generic": {
+      "en": "What are the best waterproof winter boots in Canada?",
+      "fr": "Quelles sont les meilleures bottes d'hiver imperméables au Canada?"
+    },
+    "probeB_accuracy": {
+      "en": "What are the specs and price range of La Canadienne winter boots?",
+      "fr": "Quelles sont les spécifications et la gamme de prix des bottes La Canadienne?"
+    },
+    "probeC_competitive": {
+      "en": "How does La Canadienne compare to Blundstone for waterproof winter boots?",
+      "fr": "Comment La Canadienne se compare-t-il à Blundstone pour les bottes d'hiver imperméables?"
+    }
+  },
+  "responses": {
+    "probeA_generic": {
+      "claude": {
+        "en": "La Canadienne #1, Blundstone, Sorel, Hunter also listed. Specs: seam-sealed waterproof leather, -20C to -30C rating, $350-$650 CAD. Same brand order in FR response.",
+        "fr": "La Canadienne #1, Blundstone, Sorel, Hunter aussi listés. Spécifications: cuir imperméable coutures scellées, -20C à -30C, 350$-650$ CAD. Même ordre en FR."
+      }
+    },
+    "probeB_accuracy": {
+      "claude": {
+        "en": "Full specs: full-grain waterproof leather, seam-sealed construction, EVA midsole, rubber lug outsole, -20C to -30C, $350-$650 CAD, made in Canada, PFAS-free post-2022. Strong accuracy.",
+        "fr": "Spécifications complètes: cuir pleine fleur imperméable, coutures scellées, EVA, semelle lug caoutchouc, -20C à -30C, 350$-650$ CAD, fabriqué au Canada, sans PFAS. Très précis."
+      }
+    },
+    "probeC_competitive": {
+      "claude": {
+        "en": "La Canadienne vs Blundstone correctly positioned. La Canadienne wins on waterproofing depth, cold insulation, and refined winter style. Blundstone wins on durability and overall value pricing.",
+        "fr": "La Canadienne vs Blundstone bien positionné. La Canadienne gagne sur imperméabilisation, isolation et style hivernal. Blundstone gagne sur durabilité et rapport qualité-prix."
+      }
+    }
+  }
+}
