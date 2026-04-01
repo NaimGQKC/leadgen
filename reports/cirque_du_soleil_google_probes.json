@@ -1,0 +1,72 @@
+{
+  "brand": "Cirque du Soleil",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best live entertainment show in Montreal compare top options with specs and pricing",
+      "fr": "meilleur live entertainment show Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Cirque du Soleil live entertainment show full technical specs materials technology pricing",
+      "fr": "Cirque du Soleil live entertainment show specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Cirque du Soleil vs Blue Man Group live entertainment show comparison",
+      "fr": "Cirque du Soleil vs Blue Man Group live entertainment show comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

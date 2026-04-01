@@ -1,6 +1,6 @@
 {
   "brand": "Moose Knuckles",
-  "ias": 61,
+  "ias": 64,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
@@ -58,6 +58,32 @@
         "competitors_in_fr_generic": [],
         "competitors_in_en_generic": [],
         "ghosted": true
+      }
+    },
+    "google": {
+      "score": 70,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": false,
+        "en_rank": null,
+        "fr_rank": 14,
+        "spec_ratio": 0.5,
+        "en_spec_count": 12,
+        "fr_spec_count": 6,
+        "hijacking": false,
+        "pricing_check": "both_present",
+        "competitors_in_fr_generic": [
+          "Canada Goose",
+          "Mackage",
+          "La Canadienne"
+        ],
+        "competitors_in_en_generic": [
+          "Canada Goose",
+          "Mackage",
+          "Kanuk",
+          "Quartz Co"
+        ],
+        "ghosted": false
       }
     }
   }

@@ -1,8 +1,8 @@
 # LinkedIn: SSENSE
 
 **To:** Haein Dorin (Global Head of Marketing)
-**Chars:** 178/280
+**Chars:** 147/280
 
 ---
 
-Hi Haein, ran an AI audit on SSENSE -- French searches for luxury designer winter coat surface Farfetch over you across GPT, Gemini + Claude. Score: 61/100. Have the full report.
+Hi Haein, ran an AI audit on SSENSE -- French searches for luxury designer winter coat surface Farfetch over you. Score: 60/100. Full report ready.

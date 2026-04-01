@@ -2,68 +2,79 @@
 
 **Inference Alignment Score: 60/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** luxury women winter coat
-**Top Competitor:** Mackage
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quel est le meilleur luxury women winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Canada Goose, Mackage, Moose Knuckles |
-| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
-| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
-
-### Claude EN response:
-
-> Nicole Benisti #1, Mackage #2, Canada Goose #3, Moose Knuckles #4. Specs: 600-700fp, Nappa leather trim, -30C rating, $1,200-$2,800 CAD. Same order in FR response.
-
-### Claude FR response:
-
-> Nicole Benisti #1, Mackage #2, Canada Goose #3, Moose Knuckles #4. Spécifications: 600-700fp, cuir Nappa, -30C, 1 200$-2 800$ CAD. Même ordre en FR.
-
-### GPT-4o EN response:
-
-> [OpenAI key not configured]
-
-### GPT-4o FR response:
-
-> [OpenAI key not configured]
-
-### Gemini EN response:
-
-> [Gemini key not configured]
-
-### Gemini FR response:
-
-> [Gemini key not configured]
+French queries tested:
+1. "manteau d'hiver pour femme haut de gamme Montréal"
+2. "meilleur manteau chic pour femme à Montréal"
+3. "manteau de luxe femme pour l'hiver québécois"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
-|--------|-------|-------|-------|-------|-------|-------|
-| Spec count | 3 | 2 | 0 | 0 | 0 | 0 |
-| Preservation ratio | -- | 67% | -- | unknown | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Nicole Benisti | Nicole Benisti | No |
-| GPT-4o | Nicole Benisti | Nicole Benisti | No |
-| Gemini | Nicole Benisti | Nicole Benisti | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Canada Goose | present | present | No |
+| Mackage | present | present | No |
+| Moose Knuckles | present | present | No |
+
+---
+
+## Bonus: Google AI Mode (Live Search)
+
+Results captured via live Chromium browser with Montreal geolocation.
+
+### Generic Discovery
+
+**Google EN** (ai_mode_fallback):
+> AI Mode
+> All
+> Images
+> Videos
+> News
+> More
+> Sign in
+> Search Results
+> best luxury women winter coat in Montreal compare top options with specs and pricing
+> For a Montreal winter, where temperatures frequently drop to 
+> -20
+> ∘
+> C
+> −
+> 2
+> 0
+> ∘
+> C
+>  or lower, a luxury coat must balance high-fill-power down with windproof and waterproof shells. Local brands like Mackage, Kanuk, and Quartz Co. are highly recommended as they are specifically engineered for the city's damp, biting cold. 
+> Top Luxury Winter Coat Comparison (2026)
+> Brand & Model 	Best For	Temperature Rating	Key Specs	Price (CAD)
+> Mackage Adali-BX	Chic Urban St
+> Sources: https://www.altitude-sports.com/blog/mackage-coats-for-winter-warmth#:~:text=Mackage%20coats%20and%20jackets%20help%20make%20your,sense%20of%20style%E2%80%94urban%2C%20sleek%20and%20thoroughly%20modern., https://www.holtrenfrew.com/p/20001201007, https://www.sail.ca/blog/canadian-winter-jacket-brands/, https://nobis.com/products/she-ra-womens-parka-andawp9qjz-resale?variant=46465832583343&geolizr_redirect=off, https://www.sail.ca/blog/canadian-winter-jacket-brands/#:~:text=Extreme%20cold%20protection:%20Kanuk%20winter,in%20the%20most%20unforgiving%20conditions.
 
 ---
 

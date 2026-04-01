@@ -1,0 +1,72 @@
+{
+  "brand": "La Canadienne",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best waterproof winter boots in Montreal compare top options with specs and pricing",
+      "fr": "meilleur waterproof winter boots Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "La Canadienne waterproof winter boots full technical specs materials technology pricing",
+      "fr": "La Canadienne waterproof winter boots specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "La Canadienne vs Blundstone waterproof winter boots comparison",
+      "fr": "La Canadienne vs Blundstone waterproof winter boots comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

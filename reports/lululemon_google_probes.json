@@ -1,0 +1,72 @@
+{
+  "brand": "Lululemon",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best technical athletic jacket in Montreal compare top options with specs and pricing",
+      "fr": "meilleur technical athletic jacket Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Lululemon technical athletic jacket full technical specs materials technology pricing",
+      "fr": "Lululemon technical athletic jacket specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Lululemon vs Nike technical athletic jacket comparison",
+      "fr": "Lululemon vs Nike technical athletic jacket comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

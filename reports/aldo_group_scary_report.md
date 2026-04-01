@@ -2,68 +2,44 @@
 
 **Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** stylish boots and shoes
-**Top Competitor:** Steve Madden
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quel est le meilleur stylish boots and shoes à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Steve Madden |
-| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
-| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
-
-### Claude EN response:
-
-> Aldo prominently featured alongside Steve Madden. Specs: PU/leather upper, TPR outsole, $70-$250 CAD, EarthKind sustainability program mentioned. Same prominence in FR response.
-
-### Claude FR response:
-
-> Aldo bien mis en avant avec Steve Madden. Spécifications: cuir/PU, semelle TPR, 70$-250$ CAD, programme EarthKind mentionné. Même proéminence en FR.
-
-### GPT-4o EN response:
-
-> [OpenAI key not configured]
-
-### GPT-4o FR response:
-
-> [OpenAI key not configured]
-
-### Gemini EN response:
-
-> [Gemini key not configured]
-
-### Gemini FR response:
-
-> [Gemini key not configured]
+French queries tested:
+1. "bottes à la mode Montréal"
+2. "où acheter des chaussures tendance à Montréal"
+3. "meilleures bottes pour femme Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
-|--------|-------|-------|-------|-------|-------|-------|
-| Spec count | 7 | 7 | 0 | 0 | 0 | 0 |
-| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Aldo Group | Aldo Group | No |
-| GPT-4o | Aldo Group | Aldo Group | No |
-| Gemini | Aldo Group | Aldo Group | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Steve Madden | present | present | No |
 
 ---
 

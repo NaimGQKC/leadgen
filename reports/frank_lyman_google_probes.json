@@ -1,0 +1,72 @@
+{
+  "brand": "Frank Lyman",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best women designer fashion in Montreal compare top options with specs and pricing",
+      "fr": "meilleur women designer fashion Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Frank Lyman women designer fashion full technical specs materials technology pricing",
+      "fr": "Frank Lyman women designer fashion specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Frank Lyman vs Joseph Ribkoff women designer fashion comparison",
+      "fr": "Frank Lyman vs Joseph Ribkoff women designer fashion comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

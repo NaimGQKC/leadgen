@@ -2,68 +2,45 @@
 
 **Inference Alignment Score: 42/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** fast fashion coat and jacket
-**Top Competitor:** Zara
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quel est le meilleur fast fashion coat and jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Unknown (#None) | ABSENT (#None) | Zara, Dynamite |
-| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
-| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
-
-### Claude EN response:
-
-> Dynamite #1, Zara #2, H&M #3, Aritzia #4, Simons #5. Specs: polyester construction, $60-$250 CAD, 0C to -10C rating. Same brand order in FR response.
-
-### Claude FR response:
-
-> Dynamite #1, Zara #2, H&M #3, Aritzia #4, Simons #5. Spécifications: polyester, 60$-250$ CAD, 0C à -10C. Même ordre en FR.
-
-### GPT-4o EN response:
-
-> [OpenAI key not configured]
-
-### GPT-4o FR response:
-
-> [OpenAI key not configured]
-
-### Gemini EN response:
-
-> [Gemini key not configured]
-
-### Gemini FR response:
-
-> [Gemini key not configured]
+French queries tested:
+1. "vêtements tendance pas cher à Montréal"
+2. "où magasiner des manteaux à la mode à bon prix Montréal"
+3. "boutique de vêtements abordables et branchés Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
-|--------|-------|-------|-------|-------|-------|-------|
-| Spec count | 5 | 4 | 0 | 0 | 0 | 0 |
-| Preservation ratio | -- | 80% | -- | unknown | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Groupe Dynamite | **Zara, Dynamite** | YES |
-| GPT-4o | Groupe Dynamite | Groupe Dynamite | No |
-| Gemini | Groupe Dynamite | Groupe Dynamite | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Zara | present | present | No |
+| Dynamite | present | present | No |
 
 ---
 

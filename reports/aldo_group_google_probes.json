@@ -1,0 +1,72 @@
+{
+  "brand": "Aldo Group",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best stylish boots and shoes in Montreal compare top options with specs and pricing",
+      "fr": "meilleur stylish boots and shoes Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Aldo Group stylish boots and shoes full technical specs materials technology pricing",
+      "fr": "Aldo Group stylish boots and shoes specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Aldo Group vs Steve Madden stylish boots and shoes comparison",
+      "fr": "Aldo Group vs Steve Madden stylish boots and shoes comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

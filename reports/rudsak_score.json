@@ -1,6 +1,6 @@
 {
   "brand": "Rudsak",
-  "ias": 61,
+  "ias": 63,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
@@ -56,6 +56,29 @@
         "competitors_in_fr_generic": [],
         "competitors_in_en_generic": [],
         "ghosted": true
+      }
+    },
+    "google": {
+      "score": 70,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": false,
+        "en_rank": null,
+        "fr_rank": 27,
+        "spec_ratio": 1.14,
+        "en_spec_count": 7,
+        "fr_spec_count": 8,
+        "hijacking": false,
+        "pricing_check": "en_only",
+        "competitors_in_fr_generic": [
+          "Mackage",
+          "Kanuk"
+        ],
+        "competitors_in_en_generic": [
+          "Mackage",
+          "Moose Knuckles"
+        ],
+        "ghosted": false
       }
     }
   }

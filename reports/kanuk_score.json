@@ -1,6 +1,6 @@
 {
   "brand": "Kanuk",
-  "ias": 60,
+  "ias": 65,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
@@ -56,6 +56,32 @@
         "competitors_in_fr_generic": [],
         "competitors_in_en_generic": [],
         "ghosted": true
+      }
+    },
+    "google": {
+      "score": 80,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": false,
+        "en_rank": 10,
+        "fr_rank": 18,
+        "spec_ratio": 1.5,
+        "en_spec_count": 12,
+        "fr_spec_count": 18,
+        "hijacking": false,
+        "pricing_check": "both_present",
+        "competitors_in_fr_generic": [
+          "The North Face",
+          "Canada Goose",
+          "Rudsak",
+          "Quartz Co",
+          "Columbia"
+        ],
+        "competitors_in_en_generic": [
+          "Moose Knuckles",
+          "Quartz Co"
+        ],
+        "ghosted": false
       }
     }
   }

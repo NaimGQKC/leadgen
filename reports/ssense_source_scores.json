@@ -1,0 +1,41 @@
+{
+  "brand": "SSENSE",
+  "avg_source_score_en": 1.33,
+  "avg_source_score_fr": 2.18,
+  "source_authority_gap": -0.85,
+  "sources_breakdown_en": {
+    "ssense.com": 10,
+    "altitude-sports.com": 8,
+    "torontolife.com": 4,
+    "reddit.com": 2,
+    "moorer.clothing": 0,
+    "meurice.nyc": 0,
+    "canadagoose.com": 0,
+    "natalieyerger.com": 0,
+    "audvik.com": 0,
+    "montrealtips.com": 0,
+    "boutiquebubbles.com": 0,
+    "whowhatwear.com": 0,
+    "thenorthface.com": 0,
+    "thewalrus.ca": 0,
+    "vizologi.com": 0,
+    "thefashionlaw.com": 0,
+    "ca.trustpilot.com": 0,
+    "blackbirdspyplane.com": 0
+  },
+  "sources_breakdown_fr": {
+    "ssense.com": 10,
+    "outdoorgearlab.com": 6,
+    "canoe.com": 4,
+    "reddit.com": 2,
+    "instagram.com": 1,
+    "tiktok.com": 1,
+    "la-canadienne.com": 0,
+    "yorkvillevillage.com": 0,
+    "yournextshoes.com": 0,
+    "farfetch.com": 0,
+    "smcfashion.com": 0
+  },
+  "total_sources_en": 18,
+  "total_sources_fr": 11
+}

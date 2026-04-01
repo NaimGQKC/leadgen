@@ -1,6 +1,6 @@
 {
   "brand": "Mackage",
-  "ias": 62,
+  "ias": 69,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
@@ -60,6 +60,33 @@
         "competitors_in_fr_generic": [],
         "competitors_in_en_generic": [],
         "ghosted": true
+      }
+    },
+    "google": {
+      "score": 91,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": true,
+        "en_rank": 10,
+        "fr_rank": 10,
+        "spec_ratio": 0.58,
+        "en_spec_count": 12,
+        "fr_spec_count": 7,
+        "hijacking": false,
+        "pricing_check": "both_present",
+        "competitors_in_fr_generic": [
+          "Canada Goose",
+          "Moose Knuckles",
+          "Kanuk",
+          "La Canadienne"
+        ],
+        "competitors_in_en_generic": [
+          "Patagonia",
+          "Canada Goose",
+          "Nobis",
+          "Quartz Co"
+        ],
+        "ghosted": false
       }
     }
   }

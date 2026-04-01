@@ -1,6 +1,6 @@
 {
   "brand": "Arc'teryx",
-  "ias": 61,
+  "ias": 68,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
@@ -56,6 +56,28 @@
         "competitors_in_fr_generic": [],
         "competitors_in_en_generic": [],
         "ghosted": true
+      }
+    },
+    "google": {
+      "score": 89,
+      "details": {
+        "generic_fr_present": true,
+        "rank_parity": true,
+        "en_rank": 10,
+        "fr_rank": 10,
+        "spec_ratio": 0.47,
+        "en_spec_count": 15,
+        "fr_spec_count": 7,
+        "hijacking": false,
+        "pricing_check": "both_present",
+        "competitors_in_fr_generic": [
+          "Patagonia",
+          "Columbia"
+        ],
+        "competitors_in_en_generic": [
+          "Patagonia"
+        ],
+        "ghosted": false
       }
     }
   }

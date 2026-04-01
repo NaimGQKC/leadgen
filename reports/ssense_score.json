@@ -1,68 +1,59 @@
 {
   "brand": "SSENSE",
-  "ias": 61,
+  "ias": 60,
   "severity": "YELLOW",
-  "llm_scores": {
-    "claude": {
-      "score": 96,
-      "details": {
-        "generic_fr_present": true,
-        "rank_parity": true,
-        "en_rank": 1,
-        "fr_rank": 1,
-        "spec_ratio": 0.82,
-        "en_spec_count": 11,
-        "fr_spec_count": 9,
-        "hijacking": false,
-        "pricing_check": "both_present",
-        "competitors_in_fr_generic": [
-          "Canada Goose",
-          "Mackage",
-          "Moose Knuckles",
-          "Moncler"
-        ],
-        "competitors_in_en_generic": [
-          "Canada Goose",
-          "Mackage",
-          "Moose Knuckles",
-          "Moncler"
-        ],
-        "ghosted": false
-      }
+  "breakdown": {
+    "appearance": {
+      "score": 15,
+      "rate_fr": 0.53,
+      "rate_en": 0.6
     },
-    "gpt4o": {
-      "score": 43,
-      "details": {
-        "generic_fr_present": false,
-        "rank_parity": "unknown",
-        "en_rank": null,
-        "fr_rank": null,
-        "spec_ratio": "unknown",
-        "en_spec_count": 0,
-        "fr_spec_count": 0,
-        "hijacking": false,
-        "pricing_check": "none",
-        "competitors_in_fr_generic": [],
-        "competitors_in_en_generic": [],
-        "ghosted": true
-      }
+    "spec_preservation": {
+      "score": 15,
+      "ratio": 0.54,
+      "avg_en": 9.8,
+      "avg_fr": 5.3
     },
-    "gemini": {
-      "score": 43,
-      "details": {
-        "generic_fr_present": false,
-        "rank_parity": "unknown",
-        "en_rank": null,
-        "fr_rank": null,
-        "spec_ratio": "unknown",
-        "en_spec_count": 0,
-        "fr_spec_count": 0,
-        "hijacking": false,
-        "pricing_check": "none",
-        "competitors_in_fr_generic": [],
-        "competitors_in_en_generic": [],
-        "ghosted": true
-      }
+    "competitor_displacement": {
+      "score": 0,
+      "new_competitors_fr": [
+        "Acne Studios",
+        "Arc'teryx",
+        "Balenciaga",
+        "Bottega Veneta",
+        "Burberry",
+        "COS",
+        "Dior",
+        "Farfetch",
+        "Fendi",
+        "Gucci",
+        "Loewe",
+        "Louis Vuitton",
+        "Maje",
+        "Max Mara",
+        "Off-White",
+        "Prada",
+        "Quartz Co",
+        "Rudsak",
+        "Saint Laurent",
+        "Sandro",
+        "Sentaler",
+        "The North Face",
+        "Woolrich"
+      ],
+      "count": 23
+    },
+    "source_authority": {
+      "score": 15,
+      "gap": -0.8,
+      "avg_en": 1.3,
+      "avg_fr": 2.2
+    },
+    "rank_parity": {
+      "score": 15,
+      "en_rank": 1,
+      "fr_rank": 1
     }
-  }
+  },
+  "methodology": "gemini-2.5-flash, n=5 runs per query, 3 FR variants + 1 EN"
 }

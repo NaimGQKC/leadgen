@@ -2,68 +2,46 @@
 
 **Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** technical athletic jacket
-**Top Competitor:** Nike
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 3 AI platforms (Claude, GPT-4o, Gemini) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quel est le meilleur technical athletic jacket à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Arc'teryx, The North Face, Nike |
-| GPT-4o | Unknown (#None) | ABSENT (#None) | N/A |
-| Gemini | Unknown (#None) | ABSENT (#None) | N/A |
-
-### Claude EN response:
-
-> Lululemon, Nike, Arc'teryx, The North Face all listed. Specs: Luxtreme fabric, 4-way stretch, DWR finish, $148-$398 CAD. Same brand grouping in FR response.
-
-### Claude FR response:
-
-> Lululemon, Nike, Arc'teryx, The North Face listés. Spécifications: tissu Luxtreme, extensible 4 voies, DWR, 148$-398$ CAD. Même regroupement de marques en FR.
-
-### GPT-4o EN response:
-
-> [OpenAI key not configured]
-
-### GPT-4o FR response:
-
-> [OpenAI key not configured]
-
-### Gemini EN response:
-
-> [Gemini key not configured]
-
-### Gemini FR response:
-
-> [Gemini key not configured]
+French queries tested:
+1. "veste de sport technique pour l'entraînement Montréal"
+2. "meilleur manteau de course à pied pour l'hiver Québec"
+3. "vêtements de sport performants à Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR | GPT-4o EN | GPT-4o FR | Gemini EN | Gemini FR |
-|--------|-------|-------|-------|-------|-------|-------|
-| Spec count | 5 | 5 | 0 | 0 | 0 | 0 |
-| Preservation ratio | -- | 100% | -- | unknown | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Lululemon | Lululemon | No |
-| GPT-4o | Lululemon | Lululemon | No |
-| Gemini | Lululemon | Lululemon | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Nike | present | present | No |
+| Arc'teryx | present | present | No |
+| The North Face | present | present | No |
 
 ---
 

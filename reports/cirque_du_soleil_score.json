@@ -53,6 +53,23 @@
         "competitors_in_en_generic": [],
         "ghosted": true
       }
+    },
+    "google": {
+      "score": 58,
+      "details": {
+        "generic_fr_present": "unknown",
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "none",
+        "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
+        "ghosted": false
+      }
     }
   }
 }

@@ -29,6 +29,10 @@
       "gemini": {
         "en": "[Gemini key not configured]",
         "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     },
     "probeB_accuracy": {
@@ -43,6 +47,10 @@
       "gemini": {
         "en": "[Gemini key not configured]",
         "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     },
     "probeC_competitive": {
@@ -57,6 +65,10 @@
       "gemini": {
         "en": "[Gemini key not configured]",
         "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     }
   }
