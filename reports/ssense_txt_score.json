@@ -1,0 +1,44 @@
+{
+  "brand": "SSENSE",
+  "ias": 55,
+  "severity": "YELLOW",
+  "breakdown": {
+    "appearance": {
+      "score": 25,
+      "rate_fr": 1.0,
+      "rate_en": 1.0
+    },
+    "spec_preservation": {
+      "score": 15,
+      "ratio": 0.7,
+      "avg_en": 6.0,
+      "avg_fr": 4.2
+    },
+    "competitor_displacement": {
+      "score": 0,
+      "new_competitors_fr": [
+        "Frank Lyman",
+        "Kanuk",
+        "Max Mara",
+        "Moose Knuckles",
+        "Quartz Co",
+        "Rudsak",
+        "The North Face"
+      ],
+      "count": 7
+    },
+    "source_authority": {
+      "score": 0,
+      "gap": null,
+      "avg_en": null,
+      "avg_fr": null
+    },
+    "rank_parity": {
+      "score": 15,
+      "en_rank": null,
+      "fr_rank": null,
+      "note": "proxy_from_appearance"
+    }
+  },
+  "methodology": "manual-txt-import, 8 probes (3 EN, 5 FR)"
+}

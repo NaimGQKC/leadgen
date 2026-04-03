@@ -2,8 +2,8 @@
 
 **To:** Nick Engel (SVP Digital)
 **LinkedIn:** https://www.linkedin.com/in/nick-engel-316352b/
-**Chars:** 174/280
+**Chars:** 143/280
 
 ---
 
-Hi Nick, ran an AI audit on Lululemon -- French searches for technical athletic jacket surface Nike over you across GPT, Gemini + Claude. Score: 72/100. Have the full report.
+Hi Nick, ran an AI audit on Lululemon -- French searches for technical athletic jacket surface Nike over you. Score: 62/100. Full report ready.

@@ -4,16 +4,16 @@
   "top_competitor": "Mackage",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best luxury women's winter coats?",
-      "fr": "Quels sont les meilleurs manteaux d'hiver de luxe pour femmes?"
+      "en": "What is the best luxury women winter coat in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur luxury women winter coat à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of Nicole Benisti winter coats?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des manteaux Nicole Benisti?"
+      "en": "What are the full technical specs of Nicole Benisti luxury women winter coat? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de Nicole Benisti luxury women winter coat? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
-      "en": "How does Nicole Benisti compare to Mackage for luxury women's coats?",
-      "fr": "Comment Nicole Benisti se compare-t-il à Mackage pour les manteaux de luxe pour femmes?"
+      "en": "How does Nicole Benisti compare to Mackage for luxury women winter coat?",
+      "fr": "Comment Nicole Benisti se compare à Mackage pour luxury women winter coat?"
     }
   },
   "responses": {
@@ -21,18 +21,54 @@
       "claude": {
         "en": "Nicole Benisti #1, Mackage #2, Canada Goose #3, Moose Knuckles #4. Specs: 600-700fp, Nappa leather trim, -30C rating, $1,200-$2,800 CAD. Same order in FR response.",
         "fr": "Nicole Benisti #1, Mackage #2, Canada Goose #3, Moose Knuckles #4. Spécifications: 600-700fp, cuir Nappa, -30C, 1 200$-2 800$ CAD. Même ordre en FR."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "AI Mode\nAll\nImages\nVideos\nNews\nMore\nSign in\nSearch Results\nbest luxury women winter coat in Montreal compare top options with specs and pricing\nFor a Montreal winter, where temperatures frequently drop to \n-20\n∘\nC\n−\n2\n0\n∘\nC\n or lower, a luxury coat must balance high-fill-power down with windproof and waterproof shells. Local brands like Mackage, Kanuk, and Quartz Co. are highly recommended as they are specifically engineered for the city's damp, biting cold. \nTop Luxury Winter Coat Comparison (2026)\nBrand & Model \tBest For\tTemperature Rating\tKey Specs\tPrice (CAD)\nMackage Adali-BX\tChic Urban Style\tDown to \n-20\n∘\nC\n−\n2\n0\n∘\nC\n\t800 fill power, blue fox fur collar, inner bib\t~$1,350\nNobis She-Ra\tVersatile Function\tDown to \n-30\n∘\nC\n−\n3\n0\n∘\nC\n\tWaterproof, magnetic closures, removable rabbit fur\t~$965 - $1,895\nKanuk (Various Models)\tExtreme Cold\tVaries by model\tHand-made in Montreal, lifetime warranty\t$600 - $1,500\nMoose Knuckles Jocada\tSleek Performance\t\"Seriously Cold\"\tAnkle length, 90/10 duck down, water-repellent\t~$1,594\nQuartz Co. Kimberly\tSustainable Utility\tExtreme Cold\t650 fill power, breathable Oxford shell, Made in Canada\t~$735\nDetailed Options for Montreal Winters\nMackage Adali-BX: A flagship \"Signature Fit\" coat available at retailers like Holt Renfrew Ogilvy. It features an asymmetrical zip and a blue fox fur-trimmed hood. The inner bib with a rib collar provides extra protection against wind tunnel effects on Ste-Catherine Street.\nNobis She-Ra Parka: Highly technical and fully waterproof (10,000mm rating). It uses magnetic closures instead of buttons for convenience with gloves and includes a removable Rex Rabbit fur collar for a transition from casual to elegant.\nKanuk Jackets: A Montreal staple for over 50 years, known for its artisanal production. These coats are highly windproof and come with a lifetime warranty, making them a long-term investment for residents.\nMoose Knuckles Gold Series Jocada: For maximum coverage, this ankle-length parka uses \"Nyluxe\" fabric that is soft yet durable against wind and water. It includes side snaps for mobility while walking through slush or boarding the Metro.\nQuartz Co. Kimberly: A more streamlined, minimalist option that uses Repreve recycled fibers. It offers a semi-fitted silhouette that allows for layering without looking bulky. \nReddit\n +1\nMap data ©2026 Google\nTerms\n2 km \nDowntown & Plateau Boutiques\nRoyalmount Luxury Hub\nAre you looking for a coat that focuses more on technical warmth for long walks or fashion-forward tailoring for business and social events?\n7 sites\nWhat's everyone's winter jacket of choice? : r/askTO - Reddit\nNov 13, 2022 — Great quality and made in Quebec. They run from $600-$1500 so prepare to spend as you would on other top of the line jackets, wort...\nReddit\n5 brands of winter jackets designed in Canada | SAIL Blog\nJan 4, 2026 — Kanuk has so much confidence in the quality of its range that it backs all its jackets with a lifetime warranty. The brand also ta...\nSAIL\nMackage Adali-bx Down Coat With Blue Fox Fur Signature Mackage Collar\nADALI-BX is a recycled down coat for women featuring our Signature Collar with blue fox fur and an asymmetrical zip closure. Lab t...\nGoogle\nShow all",
+        "fr": ""
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs: Nappa lambskin trim, 600-700fp European duck/goose down, RDS certified, coyote/fox fur options, $1,200-$2,800 CAD. Nicole Benisti prominently featured with couture-level detail.",
         "fr": "Spécifications complètes: Nappa pleine fleur, 600-700 cuin duvet européen, RDS, fourrure coyote/renard, 1 200$-2 800$ CAD. Nicole Benisti bien mis en avant."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "Nicole Benisti vs Mackage correctly positioned. NB wins on exclusivity, couture detailing, and extreme cold performance. Mackage wins on brand recognition and broader retail access.",
         "fr": "Nicole Benisti vs Mackage bien positionné. NB gagne sur exclusivité, détails couture, froid extrême. Mackage gagne sur notoriété et accès au détail."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     }
   }

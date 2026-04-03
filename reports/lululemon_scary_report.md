@@ -1,56 +1,54 @@
 # AI Inference Audit: Lululemon
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** technical athletic jacket
-**Top Competitor:** Nike
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quelles sont les meilleures vestes de sport techniques sur le marché?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Arc'teryx, The North Face, Nike |
-
-### Claude EN response:
-
-> Lululemon, Nike, Arc'teryx, The North Face all listed. Specs: Luxtreme fabric, 4-way stretch, DWR finish, $148-$398 CAD. Same brand grouping in FR response.
-
-### Claude FR response:
-
-> Lululemon, Nike, Arc'teryx, The North Face listés. Spécifications: tissu Luxtreme, extensible 4 voies, DWR, 148$-398$ CAD. Même regroupement de marques en FR.
+French queries tested:
+1. "veste de sport technique pour l'entraînement Montréal"
+2. "meilleur manteau de course à pied pour l'hiver Québec"
+3. "vêtements de sport performants à Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 2 | 2 |
-| Preservation ratio | -- | 100% |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Lululemon | Lululemon | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Nike | present | present | No |
+| Arc'teryx | present | present | No |
+| The North Face | present | present | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

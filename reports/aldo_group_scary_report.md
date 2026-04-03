@@ -1,56 +1,52 @@
 # AI Inference Audit: Aldo Group
 
-**Inference Alignment Score: 54/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** stylish boots and shoes
-**Top Competitor:** Steve Madden
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quelles sont les meilleures marques de bottes et chaussures tendance au Canada?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Unknown (#None) | ABSENT (#None) | Aldo, Steve Madden |
-
-### Claude EN response:
-
-> Aldo prominently featured alongside Steve Madden. Specs: PU/leather upper, TPR outsole, $70-$250 CAD, EarthKind sustainability program mentioned. Same prominence in FR response.
-
-### Claude FR response:
-
-> Aldo bien mis en avant avec Steve Madden. Spécifications: cuir/PU, semelle TPR, 70$-250$ CAD, programme EarthKind mentionné. Même proéminence en FR.
+French queries tested:
+1. "bottes à la mode Montréal"
+2. "où acheter des chaussures tendance à Montréal"
+3. "meilleures bottes pour femme Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 1 | 2 |
-| Preservation ratio | -- | 200% |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Aldo Group | **Aldo, Steve Madden** | YES |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Steve Madden | present | present | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 54/100** = ~46% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

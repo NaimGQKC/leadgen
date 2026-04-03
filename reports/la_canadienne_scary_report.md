@@ -1,56 +1,52 @@
 # AI Inference Audit: La Canadienne
 
-**Inference Alignment Score: 72/100 -- GREEN**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** waterproof winter boots
-**Top Competitor:** Blundstone
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quelles sont les meilleures bottes d'hiver imperméables au Canada?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Blundstone |
-
-### Claude EN response:
-
-> La Canadienne #1, Blundstone, Sorel, Hunter also listed. Specs: seam-sealed waterproof leather, -20C to -30C rating, $350-$650 CAD. Same brand order in FR response.
-
-### Claude FR response:
-
-> La Canadienne #1, Blundstone, Sorel, Hunter aussi listés. Spécifications: cuir imperméable coutures scellées, -20C à -30C, 350$-650$ CAD. Même ordre en FR.
+French queries tested:
+1. "bottes imperméables pour l'hiver à Montréal"
+2. "meilleures bottes chaudes et étanches pour la sloche"
+3. "bottes d'hiver qui gardent les pieds au sec Québec"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 3 | 3 |
-| Preservation ratio | -- | 100% |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | La Canadienne | La Canadienne | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Blundstone | present | present | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 72/100** = ~28% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

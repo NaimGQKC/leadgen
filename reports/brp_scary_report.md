@@ -1,56 +1,52 @@
 # AI Inference Audit: BRP
 
-**Inference Alignment Score: 66/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** snowmobile and powersports vehicle
-**Top Competitor:** Polaris
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quelles sont les meilleures marques de motoneiges dans le monde?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Polaris |
-
-### Claude EN response:
-
-> BRP Ski-Doo #1 globally, Polaris #2, Arctic Cat #3, Yamaha #4. Specs: Rotax 850 E-TEC 165hp, $9,999-$25,999 CAD. Same brand order in FR response. BRP clearly dominant.
-
-### Claude FR response:
-
-> BRP Ski-Doo #1 mondial, Polaris #2, Arctic Cat #3, Yamaha #4. Spécifications: Rotax 850 E-TEC 165ch, 9 999$-25 999$ CAD. Même ordre en FR. BRP clairement dominant.
+French queries tested:
+1. "meilleure motoneige pour le Québec"
+2. "quelle motoneige acheter au Québec"
+3. "comparaison de motoneiges pour les sentiers du Québec"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 0 | 0 |
-| Preservation ratio | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | BRP | BRP | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Polaris | present | present | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 66/100** = ~34% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

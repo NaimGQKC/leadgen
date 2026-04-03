@@ -1,0 +1,40 @@
+{
+  "brand": "Rudsak",
+  "avg_source_score_en": 1.71,
+  "avg_source_score_fr": 1.79,
+  "source_authority_gap": -0.08,
+  "sources_breakdown_en": {
+    "mooseknucklescanada.com": 10,
+    "rudsak.com": 10,
+    "reddit.com": 2,
+    "youtube.com": 1,
+    "tiktok.com": 1,
+    "ariannerelocation.com": 0,
+    "mackage.ca": 0,
+    "likevancouver.ca": 0,
+    "cuirdimitri.ca": 0,
+    "torontobeautyreviews.com": 0,
+    "tynmagazine.com": 0,
+    "dihsan.com": 0,
+    "loveyourleather.ca": 0,
+    "raincouverbeauty.com": 0
+  },
+  "sources_breakdown_fr": {
+    "rudsak.com": 10,
+    "us.rudsak.com": 10,
+    "reddit.com": 2,
+    "instagram.com": 1,
+    "youtube.com": 1,
+    "tiktok.com": 1,
+    "gingtto.com": 0,
+    "cuirdimitri.ca": 0,
+    "blog.lacordee.com": 0,
+    "boutiquedesigners.com": 0,
+    "rudsak.com.en2fr.search.translate.goog": 0,
+    "ubuy.mq": 0,
+    "loveyourleather.ca": 0,
+    "realry.com": 0
+  },
+  "total_sources_en": 14,
+  "total_sources_fr": 14
+}

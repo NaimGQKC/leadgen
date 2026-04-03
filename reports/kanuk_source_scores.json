@@ -1,0 +1,34 @@
+{
+  "brand": "Kanuk",
+  "avg_source_score_en": 3.27,
+  "avg_source_score_fr": 3.82,
+  "source_authority_gap": -0.55,
+  "sources_breakdown_en": {
+    "kanuk.com": 10,
+    "sail.ca": 8,
+    "altitude-sports.com": 8,
+    "sportsexperts.ca": 8,
+    "reddit.com": 2,
+    "quartz-co.com": 0,
+    "audvik.com": 0,
+    "boutiquebubbles.com": 0,
+    "bedistudios.com": 0,
+    "latulippe.com": 0,
+    "sportinglife.ca": 0
+  },
+  "sources_breakdown_fr": {
+    "kanuk.com": 10,
+    "altitude-sports.com": 8,
+    "holtrenfrew.com": 8,
+    "sail.ca": 8,
+    "thekit.ca": 6,
+    "reddit.com": 2,
+    "bymelm.com": 0,
+    "boutique333.com": 0,
+    "lacordee.com": 0,
+    "quartz-co.com": 0,
+    "best-of-johnjiangmacsg.replit.app": 0
+  },
+  "total_sources_en": 11,
+  "total_sources_fr": 11
+}

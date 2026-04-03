@@ -1,56 +1,50 @@
 # AI Inference Audit: Cirque du Soleil
 
-**Inference Alignment Score: 53/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** live entertainment show
-**Top Competitor:** Blue Man Group
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quels sont les meilleurs spectacles de divertissement en direct à Montréal?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Unknown (#None) | ABSENT (#None) | N/A |
-
-### Claude EN response:
-
-> Cirque #1, OSM, Just for Laughs, TOHU listed. Same prominence in FR (Juste pour Rire substituted). Cirque clearly dominates as the flagship Montreal live entertainment brand.
-
-### Claude FR response:
-
-> Cirque #1, OSM, Juste pour Rire, TOHU listés. Même proéminence en FR. Le Cirque domine clairement comme marque phare du divertissement live à Montréal.
+French queries tested:
+1. "spectacle à voir absolument à Montréal"
+2. "meilleur spectacle en salle à Montréal"
+3. "sortie en famille spectacle Montréal"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 0 | 0 |
-| Preservation ratio | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Cirque du Soleil | Cirque du Soleil | No |
+No competitor displacement data available.
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 53/100** = ~47% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

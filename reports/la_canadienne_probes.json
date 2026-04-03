@@ -4,16 +4,16 @@
   "top_competitor": "Blundstone",
   "probes_sent": {
     "probeA_generic": {
-      "en": "What are the best waterproof winter boots in Canada?",
-      "fr": "Quelles sont les meilleures bottes d'hiver imperméables au Canada?"
+      "en": "What is the best waterproof winter boots in Montreal? Compare top options with technical specs and pricing.",
+      "fr": "Quel est le meilleur waterproof winter boots à Montréal? Comparer les meilleures options avec spécifications techniques et prix."
     },
     "probeB_accuracy": {
-      "en": "What are the specs and price range of La Canadienne winter boots?",
-      "fr": "Quelles sont les spécifications et la gamme de prix des bottes La Canadienne?"
+      "en": "What are the full technical specs of La Canadienne waterproof winter boots? Materials, technology, pricing.",
+      "fr": "Quelles sont les spécifications techniques complètes de La Canadienne waterproof winter boots? Matériaux, technologie, prix."
     },
     "probeC_competitive": {
       "en": "How does La Canadienne compare to Blundstone for waterproof winter boots?",
-      "fr": "Comment La Canadienne se compare-t-il à Blundstone pour les bottes d'hiver imperméables?"
+      "fr": "Comment La Canadienne se compare à Blundstone pour waterproof winter boots?"
     }
   },
   "responses": {
@@ -21,18 +21,54 @@
       "claude": {
         "en": "La Canadienne #1, Blundstone, Sorel, Hunter also listed. Specs: seam-sealed waterproof leather, -20C to -30C rating, $350-$650 CAD. Same brand order in FR response.",
         "fr": "La Canadienne #1, Blundstone, Sorel, Hunter aussi listés. Spécifications: cuir imperméable coutures scellées, -20C à -30C, 350$-650$ CAD. Même ordre en FR."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     },
     "probeB_accuracy": {
       "claude": {
         "en": "Full specs: full-grain waterproof leather, seam-sealed construction, EVA midsole, rubber lug outsole, -20C to -30C, $350-$650 CAD, made in Canada, PFAS-free post-2022. Strong accuracy.",
         "fr": "Spécifications complètes: cuir pleine fleur imperméable, coutures scellées, EVA, semelle lug caoutchouc, -20C à -30C, 350$-650$ CAD, fabriqué au Canada, sans PFAS. Très précis."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     },
     "probeC_competitive": {
       "claude": {
         "en": "La Canadienne vs Blundstone correctly positioned. La Canadienne wins on waterproofing depth, cold insulation, and refined winter style. Blundstone wins on durability and overall value pricing.",
         "fr": "La Canadienne vs Blundstone bien positionné. La Canadienne gagne sur imperméabilisation, isolation et style hivernal. Blundstone gagne sur durabilité et rapport qualité-prix."
+      },
+      "gpt4o": {
+        "en": "[OpenAI key not configured]",
+        "fr": "[OpenAI key not configured]"
+      },
+      "gemini": {
+        "en": "[Gemini key not configured]",
+        "fr": "[Gemini key not configured]"
+      },
+      "google": {
+        "en": "",
+        "fr": ""
       }
     }
   }

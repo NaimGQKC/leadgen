@@ -1,25 +1,29 @@
 {
   "brand": "Groupe Dynamite",
-  "ias": 51,
+  "ias": 42,
   "severity": "YELLOW",
   "llm_scores": {
     "claude": {
-      "score": 38,
+      "score": 41,
       "details": {
         "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
-        "spec_ratio": 0.67,
-        "en_spec_count": 3,
-        "fr_spec_count": 2,
+        "spec_ratio": 0.8,
+        "en_spec_count": 5,
+        "fr_spec_count": 4,
         "hijacking": true,
         "hijacked_by": [
           "Zara",
           "Dynamite"
         ],
-        "pricing_check": "specs_present",
+        "pricing_check": "both_present",
         "competitors_in_fr_generic": [
+          "Zara",
+          "Dynamite"
+        ],
+        "competitors_in_en_generic": [
           "Zara",
           "Dynamite"
         ],
@@ -27,9 +31,9 @@
       }
     },
     "gpt4o": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -37,12 +41,30 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     },
     "gemini": {
+      "score": 43,
+      "details": {
+        "generic_fr_present": false,
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "none",
+        "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
+        "ghosted": true
+      }
+    },
+    "google": {
       "score": 58,
       "details": {
         "generic_fr_present": "unknown",
@@ -53,8 +75,9 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
         "ghosted": false
       }
     }

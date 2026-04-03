@@ -1,0 +1,72 @@
+{
+  "brand": "BRP",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best snowmobile and powersports vehicle in Montreal compare top options with specs and pricing",
+      "fr": "meilleur snowmobile and powersports vehicle Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "BRP snowmobile and powersports vehicle full technical specs materials technology pricing",
+      "fr": "BRP snowmobile and powersports vehicle specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "BRP vs Polaris snowmobile and powersports vehicle comparison",
+      "fr": "BRP vs Polaris snowmobile and powersports vehicle comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

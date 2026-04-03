@@ -1,0 +1,97 @@
+{
+  "brand": "Nicole Benisti",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best luxury women winter coat in Montreal compare top options with specs and pricing",
+      "fr": "meilleur luxury women winter coat Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Nicole Benisti luxury women winter coat full technical specs materials technology pricing",
+      "fr": "Nicole Benisti luxury women winter coat specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Nicole Benisti vs Mackage luxury women winter coat comparison",
+      "fr": "Nicole Benisti vs Mackage luxury women winter coat comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "AI Mode\nAll\nImages\nVideos\nNews\nMore\nSign in\nSearch Results\nbest luxury women winter coat in Montreal compare top options with specs and pricing\nFor a Montreal winter, where temperatures frequently drop to \n-20\n∘\nC\n−\n2\n0\n∘\nC\n or lower, a luxury coat must balance high-fill-power down with windproof and waterproof shells. Local brands like Mackage, Kanuk, and Quartz Co. are highly recommended as they are specifically engineered for the city's damp, biting cold. \nTop Luxury Winter Coat Comparison (2026)\nBrand & Model \tBest For\tTemperature Rating\tKey Specs\tPrice (CAD)\nMackage Adali-BX\tChic Urban Style\tDown to \n-20\n∘\nC\n−\n2\n0\n∘\nC\n\t800 fill power, blue fox fur collar, inner bib\t~$1,350\nNobis She-Ra\tVersatile Function\tDown to \n-30\n∘\nC\n−\n3\n0\n∘\nC\n\tWaterproof, magnetic closures, removable rabbit fur\t~$965 - $1,895\nKanuk (Various Models)\tExtreme Cold\tVaries by model\tHand-made in Montreal, lifetime warranty\t$600 - $1,500\nMoose Knuckles Jocada\tSleek Performance\t\"Seriously Cold\"\tAnkle length, 90/10 duck down, water-repellent\t~$1,594\nQuartz Co. Kimberly\tSustainable Utility\tExtreme Cold\t650 fill power, breathable Oxford shell, Made in Canada\t~$735\nDetailed Options for Montreal Winters\nMackage Adali-BX: A flagship \"Signature Fit\" coat available at retailers like Holt Renfrew Ogilvy. It features an asymmetrical zip and a blue fox fur-trimmed hood. The inner bib with a rib collar provides extra protection against wind tunnel effects on Ste-Catherine Street.\nNobis She-Ra Parka: Highly technical and fully waterproof (10,000mm rating). It uses magnetic closures instead of buttons for convenience with gloves and includes a removable Rex Rabbit fur collar for a transition from casual to elegant.\nKanuk Jackets: A Montreal staple for over 50 years, known for its artisanal production. These coats are highly windproof and come with a lifetime warranty, making them a long-term investment for residents.\nMoose Knuckles Gold Series Jocada: For maximum coverage, this ankle-length parka uses \"Nyluxe\" fabric that is soft yet durable against wind and water. It includes side snaps for mobility while walking through slush or boarding the Metro.\nQuartz Co. Kimberly: A more streamlined, minimalist option that uses Repreve recycled fibers. It offers a semi-fitted silhouette that allows for layering without looking bulky. \nReddit\n +1\nMap data ©2026 Google\nTerms\n2 km \nDowntown & Plateau Boutiques\nRoyalmount Luxury Hub\nAre you looking for a coat that focuses more on technical warmth for long walks or fashion-forward tailoring for business and social events?\n7 sites\nWhat's everyone's winter jacket of choice? : r/askTO - Reddit\nNov 13, 2022 — Great quality and made in Quebec. They run from $600-$1500 so prepare to spend as you would on other top of the line jackets, wort...\nReddit\n5 brands of winter jackets designed in Canada | SAIL Blog\nJan 4, 2026 — Kanuk has so much confidence in the quality of its range that it backs all its jackets with a lifetime warranty. The brand also ta...\nSAIL\nMackage Adali-bx Down Coat With Blue Fox Fur Signature Mackage Collar\nADALI-BX is a recycled down coat for women featuring our Signature Collar with blue fox fur and an asymmetrical zip closure. Lab t...\nGoogle\nShow all",
+        "brands_mentioned": [
+          "Mackage",
+          "Moose Knuckles",
+          "Kanuk",
+          "Nobis",
+          "Quartz Co"
+        ],
+        "specs_found": [
+          "down",
+          "fill-power",
+          "000mm",
+          "waterproof",
+          "breathable",
+          "recycled",
+          "$1"
+        ],
+        "sources": [
+          "https://www.altitude-sports.com/blog/mackage-coats-for-winter-warmth#:~:text=Mackage%20coats%20and%20jackets%20help%20make%20your,sense%20of%20style%E2%80%94urban%2C%20sleek%20and%20thoroughly%20modern.",
+          "https://www.holtrenfrew.com/p/20001201007",
+          "https://www.sail.ca/blog/canadian-winter-jacket-brands/",
+          "https://nobis.com/products/she-ra-womens-parka-andawp9qjz-resale?variant=46465832583343&geolizr_redirect=off",
+          "https://www.sail.ca/blog/canadian-winter-jacket-brands/#:~:text=Extreme%20cold%20protection:%20Kanuk%20winter,in%20the%20most%20unforgiving%20conditions.",
+          "https://nobis.com/products/she-ra-ds-ladies-parka?variant=42175534858415&geolizr_redirect=off",
+          "https://quartz-co.com/products/kimberly-v2-down-jacket-no-fur?variant=39788947603540&country=CA&currency=CAD",
+          "https://www.mooseknucklescanada.com/products/gold-series-nyluxe-jocada-parka-m35lp227gs-305?variant=46626658058475",
+          "https://www.boutiquebubbles.com/collections/quartz-co#:~:text=Created%20in%20Montr%C3%A9al%2C%20Quartz%20Co%20produces%20premium,create%20long%20lasting%20classic%20and%20timeless%20looks.",
+          "https://www.mackage.ca/products/adali-bx?variant=45543597342965"
+        ],
+        "type": "ai_mode_fallback"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "no_results"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

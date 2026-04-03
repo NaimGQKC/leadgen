@@ -1,56 +1,53 @@
 # AI Inference Audit: Sentaler
 
-**Inference Alignment Score: 66/100 -- YELLOW**
+**Inference Alignment Score: 62/100 -- YELLOW**
 
-**Date:** 2026-03-30
+**Date:** 2026-04-01
 **Category:** luxury alpaca winter coat
-**Top Competitor:** Max Mara
+**Methodology:** Gemini 2.5 Flash, 5 runs per query, 3 FR variants (n=15 FR, n=5 EN)
 
-## How We Tested
+## Key Metrics
 
-Queried 1 AI platform (Claude) in EN and FR with identical prompts.
+| Metric | English | French | Gap |
+|--------|---------|--------|-----|
+| Brand appearance rate | N/A | N/A | -- |
+| Avg specs per response | N/A | N/A | -- |
+| Spec range across runs | ?-? | ?-? | -- |
+| Source authority score | N/A | N/A | -- |
 
 ---
 
-## Finding 1: Ghosting
+## Finding 1: Brand Visibility Gap
 
-**Query:** "Quels sont les meilleurs manteaux d'hiver en alpaga de luxe?"
+Brand appeared in N/A of English queries and N/A of French queries.
 
-| AI Platform | Brand in EN? | Brand in FR? | FR Competitors Instead |
-|-------------|-------------|-------------|----------------------|
-| Claude | Yes (#1) | Yes (#1) | Mackage, Max Mara |
-
-### Claude EN response:
-
-> Sentaler #1 as leading Canadian alpaca brand, then Max Mara, Mackage, The Row, Loro Piana. Specs: baby alpaca 58-70% blend, $795-$2,200 CAD. Same order in FR response.
-
-### Claude FR response:
-
-> Sentaler #1 marque alpaga canadienne, puis Max Mara, Mackage, The Row, Loro Piana. Spécifications: alpaga bébé 58-70%, 795$-2 200$ CAD. Même ordre en FR.
+French queries tested:
+1. "manteau en alpaga de luxe au Canada"
+2. "meilleur manteau chaud et élégant en laine d'alpaga"
+3. "manteau haut de gamme en fibres naturelles pour l'hiver"
 
 ---
 
 ## Finding 2: Spec Dilution
 
-| Metric | Claude EN | Claude FR |
-|--------|-------|-------|
-| Spec count | 0 | 0 |
-| Preservation ratio | -- | unknown |
+Spec preservation: N/A (N/A FR vs N/A EN).
+Range: ?-? specs across 15 French runs vs ?-? in English.
 
 ---
 
-## Finding 3: Competitor Hijacking
+## Finding 3: Competitor Displacement
 
-| AI Platform | EN Recommendation | FR Recommendation | Switched? |
-|-------------|------------------|------------------|-----------|
-| Claude | Sentaler | Sentaler | No |
+| Competitor | EN frequency | FR frequency | FR-only? |
+|------------|-------------|-------------|----------|
+| Mackage | present | present | No |
+| Max Mara | present | present | No |
 
 ---
 
 ## Revenue Impact
 
 - **Quebec French-speaking market:** ~7M consumers
-- **IAS 66/100** = ~34% of French AI queries failing or degraded
+- **IAS 62/100** = ~38% of French AI queries failing or degraded
 - AI-driven product discovery growing 40%+ YoY -- gap compounds quarterly
 
 ## What Fixes This

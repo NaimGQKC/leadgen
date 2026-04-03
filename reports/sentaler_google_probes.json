@@ -1,0 +1,72 @@
+{
+  "brand": "Sentaler",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best luxury alpaca winter coat in Montreal compare top options with specs and pricing",
+      "fr": "meilleur luxury alpaca winter coat Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "Sentaler luxury alpaca winter coat full technical specs materials technology pricing",
+      "fr": "Sentaler luxury alpaca winter coat specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "Sentaler vs Max Mara luxury alpaca winter coat comparison",
+      "fr": "Sentaler vs Max Mara luxury alpaca winter coat comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      },
+      "fr": {
+        "text": "",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources": [],
+        "type": "error_max_retries"
+      }
+    }
+  }
+}

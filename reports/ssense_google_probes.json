@@ -1,0 +1,212 @@
+{
+  "brand": "SSENSE",
+  "source": "google_ai_mode",
+  "queries_sent": {
+    "probeA_generic": {
+      "en": "best luxury designer winter coat in Montreal compare top options with specs and pricing",
+      "fr": "meilleur luxury designer winter coat Montreal comparer meilleures options specifications prix"
+    },
+    "probeB_accuracy": {
+      "en": "SSENSE luxury designer winter coat full technical specs materials technology pricing",
+      "fr": "SSENSE luxury designer winter coat specifications techniques completes materiaux technologie prix"
+    },
+    "probeC_competitive": {
+      "en": "SSENSE vs Farfetch luxury designer winter coat comparison",
+      "fr": "SSENSE vs Farfetch luxury designer winter coat comparaison"
+    }
+  },
+  "probeA_generic": {
+    "google": {
+      "en": {
+        "text": "20 sitesAltitude SportsOct 16, 2024 — 4. Mackage Launched in 1999 by a Montreal couple, Mackage is a high-end brand that believes the coat is the integral part of your ...Altitude Sports10 luxe hot spots to shop in Bloor-YorkvilleAug 18, 2021 — It's known as the go-to brand among the world's elite, high-quality enough to be cleared as a classified luxury brand, with each j...Toronto LifeKanuk vs. Quartz Co: A Comparative Review of Luxury Outerwear at Boutique BubblesJul 15, 2023 — As the chill of winter approaches, the quest for the perfect coat becomes a top priority. Two brands that have been making waves i...Boutique BubblesThe 14 Best Cashmere Coats That Are Timeless and Pure LuxuryJan 13, 2025 — Of all the fabrics to invest in, cashmere is a sumptuous and enduring classic that adds an element of refinement and elegance to e...Who What WearDiscover the 7 Best Italian Cashmere Coat Brands: Stay Warm and StylisFeb 7, 2023 — These brands are recognized globally as the leaders in the luxury fashion industry, known for their commitment to quality, attenti...2MenAltitude SportsOct 16, 2024 — The brand has built its reputation by offering many models of parkas, all designed to face the particularly capricious and cold te...Altitude SportsTop 10 Fashion Brands Based in Montreal You Should Know -May 24, 2025 — Famed for crafting some of the most exquisite coats and jackets, this brand combines functionality with high-fashion elements. The...montrealtips.comLuxury Winter Jacket Brands: Your Ultimate Style ChecklistDiscover the creme de la creme of winter fashion with some of the most coveted luxury winter jacket brands that consistently set t...Tata NeuAltitude SportsNov 25, 2019 — Mackage coats and jackets help make your winters warm. Their range of outerwear and accessories for men and women falls right into...Altitude SportsBrunello Cucinelli Belted Quilted Shearling-trimmed Wool Down Coat - Women - Dark gray Coats and Jackets - MBrunello Cucinelli's quilted coat is padded with insulating down and lined with soft shearling at the collar for ample warmth. It'GoogleKanuk Mont-Royal Men's Winter JacketThe Mont-Royal parka was designed for city living in winter. The attached hood comes with a fur option for maximum style and warmt...GoogleMackage vs Canada Goose : r/durham - RedditNov 16, 2025 — Mountain Warehouse. Great selection of winter gear and a lot cheaper than most other brands. Sturdy and lasting as well. Crystal34...RedditMackage Coat Review | Natalie YergerFeb 17, 2023 — Mackage vs. ... Mackage vs. Canada Goose vs. Moncler. Canada Goose and Moncler are the only other players the luxury outerwear mar...Natalie YergerMoncler vs. Canada Goose: Which Should You Buy?Nov 5, 2018 — In our opinion, this is the greatest difference between the two brands. Compared to most down jackets, Moncler fits tend to be sli...www.meurice.nycCoats & Jackets - Holt RenfrewCoats & Jackets * MACKAGE. Precious Crochet-Trimmed Down Coat. ... * MACKAGE. Mai Belted Wool Wrap Coat. ... * MACKAGE. Mai Belted...Holt RenfrewCanadian Made Winter Coats & Parkas | Montreal - AudvikFeb 23, 2026 — LOCAL AND ECO-FRIENDLY WINTER COATS Audvik is a combination of our Quebec expertise in high-performance outerwear and our desire t...AudvikOver-sized Down JacketDESCRIPTION This long and feminine coat is crafted from pure cashmere and stands out for its extraordinarily soft and smooth feel,GoogleMoorer Men's SAPPORO-GF ParkaMoorer Parka DARKBLU SAPPORO-GF Smooth parka with a high level of thermal insulation, belonging to the Acqua line (2 umbrellas). P...GoogleMackage Kay-nfr Down Coat With Signature Mackage CollarKAY-NFR is a three-quarter fitted down coat for women featuring a Signature Collar and an asymmetrical zip closure. Made from recy...GoogleQuartz Co. Jules Hooded Down Winter JacketThe Jules is a streamlined performance jacket with a slim, straight fit. Constructed with a water repellent Oxford Repreve shell, ...GoogleGoogle's Shopping DataProduct information aggregated from brands, stores, and other content providersGoogle",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage",
+          "Kanuk",
+          "Quartz Co",
+          "Moncler"
+        ],
+        "specs_found": [
+          "down",
+          "cashmere",
+          "wool"
+        ],
+        "sources": [
+          "https://www.altitude-sports.com/blog/mackage-coats-for-winter-warmth#:~:text=Mackage%20coats%20and%20jackets%20help%20make%20your,sense%20of%20style%E2%80%94urban%2C%20sleek%20and%20thoroughly%20modern.",
+          "https://www.moorer.clothing/us/en/men/outerwear/parka/sapporo-gf-darkblu-MOUPA100021TEPA012U0402.html?Country=US&keeplocale=true&pid=418057144479119",
+          "https://www.meurice.nyc/journal/2018/11/5/moncler-vs-canadagoose#:~:text=In%20our%20opinion%2C%20this%20is,their%20inventive%20and%20designer%20aesthetic.",
+          "https://www.canadagoose.com/",
+          "https://torontolife.com/shopping/10-luxe-hot-spots-to-shop-in-bloor-yorkville/#:~:text=It's%20known%20as%20the%20go%2Dto%20brand%20among,months%20away%2C%20set%20your%20sights%20on%20Moncler.",
+          "https://natalieyerger.com/mackage-coat-review/#:~:text=Moncler,spend%20that%20kind%20of%20money.",
+          "https://audvik.com/en#:~:text=LOCAL%20AND%20ECO%2DFRIENDLY%20WINTER,of%20durable%20and%20timeless%20coats.&text=Proudly%20handcrafted%20in%20our%20Chabanel,creations%20directly%20at%20the%20workshop.&text=Because%20at%20Audvik%20we%20have,loved%20and%20pre%2Dworn%20coats.",
+          "https://montrealtips.com/2025/05/24/top-10-fashion-brands-based-in-montreal-you-should-know/#:~:text=Famed%20for%20crafting%20some%20of%20the%20most,sacrificing%20style%20during%20the%20harsh%20Canadian%20winters.",
+          "https://www.boutiquebubbles.com/blogs/blog/kanuk-vs-quartz-co-a-comparative-review-of-luxury-outerwear-at-boutique-bubbles#:~:text=As%20the%20chill%20of%20winter%20approaches%2C%20the,their%20high%2Dquality%2C%20stylish%2C%20and%20durable%20winter%20coats.",
+          "https://www.whowhatwear.com/fashion/outerwear/best-cashmere-coats#:~:text=Of%20all%20the%20fabrics%20to%20invest%20in%2C,in%20has%20to%20be%20a%20cashmere%20coat."
+        ],
+        "type": "ai_mode_fallback"
+      },
+      "fr": {
+        "text": "Mode IA\nTous\nImages\nVidéos\nActualités\nPlus\nConnexion\nRésultats de recherche\nmeilleur luxury designer winter coat Montreal comparer meilleures options specifications prix\nPour un hiver à Montréal, les meilleurs manteaux de luxe combinent une isolation thermique de haute performance (souvent certifiée pour -30°C) avec des designs sophistiqués. Les marques montréalaises comme Mackage et Kanuk sont particulièrement réputées pour leur équilibre entre style urbain et résistance au froid extrême. \nReddit\n +2\nComparaison des Parkas de Luxe (Modèles Phares)\nModèle \tMarque\tCaractéristiques Clés\tUsage Idéal\nExpedition Parka Heritage\tCanada Goose\tDuvet de canard 625, testé pour -30°C et moins.\tFroid arctique / Extrême\nEdward-V\tMackage\tDuvet traçable, col en fourrure amovible, déperlant.\tChic urbain / Sorties\nYatesy / Merideth\tNobis\tMembrane Sympatex (imperméable), lavable en machine.\tIntempéries / Humidité\nMont-Royal\tKanuk\tIsolation synthétique ou duvet, coupe-vent total.\tClassique Montréalais\nStirling Parka\tMoose Knuckles\tTissu extérieur robuste, pompons iconiques, très chaud.\tStyle audacieux / Jeune\nDétails des Meilleures Options\nCanada Goose Expedition Parka Heritage\nPerformance : Selon Outdoor Gear Lab, c'est le choix ultime pour ceux qui ne veulent jamais avoir froid, bien qu'il soit très volumineux.\nPrix : Environ $1,950.\nMackage (Série Down Parka)\nStyle : Les experts de Yorkville Village soulignent que Mackage offre une alternative tendance aux puffers basiques, idéale pour un look soigné.\nSpécifications : Utilise souvent du duvet de haute qualité avec des finitions en cuir signature.\nNobis (Modèles Yatesy et Merideth)\nTechnologie : Loué par Canoe.com pour sa protection contre les intempéries grâce à des membranes techniques invisibles sous un tissu élégant.\nPraticité : Contrairement à beaucoup de manteaux de luxe, plusieurs modèles Nobis sont lavables à la maison.\nKanuk\nRéputation : Très apprécié des Montréalais qui ne tolèrent pas le froid; réputé pour sa durabilité exceptionnelle sur plusieurs décennies.\nFabrication : Historiquement fabriqué au cœur du Plateau Mont-Royal. \nGearLab\n +5\nOù Acheter à Montréal\nPour essayer ces modèles, les boutiques spécialisées et les grands magasins du centre-ville sont recommandés :\nLa Canadienne : Offre une large sélection de Canada Goose, Moose Knuckles, Nobis et Mackage.\nMaison Simons et Holt Renfrew Ogilvy : Pour les dernières collections de designers internationaux et locaux.\nBoutiques Signatures : Rudsak et Kanuk possèdent leurs propres boutiques phares à Montréal (notamment au Royalmount pour Rudsak).\nVentes d'entrepôt : Des événements comme la \"Mega Vente de Manteaux\" au Palais des Congrès offrent parfois jusqu'à 50% de rabais sur des marques comme Parajumpers ou Mackage. \nInstagram\n +4\nSouhaitez-vous des précisions sur un modèle spécifique pour homme ou femme, ou préférez-vous des options sans fourrure animale ?\n12 sites\nLes marques de doudounes Canadiennes\n6 mars 2026 — Les marques de doudounes Canadiennes * Canada Goose. Canada Goose la marque de doudoune la plus connue et reconnue, offre des vête...\nLa Canadienne\nJacket for this winter : r/montreal - Reddit\n30 sept. 2024 — Mountain Equipment coop (has a big store near Crémazie metro or Laval, if I recall correctly). The north face (make sure to check ...\nReddit\n10 Best Winter Jackets of 2026 | Tested & Ranked - Outdoor Gear Lab\n11 mars 2026 — Our Top Picks * Best Overall Winter Jacket for Men. Fjallraven Nuuk Parka. $500 List. Check Price at Backcountry. Jump to Details ...\nGearLab\nTout afficher",
+        "brands_mentioned": [
+          "The North Face",
+          "Canada Goose",
+          "Mackage",
+          "Moose Knuckles",
+          "Kanuk",
+          "Nobis",
+          "Rudsak",
+          "La Canadienne"
+        ],
+        "specs_found": [
+          "duvet",
+          "imperméable",
+          "cuir",
+          "$1"
+        ],
+        "sources": [
+          "https://www.reddit.com/r/Quebec/comments/17rs1rz/meilleur_rapport_qualit%C3%A9_prix_pour_les_manteaux/#:~:text=J'ai%20pass%C3%A9%20de%20Canada%20Goose%20(lourd%2C%20coutures,2%20hivers)%20pour%20ensuite%20acheter%20le%20Kanuk.",
+          "https://www.la-canadienne.com/",
+          "https://www.instagram.com/reel/DQxPYEGCTed/",
+          "https://www.outdoorgearlab.com/best-winter-jacket",
+          "https://canoe.com/life/fashion/best-winter-jackets-in-canada",
+          "https://www.instagram.com/reel/DPPP2DdkUm0/",
+          "https://www.tiktok.com/@maaguie__/video/7555963669532658999",
+          "https://www.la-canadienne.com/blogs/le-mag/les-marques-de-doudounes-canadiennes",
+          "https://www.yorkvillevillage.com/whats-happening/7-stylish-winter-coats-to-buy-now#:~:text=This%20classic%20maxi%20coat%20from,a%20wardrobe%20hero%20this%20winter..&text=To%20Buy%20Now-,Looking%20for%20an%20outstanding%20new%20coat%20that%20will%20keep%20you,a%20wardrobe%20hero%20this%20winter.",
+          "https://www.instagram.com/reel/DR5aobPjt77/"
+        ],
+        "type": "ai_mode_fallback"
+      }
+    }
+  },
+  "probeB_accuracy": {
+    "google": {
+      "en": {
+        "text": "AI Mode\nAll\nImages\nVideos\nNews\nMore\nSign in\nSearch Results\nSSENSE luxury designer winter coat full technical specs materials technology pricing\nAt SSENSE, luxury designer winter coats range from high-performance technical parkas to sartorial wool overcoats, with prices typically between $430 CAD and $6,290 CAD. Leading technical brands like Moncler and The North Face utilize specialized insulation like DIST-certified goose down and weatherproof technologies such as GORE-TEX and non-PFC DWR coatings. \nSSENSE\n +4\nTechnical Specifications & Materials\nThe technical builds on SSENSE focus on balancing extreme warmth with weather protection: \nInsulation & Fill:\nGoose Down: Most high-end puffers (e.g., Moncler Maya) feature a 90% goose down / 10% feather ratio for maximum loft and heat retention.\nResponsible Sourcing: Many brands utilize RDS-certified (Responsible Down Standard) or DIST-certified down to ensure ethical sourcing.\nShell Materials:\nNylon Laqué & Taffeta: Used for its lightweight, water-resistant, and high-shine properties.\nRipstop: A durable, cross-hatched fabric used in models like the Moncler Masac to prevent tears from spreading.\nOJJ (Original Japanese Jersey): Featured by brands like Ten c, this material is designed to patina and shape to the wearer over time.\nPerformance Technology:\nGORE-TEX: Employed for total waterproof and windproof protection while remaining breathable.\nDWR Coating: Non-PFC Durable Water Repellent finishes are common to allow moisture to bead off the surface without using harmful chemicals.\n37.5® Technology: Used in brands like Norse Projects ARKTISK to actively manage core body temperature. \nSSENSE\n +6\nPricing and Product Examples\nPrices reflect current SSENSE listings as of April 2026. \nDesigner \tProduct Name\tKey Materials\tPrice\nThe North Face\t1996 Retro Nuptse Jacket\t700-fill RDS Down, Ripstop Nylon\t$430 CAD\nMoncler\tBlack Moka Coat\t90% Down, Quilted Nylon\t$2,540 CAD\nTOTEME\tBlack Classic Winter Coat\tRecycled Wool-blend Melton\t$2,750 CAD\nMoncler\tBlack Maya Matte Jacket\tDIST-certified Down, Nylon Satin\t$2,955 CAD\nRick Owens\tTemple Drella Trench\tHeavyweight Cotton/Nylon\t$4,395 CAD\nAdvanced Design Features\nModular Systems: Many technical coats feature Triclimate® loops or \"snap-in\" compatibility, allowing the wearer to layer different shells and liners together.\nPackability: Technical puffers often feature specialized internal pockets that allow the entire jacket to be stowed for travel.\nAdjustability: Premium builds include concealed bungee-style drawstrings at the hood and hem, along with velcro or press-stud elasticized cuffs to seal out wind. \nSSENSE\nWould you like to compare the weather-resistance ratings of these brands or see more sustainable material options?\n12 sites\nDesigner coats for Men | SSENSE Canada\nBeige Regular-Fit Wool & Cashmere Coat. $430 $1000. The Row. Black Compa Coat. $5550. The Row. Gray Hesper Coat. $5340. OUR LEGACY...\nSSENSE\nTHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON\nOct 31, 2023 — One of Ten c's most distinctive characteristics is the use of OJJ, or Original Japanese Jersey, which is designed to age like deni...\nSSENSE\nBlack Montcla Short Down Jacket - Moncler - SSENSE\nBlack Montcla Short Down Jacket. DIST-certified down-filled quilted nylon satin jacket. Concealed logo-embroidered grosgrain trim ...\nSSENSE\nShow all",
+        "brands_mentioned": [
+          "The North Face",
+          "SSENSE",
+          "Moncler"
+        ],
+        "specs_found": [
+          "gore-tex",
+          "down",
+          "waterproof",
+          "breathable",
+          "recycled",
+          "nylon",
+          "cashmere",
+          "wool",
+          "dwr",
+          "$430"
+        ],
+        "sources": [
+          "https://www.ssense.com/en-ca/men/coats#:~:text=Black%202L%20Nylon%20GORE%2DTEX,WOOYOUNGMI",
+          "https://www.ssense.com/en-ca/women/product/totme/black-classic-winter-coat/18625931",
+          "https://www.ssense.com/en-sa/editorial/market/best-winter-coats#:~:text=SSENSE%20says:%20Norse%20Projects%20added,from%20Loro%20Piana%20to%20shine.",
+          "https://www.ssense.com/en-ca/men/coats#:~:text=Beige%20Regular%2DFit%20Wool%20&%20Cashmere,$1985%20$3970",
+          "https://www.ssense.com/en-ca/men/coats#:~:text=Black%20Wool%20Blend%20Half%20Coat,$2195",
+          "https://www.ssense.com/en-ca/women/product/the-north-face/ssense-exclusive-black-1996-retro-shine-nuptse-down-jacket/15378181",
+          "https://www.ssense.com/en-ca/women/product/moncler/black-down-moka-coat/5307811",
+          "https://www.thenorthface.com/en-us",
+          "https://www.ssense.com/en-ca/men/product/moncler/black-maya-matte-short-down-jacket/17793571",
+          "https://www.ssense.com/en-ca/men/coats"
+        ],
+        "type": "ai_mode_fallback"
+      },
+      "fr": {
+        "text": "Mode IA\nTous\nImages\nVidéos\nActualités\nPlus\nConnexion\nRésultats de recherche\nSSENSE luxury designer winter coat specifications techniques completes materiaux technologie prix\nLes manteaux d'hiver de luxe disponibles sur SSENSE intègrent des matériaux de haute performance et des technologies de pointe pour allier esthétique et protection thermique extrême. Les prix varient généralement de 500 CAD pour des modèles techniques d'entrée de gamme jusqu'à plus de 4 000 CAD pour des pièces de créateurs haut de gamme. \nSSENSE\n +3\nMatériaux et Technologies de Pointe\nLes designers sur SSENSE utilisent des textiles brevetés pour garantir imperméabilité et respirabilité :\nMembranes Techniques : L'usage du GORE-TEX et du PERTEX® est fréquent chez des marques comme nanamica et Goldwin pour assurer une protection totale contre le vent et l'eau.\nIsolants Thermiques : Les pièces utilisent souvent du duvet d'oie recyclé ou du duvet naturel à haut facteur de gonflement (fill power), ainsi que des technologies comme PrimaLoft® pour une isolation légère et efficace.\nTissus Innovants : Certaines marques utilisent des matériaux uniques comme l'OJJ (Original Japanese Jersey) de Ten c, qui se patine avec le temps, ou des tissus Dermizax™ extensibles et imperméables. \nSSENSE\n +5\nSpécifications Techniques par Marque\nCanada Goose : Reconnue pour ses parkas capables de résister à des conditions arctiques, utilisant des mélanges de coton et polyester durables avec finitions déperlantes.\nMoncler & Moncler Grenoble : Proposent des doudounes en nylon ripstop avec des revêtements sans PFC (PFC-free) et des matelassages complexes pour une silhouette stylisée sans sacrifier la chaleur.\nArc'teryx Veilance : Se concentre sur une esthétique urbaine minimaliste utilisant des techniques de thermosoudage (bonded seams) et du nylon triple épaisseur pour une imperméabilité maximale. \nSSENSE\n +3\nGamme de Prix (Estimations SSENSE 2026)\nMarque \tType de Manteau\tPrix Approximatif (CAD)\nThe North Face\tDoudoune Nuptse\t460 \n–\n6\n0\n0\n\nMackage / Canada Goose\tParka technique\t800 \n–\n1\n6\n0\n0\n\nMoncler\tVeste isolante de luxe\t1 500 \n–\n2\n5\n0\n0\n\nRick Owens / Jil Sander\tManteau de défilé / Trench technique\t2 500 \n–\n4\n5\n0\n0\nSouhaitez-vous comparer les performances thermiques spécifiques entre deux marques précises comme Moncler et Canada Goose ?\n11 sites\nTECHY OUTERWEAR REIGNS SUPREME IN FALL & WINTER\n27 oct. 2023 — C.P. Company Black Baffled Down Jacket. C.P. Company's advanced fabrics have kept the Italian company at the forefront of technica...\nSSENSE\nTHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON\n31 oct. 2023 — SSENSE says: Norse Projects added the ARKTISK facet to its business in 2022. Still a fledgling offshoot, the Norse Projects ARKTIS...\nSSENSE\nDesigner jackets & coats for Women | SSENSE Canada\nGray & Navy Triple Layered Nylon Zip-Up Jacket. $1090. Max Mara. Brown Azeus Coat. $2390. Max Mara. Brown Soft Jacket. $1695. Mugl...\nSSENSE\nTout afficher",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "The North Face",
+          "Canada Goose",
+          "Mackage",
+          "SSENSE",
+          "Moncler",
+          "Max Mara"
+        ],
+        "specs_found": [
+          "gore-tex",
+          "duvet",
+          "fill power",
+          "imperméable",
+          "primaloft",
+          "recyclé",
+          "nylon",
+          "polyester",
+          "500 cad"
+        ],
+        "sources": [
+          "https://www.ssense.com/en-ca/women/jackets-coats?gclid=Cj0KEQjwvOC5BRCb_8yNmZ_ls9IBEiQACTz8vmFLi8S3JDM22VnQmvxIg_wZ47pMoOBko13TIj_fwUwaAg1a8P8HAQ&sort=price-asc&sizes=S&page=7#:~:text=Brown%20Reedition%20Vinyl%20Jacket,Beige%20Igelle%20Down%20Jacket",
+          "https://www.ssense.com/en-ca/editorial/market/best-winter-coats#:~:text=SSENSE%20says:%20Canada%20Goose%20is,both%20urban%20and%20extreme%20lifestyles.",
+          "https://www.ssense.com/en-ca/editorial/market/best-technical-jackets-fall-winter#:~:text=C.P.%20Company%20Black%20Baffled%20Down,Herno%20Blue%20Laminar%20Down%20Jacket",
+          "https://www.ssense.com/en-ca/women/jackets-coats?gclid=Cj0KEQjwvOC5BRCb_8yNmZ_ls9IBEiQACTz8vmFLi8S3JDM22VnQmvxIg_wZ47pMoOBko13TIj_fwUwaAg1a8P8HAQ&colors=black&sort=price-desc&page=4#:~:text=$817%20$1900,$765",
+          "https://www.ssense.com/en-ca/men/coats#:~:text=$3105-,Dries%20Van%20Noten,WOOYOUNGMI",
+          "https://www.ssense.com/en-ae/women/outerwear#:~:text=Designer%20jackets%20give%20women%20a,with%20a%20sense%20of%20luxury.",
+          "https://www.ssense.com/en-ca/editorial/fashion/arcteryx-veilance-and-the-even-greater-outdoors#:~:text=Arc'teryx%20has%20been%20successful,to%20transition%20between%20both%20environments.",
+          "https://www.ssense.com/en-ca/men/jackets-coats#:~:text=$170-,The%20North%20Face,Toogood",
+          "https://www.ssense.com/en-ca/editorial/market/best-winter-coats#:~:text=SSENSE%20says:%20Norse%20Projects%20added,from%20Loro%20Piana%20to%20shine.",
+          "https://www.ssense.com/en-ca/editorial/market/best-technical-jackets-fall-winter#:~:text=Shaped%20by%20the%20French%20Alps,Related%20Stories"
+        ],
+        "type": "ai_mode_fallback"
+      }
+    }
+  },
+  "probeC_competitive": {
+    "google": {
+      "en": {
+        "text": "AI Mode\nAll\nImages\nVideos\nNews\nMore\nSign in\nSearch Results\nSSENSE vs Farfetch luxury designer winter coat comparison\nSSENSE and Farfetch are both legitimate luxury retailers, but they operate on fundamentally different business models that affect your shopping experience for winter coats. SSENSE is a traditional retailer that buys and stocks its own inventory, allowing for better control over photography, descriptions, and shipping speed. Farfetch is a global marketplace that connects you to hundreds of independent boutiques worldwide, offering a significantly larger and more diverse selection of rare or localized items. \nInPractise\n +4\nSelection and Brand Range\nWhile both carry major luxury houses like Burberry, Canada Goose, and Moncler, their curation styles differ.\nSSENSE: Focuses on a highly curated, often \"edgy\" or avant-garde selection. They are known for supporting emerging designers and providing consistent, high-quality editorial content for items like The North Face Nuptse jackets or White Mountaineering technical coats.\nFarfetch: Offers an unrivaled volume of products because it pulls from global boutique stock. This makes it superior for finding a specific coat that might be sold out elsewhere or for discovering niche European labels not carried by North American retailers. \nReddit\n +4\nPricing and Shipping\nPricing on these platforms can vary for the exact same item due to their different structures.\nSSENSE: Pricing is generally consistent for a given region. For Canadian customers, SSENSE is often the better choice as it is based in Montreal; orders within Canada do not incur duties, and shipping is typically very fast.\nFarfetch: Uses \"distributed stock,\" meaning the price you see can change based on which boutique is fulfilling the order and where it is located. However, they often use a Delivery Duties Paid (DDP) model, where all taxes and duties are included in the checkout price. \nSSENSE\n +4\nReturns and Customer Experience\nBoth retailers have faced recent financial and structural resets, leading to some mixed customer reviews regarding service during peak periods. \nThe Fashion Law\n +2\nSSENSE: Offers a 30-day return window. Reviews generally praise their fast initial shipping, but some users have reported challenges with the return process, specifically regarding the inspection of tags and original packaging.\nFarfetch: Also offers a 30-day return policy and provides a \"free collection\" service where a courier picks up the return from your home. Because they act as a middleman, some users report more \"mixed\" experiences with customer service compared to direct retailers. \nTrustpilot\n +5\nRecommended Winter Coat Brands by Platform\nCanada Goose: Featured prominently on SSENSE for both urban and extreme weather needs.\nThe North Face: A top recommendation from SSENSE editorial for performance and value.\nVivienne Westwood: Often cited by shoppers as having better vintage or rare coat availability on Farfetch.\nMackage: Widely available on both, with SSENSE often carrying more experimental cuts. \nThese articles explain the business models and product curation of SSENSE and Farfetch for winter coats:\nBusiness Model Canvas – Farfetch\nUnlike other platforms that look similar – like Yoox – Farfetch does not bear any inventory cost. Their original business was buil...\nlumosbusiness.com\nTHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON\nOct 31, 2023 — One of Ten c's most distinctive characteristics is the use of OJJ, or Original Japanese Jersey, which is designed to age like deni...\nSSENSE\nWhy would anyone want to use Farfetch (the ecommerce site)?\nMar 1, 2020 — * • 6y ago. It's good for getting hold of times that don't get stocked at Mr P/ssense/end etc. * 0kaysee. • 6y ago. FarFetch also ...\nReddit\nOnline Luxury Fashion: Marketplaces vs Retailers - InPractise\nAug 19, 2020 — There are two main models as you say. The marketplace model, with Farfetch being the biggest operator in that area, from a luxury ...\nInPractise\nFarfetch or Ssense : r/viviennewestwood - Reddit\nOct 12, 2025 — If you're in the US I'd hold off from buying from either retailer at this point. Lots of folks on the SSENSE sub are reporting del...\nReddit\nFAQs - Customer Service - Farfetch Canada\nReturns and refunds * What is FARFETCH's returns policy? We offer a refund on any items returned to us within 30 days of the deliv...\nFarfetch\nAre you looking for a specific designer coat, or would you like to see current sale comparisons for a particular brand?\n19 sites\nBusiness Model Canvas – Farfetch\nUnlike other platforms that look similar – like Yoox – Farfetch does not bear any inventory cost. Their original business was buil...\nlumosbusiness.com\nTHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON\nOct 31, 2023 — One of Ten c's most distinctive characteristics is the use of OJJ, or Original Japanese Jersey, which is designed to age like deni...\nSSENSE\nOnline Luxury Fashion: Marketplaces vs Retailers - InPractise\nAug 19, 2020 — There are two main models as you say. The marketplace model, with Farfetch being the biggest operator in that area, from a luxury ...\nInPractise\nShow all",
+        "brands_mentioned": [
+          "The North Face",
+          "Canada Goose",
+          "Mackage",
+          "SSENSE",
+          "Moncler",
+          "Farfetch"
+        ],
+        "specs_found": [],
+        "sources": [
+          "https://www.ssense.com/en-ca/editorial/market/best-winter-coats#:~:text=SSENSE%20says:%20Canada%20Goose%20is,both%20urban%20and%20extreme%20lifestyles.",
+          "https://www.reddit.com/r/viviennewestwood/comments/1o4jf8n/farfetch_or_ssense/#:~:text=Not%20sure%20if%20Farfetch%20does,from%20SSENSE%20to%20be%20authentic.&text=I%20ordered%20this%20bag%2C%20in,papers%20and%20a%20dust%20bag.&text=If%20you're%20in%20the,due%20to%20the%20US%20gov.&text=I've%20bought%20from%20both,I%20prefer%20SSENSE%20tho.&text=Farfetch%20is%20usually%20better%20for,they%20stock%20authentic%20Westwood%20menswear.",
+          "https://www.reddit.com/r/montreal/comments/1qmzrcd/what_is_your_experience_returning_stuff_at_ssense/#:~:text=I%20ordered%20clothes%20online%20on,t%20do%20is%20so%20frustrating.",
+          "https://thewalrus.ca/inside-the-ssense-fiasco/#:~:text=J'Nae%20Phillips%2C%20who%20writes,reads%20like%20a%20Baudrillard%20essay.",
+          "https://vizologi.com/business-strategy-canvas/ssense-business-model-canvas/#:~:text=The%20landscape%20of%20high%2Dend,brands%2C%20alongside%20superior%20customer%20service.",
+          "https://www.ssense.com/en-ca/men/jackets-coats",
+          "https://www.thefashionlaw.com/from-farfetch-to-ssense-the-downfall-of-the-multi-brand-luxury-retailer/#:~:text=Multi%2Dbrand%20luxury%20platforms%20like,fueled%20by%20excessive%20capital%20raises.",
+          "https://ca.trustpilot.com/review/www.ssense.com?page=7#:~:text=Would%20shop%20again.&text=I%20received%20my%20Jimmy%20Choo,Excellent%20service!&text=Always%20professional.,for%20more%20than%208%20years.&text=I%20love%20shopping%20at%20SSense,after%20I%20ordered%20my%20stuff.&text=Great%20deals%20for%20exclusive%20pieces,shipped%20to%20a%20foreign%20country.&text=SSENSE%20:%20Great%20prices%20and%20fast,shop%20for%20the%20best%20deals!&text=Shipping%20was%20quick%20and%20the,and%20good%20deal%20during%20sale!&text=Everything%20was%20smooth%2C%20and%20the,Fast%20delivery%20too.&text=Very%20transparent%20and%20communicative.,to%20shop%20with%20the%20company.&text=Loved%20the%20piece%20that%20I,the%20return%20process%20very%20easy!&text=Customer%20service%20had%20a%20quick,item%20was%20shipped%20out%20fast.&text=Fast%20shipping%20and%20straight%20forward,be%20ordering%20from%20them%20again.",
+          "https://www.blackbirdspyplane.com/p/is-ssense-hurting-the-cool-clothes-ecosystem#:~:text=Ssense's%20biggest%20e%2Dcommerce%20rivals,the%20%E2%80%9Ccool%20clothes%E2%80%9D%20ecosystem??",
+          "https://www.thefashionlaw.com/from-farfetch-to-ssense-the-downfall-of-the-multi-brand-luxury-retailer/#:~:text=into%20vulnerable%20middlemen.-,From%20Farfetch%20to%20SSENSE:%20The%20State%20of%20the%20Multi%2DBrand,fueled%20by%20excessive%20capital%20raises."
+        ],
+        "type": "ai_mode_fallback"
+      },
+      "fr": {
+        "text": "19 sitesThe Best Online Stores for Fashion Lovers - smcfashion.com14 mai 2025 — The Best Online Stores for Fashion Lovers. Ever found yourself scrolling endlessly through your phone at 2 AM, hunting for that pe...smcfashion.comFarfetch or Ssense : r/viviennewestwood - Reddit12 oct. 2025 — * Comparison of Farfetch and Ssense. * Vivienne Westwood products on Ssense. * Alternatives to Farfetch for shopping. * Ssense alt...RedditFarfetch, Ssense, what else? : r/luxurypurses - Reddit19 oct. 2024 — Farfetch, Ssense, what else? Sorry, this post was deleted by the person who originally posted it. ... Comments Section * MimiDXB. ...RedditFarfetch, Ssense, what else? : r/luxurypurses - Reddit19 oct. 2024 — Farfetch, Ssense, what else? Sorry, this post was deleted by the person who originally posted it. ... Comments Section * MimiDXB. ...RedditSSENSE Shipping and Return Policies - Your Next Shoes25 mai 2020 — SSENSE Shipping and Return Policies: Everything You Need to Know. ... Are you looking for streetwear or luxury fashion to spice up...Your Next ShoesReturn Policy | SSENSE CanadaShopping * Your Order. * How to Shop. * Product Information. * Payment Information. * Shipping & Handling. * Return Policy. * Pric...SSENSESSENSE : r/AusFemaleFashion - Reddit16 janv. 2024 — * SSENSE reviews. * SSENSE return policy. * SSENSE shipping information. * Top Australian brands for sustainable fashion. * Best o...RedditBuying High-End goods for less : r/frugalmalefashion - Reddit4 oct. 2023 — * Legitimacy of Modesens website. * Best discount designer websites. * Websites similar to Yoox. * Discounted luxury brands option...RedditFAQ - SSENSEFree shipping for a limited time on full-price merchandise totaling over $500 USD. * English. ... Shopping * Your Order. * How to ...SSENSEDesigner Coats for Women | Moncler & Burberry - FarfetchDesigner Coats for Women * Maje. belted trench coat. $685. $343. -50% Available in. L, XL. * New Season. Max Mara. belted trench c...FarfetchBEAT WINTER WITH THESE TEN DESIGNER PUFFER ...2 nov. 2023 — With options stretching from Rick Owens to The North Face, puffer jackets are the people's choice when it comes to winter coats. *SSENSEDesigner Coats for Men - FARFETCH CanadaDesigner Coats for Men * Herno. hooded raincoat. $1,490. $624. -55% Available in. 3XL. * Woolrich. Parka Light Ramar con cappuccio...FarfetchDesigner coats for Men | SSENSE CanadaCategories * Categories. * ACCESSORIES. * BAGS. * CLOTHING. Jackets & Coats. Bombers. Coats. Denim Jackets. Down. Fur & Shearling.SSENSEDon't buy from SSENSE : r/BuyCanadian - Reddit30 nov. 2024 — * Legitimacy of SSENSE as a shopping site. * SSENSE return policies and experiences. * Why are SSENSE prices lower than competitor...RedditSale | Jackets & Coats | Up to 70% Off | SSENSE CanadaCategories * Categories. * ACCESSORIES. * BAGS. * CLOTHING. Activewear. Dresses. Jackets & Coats. Blazers. Bombers. Coats. Denim J...SSENSEIs ssense.com legit? : r/luxurypurses - Reddit13 juill. 2023 — Comments Section * Apprehensive_Yak_404. • 2y ago. STAY AWAY from SSENSE.com!!!! A sophisticated FRAUDULENT company that SCAMS peo...RedditDesigner coats for Women - SSENSECategories * Categories. * ACCESSORIES. * BAGS. * CLOTHING. Activewear. Dresses. Jackets & Coats. Blazers. Bombers. Coats. Denim J...SSENSETHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON31 oct. 2023 — One of Ten c's most distinctive characteristics is the use of OJJ, or Original Japanese Jersey, which is designed to age like deni...SSENSETHE BEST WINTER COAT BRANDS FOR A TOASTY SEASON31 oct. 2023 — 이용약관 참조. * 남성 컬렉션 * 여성 컬렉션 * 라이프스타일 * 세일 * 검색 * 로그인 * 위시리스트 * 쇼핑백 (0) ... One of Ten c's most distinctive characteristics is the u...SSENSE10 Best Designer Coats For Men - FarfetchBottega Veneta Technical Hooded Coat. Hikercore meets haute couture: Bottega Veneta reclaims technical outerwear from your geograp...Farfetch",
+        "brands_mentioned": [
+          "The North Face",
+          "SSENSE",
+          "Moncler",
+          "Max Mara",
+          "Farfetch"
+        ],
+        "specs_found": [
+          "down",
+          "wool",
+          "$500"
+        ],
+        "sources": [
+          "https://www.ssense.com/en-ae/customer-service",
+          "https://www.reddit.com/r/BuyCanadian/comments/1h3fxwf/dont_buy_from_ssense/",
+          "https://www.yournextshoes.com/ssense-shipping-return-policy/#:~:text=Countries%20such%20as%20Austria%2C%20Switzerland,did%20SSENSE%20shut%20down%20Polyvore?",
+          "https://www.farfetch.com/ca/shopping/men/coats-2/items.aspx#:~:text=Statement%20pieces%20or%20winter%20warmers,S%2C%20M%2C%20XXL",
+          "https://www.reddit.com/r/luxurypurses/comments/14ywsv9/is_ssensecom_legit/",
+          "https://www.ssense.com/ko-kr/editorial/market/best-winter-coats#:~:text=One%20of%20Ten%20c's%20most,Image:%20The%20North%20Face%20jacket.&text=SSENSE%20says:%20In%20every%20conversation,Image:%20White%20Mountaineering%C2%AE%EF%B8%8E%20jacket.&text=SSENSE%20says:%20White%20Mountaineering%C2%AE%EF%B8%8E,pick%20out%20of%20a%20crowd.",
+          "https://www.farfetch.com/ca/shopping/women/coats-1/items.aspx",
+          "https://www.ssense.com/en-ca/customer-service/return-policy#:~:text=SSENSE%20Return%20Policy,be%20returned%20in%20original%20packaging.",
+          "https://www.ssense.com/en-au/women/coats#:~:text=Menswear%2Dinspired%20styles%20are%20updated,that%20suits%20any%20woman's%20wardrobe.&text=A.P.C.,-Navy%20Amy%20Denim&text=A.P.C.,-Off%2DWhite%20Coated&text=A.P.C.,-Navy%20Recycled%20Wool&text=A.P.C.,-Black%20Long%20Parka",
+          "https://smcfashion.com/blogs/business-and-fashion-blog/the-best-online-stores-for-fashion-lovers#:~:text=Premium%20Designer%20Websites%20That%20Won't%20Break%20Your%20Bank&text=Farfetch%20connects%20you%20to%20boutiques,ve%20been%20eyeing%20all%20year."
+        ],
+        "type": "ai_mode_fallback"
+      }
+    }
+  }
+}

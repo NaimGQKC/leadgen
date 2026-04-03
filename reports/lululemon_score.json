@@ -1,7 +1,7 @@
 {
   "brand": "Lululemon",
-  "ias": 72,
-  "severity": "GREEN",
+  "ias": 62,
+  "severity": "YELLOW",
   "llm_scores": {
     "claude": {
       "score": 100,
@@ -11,11 +11,16 @@
         "en_rank": 1,
         "fr_rank": 1,
         "spec_ratio": 1.0,
-        "en_spec_count": 2,
-        "fr_spec_count": 2,
+        "en_spec_count": 5,
+        "fr_spec_count": 5,
         "hijacking": false,
-        "pricing_check": "specs_present",
+        "pricing_check": "both_present",
         "competitors_in_fr_generic": [
+          "Arc'teryx",
+          "The North Face",
+          "Nike"
+        ],
+        "competitors_in_en_generic": [
           "Arc'teryx",
           "The North Face",
           "Nike"
@@ -24,9 +29,9 @@
       }
     },
     "gpt4o": {
-      "score": 58,
+      "score": 43,
       "details": {
-        "generic_fr_present": "unknown",
+        "generic_fr_present": false,
         "rank_parity": "unknown",
         "en_rank": null,
         "fr_rank": null,
@@ -34,12 +39,30 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
-        "ghosted": false
+        "competitors_in_en_generic": [],
+        "ghosted": true
       }
     },
     "gemini": {
+      "score": 43,
+      "details": {
+        "generic_fr_present": false,
+        "rank_parity": "unknown",
+        "en_rank": null,
+        "fr_rank": null,
+        "spec_ratio": "unknown",
+        "en_spec_count": 0,
+        "fr_spec_count": 0,
+        "hijacking": false,
+        "pricing_check": "none",
+        "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
+        "ghosted": true
+      }
+    },
+    "google": {
       "score": 58,
       "details": {
         "generic_fr_present": "unknown",
@@ -50,8 +73,9 @@
         "en_spec_count": 0,
         "fr_spec_count": 0,
         "hijacking": false,
-        "pricing_check": "unknown",
+        "pricing_check": "none",
         "competitors_in_fr_generic": [],
+        "competitors_in_en_generic": [],
         "ghosted": false
       }
     }
