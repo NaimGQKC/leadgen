@@ -1,0 +1,170 @@
+{
+  "brand": "Aldo Group",
+  "product_category": "stylish boots and shoes",
+  "top_competitor": "Steve Madden",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleures bottes tendance à Montréal",
+    "fr_2": "où acheter des bottes à la mode Montréal",
+    "fr_3": "bottes stylées et confortables pour l'hiver Québec",
+    "fr_4": "Aldo bottes spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Aldo vs Steve Madden bottes comparaison",
+    "en": "best stylish boots Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.4,
+    "avg_specs_en": 5.0,
+    "avg_specs_fr": 5.0,
+    "spec_preservation": 1.0,
+    "confidence_range": {
+      "en": {
+        "min": 2,
+        "max": 11
+      },
+      "fr": {
+        "min": 2,
+        "max": 9
+      }
+    },
+    "competitor_frequency_en": {
+      "Blundstone": 0.33,
+      "La Canadienne": 0.33,
+      "Steve Madden": 0.33
+    },
+    "competitor_frequency_fr": {
+      "La Canadienne": 0.6,
+      "Blundstone": 0.4,
+      "Columbia": 0.2,
+      "Steve Madden": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "Montreal's boot scene is a blend of high-fashion European imports and rugged, locally designed heritage brands that handle the city's slush with style. You can find everything from handmade Italian leather at Maguire Shoes to the iconic, winter-ready designs of Pajar Canada.\n\nTop Local Designers & Specialized Boutiques\n\nThese stores are celebrated for their unique selections and high-quality craftsmanship, often designed right in Montreal.\n\nMaguire Shoes: Founded by sisters Myriam and Romy, this brand focuses on making high-end European styles accessible. Their Lucca Leather Knee-High Boots are a standout for a sleek, \"moto\" look without sacrificing quality.\n\nLa Canadienne: Known for their \"City Dry\" technology, these boots are specifically designed for Montreal weather—waterproof yet dressy enough for the office or dinner. Popular models like the Cye Pebbled Leather Bootie offer a classic Chelsea style with weather protection.\n\nPajar Canada: A Montreal institution since 1963, Pajar combines heritage with innovation. Their Bili men's boot, for example, is designed for temperatures as low as -40°C.\n\nChaussures Sandrini Shoes: Located in Old Montreal, this family-owned shop is highly rated for its curated selection of European brands and unique styles you won't find in major chains.\n\nBoutique Tozzi: A go-to for trendy, high-end men's and women's footwear in a minimalist setting on Crescent Street. They are praised for carrying unique, \"secret pleasure\" pieces.\n\nStylish Boot Recommendations\n\nWhether you need a rugged everyday boot or something for a night out, these options are currently popular in Montreal:\n\nChelsea & Ankle Boots:\nBlundstone 558 Classic: A city-wide favorite for its \"style and utility\" and ease of use. Available at local shops like Mile End Kicks.\nVagabond Hedda: A minimalist, 70s-inspired leather boot with a flared heel, available at La Maison Simons.\n\nHeritage & Rugged Boots:\nThursday Boot Co. Diplomat: A streamlined moc-toe boot that ages well and is versatile for both casual and dressy outfits.\nLa Canadienne Conquer: A shearling-lined combat boot that's perfect for Montreal's snow.\n\nShopping Tips for Montreal\n\nOld Montreal (Vieux-Port): Visit for unique boutiques like Felix Boutique (sneakers and espresso) or Sandrini.\nMile-End & Plateau: These neighborhoods are the heart of local design; Maguire Shoes is located on Boul. Saint-Laurent.\nSales Events: Look out for La Grande Braderie de Mode Québécoise, where local designers sell surplus stock and samples at deep discounts.\n\nAre you looking for winter-specific boots to handle the snow, or a more versatile leather boot for year-round wear?",
+        "brands_mentioned": [
+          "Blundstone",
+          "La Canadienne"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "La Canadienne | City Dry™",
+          "Maguire Lucca Leather Knee-High Boots",
+          "Bili Men's by Pajar Black"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Aldo boots are characterized by their integration of proprietary comfort technologies and a focus on sustainable, certified materials. As of April 2026, their boot collection typically ranges from $65 CAD to $245 CAD, with many premium leather and specialized tech styles falling between $130 CAD and $198 CAD.\n\nCore Comfort Technologies\n\nAldo utilizes two primary technology suites to differentiate their footwear performance:\n\nPillow Walk™: This system focuses on \"skip the break-in period\" comfort.\n- Dual-Density Foam: A formula designed to absorb impact and release it comfortably for long-duration wear.\n- Moulded Sock Foam: Strategically placed at the ball and heel of the foot to provide targeted padding and increase stability.\n- Rebound: Combines high-density polyurethane with soft memory foam to maintain shape and cushioning.\n\nALDO Flex: Designed for superior foot control and a natural range of motion, often used in Chelsea and ankle boot styles.\n\nMaterials & Sustainability\n\nAldo has made a significant commitment to sustainable materials and transparency in sourcing.\n\nResponsible Leather: Approximately 99% of the leather used is sourced from Leather Working Group (LWG) certified tanneries, with a significant majority rated Gold or Silver for environmental responsibility.\n\nSustainable Components:\n- Algae EVA Foam: Used in soles (like the ALDO Doublezero Combat Boots) to help filter freshwater and reduce CO2.\n- Recycled Materials: Integration of recycled polyester (PET) from plastic bottles and recycled thermoplastic rubber (TPR).\n- Corn-Based Leather: A plant-based alternative introduced to reduce reliance on non-renewable energy sources.\n\nPerformance Features:\n- Weather Resistance: Many styles are \"Cold-Rated\" for temperatures down to -20°C or feature \"Waterproof\" engineering.\n- Odor Control: Some technical styles use active charcoal and antibacterial foam to manage moisture and scent.\n\nPricing and Representative Models\n\nPrices vary based on material (synthetic vs. premium leather) and technology integration.\n\nBoot Model | Key Tech | Material | Price (CAD)\nDoublezero Combat Boot | Pillow Walk, Algae EVA | Leather | ~$198\nAldo Flex Chelsea Boot | ALDO Flex | Leather | ~$170\nPillow Walk Ankle Boot | Pillow Walk | Synthetic | ~$130\nCold-Rated Winter Boot | Waterproof, Cold-Rated | Leather/Synthetic | ~$175–$245\n\nAre you looking for a specific boot style (Chelsea, combat, knee-high) or a particular technology feature?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "ALDO Shoes - Official Site",
+          "ALDO Technology & Comfort Features",
+          "ALDO Sustainability Report"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Aldo and Steve Madden are often compared as \"fast-fashion\" footwear giants, but they differ significantly in their design philosophies and comfort technologies. Aldo generally focuses on sophisticated, \"luxe\" aesthetics often inspired by luxury brands. Steve Madden is known for trend-heavy, \"edgy\" designs with a frequent focus on \"rocker\" or \"faddish\" styles.\n\nQuick Comparison\n\nFeature | Aldo Boots | Steve Madden Boots\nStyle Profile | Sophisticated, feminine, and tailored | Edgy, trendy, and bold\nPrimary Comfort | Pillow Walk (dual-density foam) | Built-in cushioning (variable)\nConstruction | Primarily cemented (glued) soles | Mix of glued and stitched; some genuine leather\nSizing | Generally true to size | Often runs small/tight; sizing up 1/2 size recommended\n\nKey Differences to Consider\n\nComfort & Technology:\nAldo: Many modern boots feature Pillow Walk technology, which includes impact-absorbing foam and extra padding for immediate comfort.\nSteve Madden: Comfort reviews are more mixed. Some users report significant discomfort, especially in high heels, sometimes requiring an extra pair of shoes for backup.\n\nMaterial & Durability:\nQuality Concerns: Both brands are criticized for durability issues when used for \"mile-walking\" or in bad weather. Leather quality in this price bracket is often \"corrected grain\" or bonded, which may crack over 1–2 years of regular use.\nStructure: High-end Steve Madden boots are noted for having a structured feel and genuine leather scent, though they are often unresolable due to cemented construction.\n\nPrice & Value:\nBoots for both brands typically range from $100 to $325.\nShopping Tip: Many long-term owners on Reddit suggest these brands are best purchased at a discount (below $50–$60) for occasional wear rather than as daily workhorses.\n\nFit & Sizing:\nSteve Madden boots frequently run tight in both length and width. The Official Steve Madden Site suggests ordering a half size up if you are between sizes or if only whole sizes are available.\n\nThe Verdict:\nAldo is recommended for a more polished, classic look with better built-in comfort technology. Steve Madden is the go-to for bold, trend-driven styles.\n\nAre you looking for a specific boot type, like Chelsea or combat, for a particular occasion?",
+        "brands_mentioned": [
+          "Steve Madden"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Which is better, Aldo or Steve Madden? - Quora",
+          "Worst Dress Shoe Brands 2020 | 14+4 Brands To Avoid - Misiu Academy",
+          "You know we love a good side-by-side - Instagram"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "À Montréal pour la saison 2025-2026, la tendance est au mariage entre l'esthétique audacieuse et la robustesse nécessaire pour affronter les trottoirs glacés. Les modèles phares incluent le retour marqué des bottes cavalières, les finitions métalliques et les semelles plateformes massives.\n\nMarques et Modèles Incontournables\n\nPajar Galaxy : Un classique montréalais reconnu pour son style futuriste et sa capacité à braver des températures allant jusqu'à -30°C. Disponible chez des détaillants comme Simons.\n\nLa Canadienne : Cette marque locale est la référence pour les bottes en cuir ou en daim imperméables qui allient chic urbain et protection contre la gadoue.\n\nMaguire : Très populaire sur le Plateau et dans le Mile End, cette marque propose des designs originaux (comme les bottes à bout carré) à des prix accessibles pour du cuir véritable fabriqué en Europe.\n\nSorel : Connue pour ses bottes robustes et stylées, Sorel offre des modèles comme les bottes « Joan of Arctic » qui sont indispensables pour les journées de verglas montréalais, ces bottes intègrent des crampons pivotants sans sacrifier le style.\n\nTendances Clés de 2026\n\nCouleurs Terre et Chocolat : Les tons moka, bordeaux et marron chocolat remplacent le noir classique pour un look plus organique.\n\nStyle \"Cavalière\" et \"Biker\" : Les bottes hautes d'inspiration équitation et les bottes de motard imposantes dominent les rues cette année.\n\nDétails Métalliques : L'or et les finitions brillantes s'invitent même sur les bottes de neige pour une touche \"funky\".\n\nLe Talon \"Kitten\" : Pour les bottines de soirée, le talon fin et court remplace les talons carrés massifs.\n\nOù magasiner à Montréal ?\n\nBrowns Shoes : Pour une vaste sélection de marques internationales et leur collection maison The Wishbone Collection.\n\nRubino : Une excellente option pour trouver des marques comme Sorel ou Kamik à des prix compétitifs.\n\nSports Experts : Pour les modèles techniques et de plein air.\n\nRecherchez-vous des bottes plutôt pour la marche urbaine ou pour des activités de plein air prolongées ?",
+        "brands_mentioned": [
+          "La Canadienne"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Tendances Chaussures Automne Hiver 2025 2026 - YouTube",
+          "Bottes Cavalières Femme : Le Grand Retour Mode de 2026 - GDC",
+          "Bottes pour femme: Columbia, Merrell et + - Sports Experts"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Montréal regorge de boutiques spécialisées offrant des bottes à la fois stylées et adaptées au climat québécois. Voici les meilleures adresses selon votre style et le quartier :\n\nCréateurs locaux et design (Le Plateau / Mile End)\n\nCes boutiques privilégient l'originalité et les designs montréalais :\n\nMaguire : Située sur le boulevard Saint-Laurent, cette boutique est prisée pour ses modèles haut de gamme à prix transparents.\n\nL'Intervalle : Une marque montréalaise incontournable pour des bottes en cuir aux lignes modernes et audacieuses (style cavalière, motarde ou à talon).\n\nBottes & Baskets : Une boutique chaleureuse de la rue Beaubien proposant une sélection internationale de chaussures et accessoires stylés.\n\nAteliers Shoes : Située sur la rue Chabanel, offrant des designs locaux uniques.\n\nGrands magasins et incontournables (Centre-ville)\n\nPour un large choix de marques sous un même toit :\n\nLittle Burgundy : Idéal pour les marques tendances comme UGG, Dr. Martens ou Vagabond Shoemakers (environ 260 CAD).\n\nLa Baie d'Hudson : Ce grand magasin sur la rue Sainte-Catherine offre une immense variété de marques allant du luxe au prêt-à-porter.\n\nRubino : Un détaillant québécois proposant des bottes de marque (Sorel, Blundstone, etc.) avec plusieurs succursales, dont une sur le Plateau.\n\nBoutiques spécialisées et confort\n\nBoutique le Marcheur : Sur la rue Saint-Denis, cette institution familiale est reconnue pour sa sélection de qualité et son service expert.\n\nBopied : Une chaîne québécoise offrant des bottes chics pour toutes les saisons.\n\nMarques québécoises emblématiques\n\nSi vous cherchez des marques locales spécifiques, vous les trouverez dans la plupart des boutiques citées ci-dessus :\n\nLa Canadienne : Pour les bottes imperméables élégantes.\nMaguire : Pour le cuir européen à prix transparent.\nPajar : Pour les bottes d'hiver performantes et stylées.\n\nRecherchez-vous un budget précis ou un style en particulier ?",
+        "brands_mentioned": [
+          "Blundstone",
+          "La Canadienne"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "L'INTERVALLE - Faites vos achats dès aujourd'hui !",
+          "RUBINO Plateau Mont-Royal | Chaussures et bottes de marque",
+          "Bottes pour Femme | Bottes Chic pour Toute Saison - BOPIED"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter l'hiver au Québec avec style et confort, plusieurs marques locales et internationales se démarquent par leur capacité à marier isolation thermique (souvent jusqu'à -30 °C) et design urbain.\n\nMarques québécoises incontournables\n\nLe Québec possède une expertise unique dans la fabrication de bottes capables de résister à l'humidité et au froid extrême tout en restant élégantes.\n\nMartino : Reconnu pour ses bottes en cuir fabriquées à la main à Québec. Le modèle Banff est un classique alliant un look authentique à une doublure en laine naturelle très chaude.\n\nSaute-Mouton : Cette entreprise de Québec propose des bottes en cuir et suède imperméables, souvent dotées de doublures en laine tissée. Leurs modèles, comme la Maika, sont réputés pour leur durabilité et leur confort de type \"pantoufle\".\n\nAnfibio : Spécialiste montréalais des bottes en cuir imperméable de haute qualité.\n\nPajar Canada : Une marque montréalaise depuis 1963 dont les bottes Galaxy, avec leur look futuriste, sont parmi les plus populaires.\n\nLa Canadienne : Référence pour les bottes imperméables élégantes avec la technologie \"City Dry\".\n\nFourrures Grenier : Propose des bottes longues en cuir doublées de peau de mouton, fabriquées au Québec (environ 329 $ à 459 $).\n\nMarques polyvalentes pour le quotidien\n\nCes options sont idéales pour marcher en ville tout en gardant les pieds au sec et au chaud :\n\nSorel (Joan of Arctic) : Un incontournable pour son look iconique avec col en fausse fourrure et sa grande imperméabilité.\n\nBlundstone (Série Thermal) : La version hivernale de la célèbre botte Chelsea, doublée de mouton véritable et dotée de coutures scellées, parfaite pour un style minimaliste et polyvalent.\n\nColumbia (Minx) : Très légères et dotées de la technologie réfléchissante Omni-Heat, ces bottes offrent un excellent rapport confort/chaleur pour les longues marches.\n\nConseils pour bien choisir\n\nIndice de chaleur : Pour le Québec, visez un indice de confort entre -20 °C et -30 °C pour une utilisation quotidienne.\n\nSemelles : Priorisez le caoutchouc naturel qui reste souple par grand froid, offrant une meilleure adhérence sur la neige durcie.\n\nEntretien : Le sel de voirie est l'ennemi du cuir. Appliquez un protecteur imperméabilisant dès l'achat et nettoyez régulièrement vos bottes.\n\nRecherchez-vous un modèle précis (cavalière, Chelsea, motarde) ou un budget en particulier ?",
+        "brands_mentioned": [
+          "Columbia",
+          "Blundstone",
+          "La Canadienne"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Botte d'hiver pour Femme Banff PREMIUM | Martino - Boutique Martino",
+          "Bottes d'hiver pour femme Québec - Comfy Moda Canada",
+          "Pajar Canada",
+          "Bottes d'hiver pour femme doublées Karine | Fourrures Grenier"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les bottes ALDO se distinguent par l'intégration de technologies de confort spécifiques et l'utilisation de matériaux variés allant du cuir premium aux options végétaliennes.\n\nTechnologies Clés\n\nPillow Walk™ : Cette technologie utilise une mousse double densité et des semelles intérieures rembourrées pour absorber les impacts et offrir un confort immédiat sans période d'adaptation. Elle inclut également une mousse de maintien au niveau de la plante du pied et du talon pour une meilleure stabilité.\n\nALDO Flex : Conçue pour une flexibilité maximale, cette technologie utilise des matériaux de tige souples et des semelles extérieures articulées à 360 degrés pour faciliter le mouvement naturel du pied.\n\nLightweight : Certains modèles, comme les bottes de combat Goer, utilisent des semelles amortissantes ultralégères pour un confort durable toute la journée.\n\nImperméabilité et résistance au froid : Des modèles spécifiques sont conçus pour résister à des températures allant jusqu'à -20°C et offrent une imperméabilité complète.\n\nMatériaux\n\nCuir Premium : Utilisation de cuir de vachette, de nubuck et de cuir fini à la main pour les modèles haut de gamme comme les bottes Chelsea Sosa.\n\nOptions Végétaliennes : Emploi de cuirs synthétiques lisses et de fibres textiles (tricot léger) sans sous-produits animaux.\n\nComposants Techniques : Semelles extérieures en caoutchouc thermoplastique (TPR) pour l'adhérence, et doublures intégrant souvent du polyester recyclé et du polyuréthane.\n\nGamme de Prix (Canada - Avril 2026)\n\nLes prix varient selon le style et les matériaux, avec de nombreuses options en solde sur le site officiel d'ALDO.\n\nType de Botte | Modèle Exemple | Prix de Vente / Régulier\nBottes de combat | ALDO Goer | 64,97 CAD / 132 CAD\nBottes hautes | ALDO Albie | 74,98 CAD / 182 CAD\nBottes Chelsea | ALDO Sosa | 165 CAD\nBottes lacées | ALDO Aston | 67,49 CAD / 130 CAD\nBottes imperméables | ALDO Toney | 190 CAD\n\nSouhaitez-vous comparer les spécifications techniques d'un modèle précis ou recherchez-vous une pointure spécifique actuellement en stock ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Men's Boots: Dress, Chelsea & Casual Boots - ALDO",
+          "Goer Black Women's Casual boots - Aldo Shoes",
+          "ALDO Pillow Walk™ Technology"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "En 2026, la comparaison entre Aldo et Steve Madden pour les bottes révèle que les deux marques occupent un créneau de mode accessible (\"fast fashion\"), mais elles se distinguent par leurs priorités technologiques et leurs styles de conception.\n\nComparaison des points clés\n\nConfort et Technologie : Aldo semble avoir pris une longueur d'avance avec sa technologie Pillow Walk. Ces bottes intègrent des semelles intérieures en mousse double densité pour une meilleure absorption des chocs et un soutien accru au talon et à l'avant-pied. À l'inverse, Steve Madden est souvent critiqué par les utilisateurs pour un manque de confort, particulièrement sur les modèles à talons hauts, nécessitant parfois une paire de rechange pour les longues journées.\n\nQualité des Matériaux : Les deux marques utilisent majoritairement des cuirs de qualité moyenne ou des matériaux synthétiques. Des retours d'expérience mentionnent que le cuir de ces gammes de prix peut se dégrader en 1 à 3 ans d'usage régulier.\n\nStyle : Steve Madden a tendance à proposer des designs très audacieux et des détails comme des strass plus brillants ou des silhouettes très virales sur les réseaux sociaux. Aldo mise davantage sur des classiques revisités et une allure \"chic et intemporelle\", comme ses rééditions de modèles emblématiques des années 80.\n\nTableau récapitulatif\n\nCaractéristique | Aldo | Steve Madden\nAtout principal | Technologie de confort (Pillow Walk) | Tendances de pointe et styles \"viraux\"\nPrix typique | ~100 à 200 CAD | ~130 à 250 CAD\nConstruction | Souvent collée (cimentée), cuir corrigé | Souvent collée, cuir véritable ou synthétique\nDurée de vie | 1 à 3 ans selon l'entretien | 1 à 2 ans (usage mode saisonnier)\n\nRecommandations d'achat\n\nChoisissez Aldo si vous privilégiez le confort pour la marche quotidienne. Leurs modèles comme les Aldo Re-Emily sont conçus pour être portés toute la journée grâce à leur amorti spécifique.\n\nChoisissez Steve Madden si vous recherchez un look spécifique très tendance pour une occasion spéciale ou pour suivre la mode actuelle. Leurs modèles viraux sont souvent très populaires sur les réseaux sociaux.\n\nConseil : Pensez à acheter en solde. Les deux marques offrent régulièrement des réductions allant jusqu'à 50-60%.\n\nSouhaitez-vous des recommandations pour un modèle précis chez l'une ou l'autre marque ?",
+        "brands_mentioned": [
+          "Steve Madden"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Which is better, Aldo or Steve Madden? - Quora",
+          "Aldo vs Steve Madden boots comparison - TikTok",
+          "ALDO Pillow Walk™ Technology"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

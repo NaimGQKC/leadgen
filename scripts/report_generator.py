@@ -105,10 +105,20 @@ def generate_scary_report(brand, row, gemini_probes, score_data, source_scores,
     if isinstance(rate_en, (int, float)) and isinstance(rate_fr, (int, float)):
         en_pct = rate_en * 100 if rate_en <= 1.0 else rate_en
         fr_pct = rate_fr * 100 if rate_fr <= 1.0 else rate_fr
-        en_count = round(rate_en * 5) if rate_en <= 1.0 else round(rate_en / 100 * 5)
-        fr_count = round(rate_fr * 15) if rate_fr <= 1.0 else round(rate_fr / 100 * 15)
+        # Determine actual probe counts from raw_responses if available
+        n_en = 5  # default for gemini pipeline
+        n_fr = 15
+        if raw_responses:
+            if isinstance(raw_responses, dict):
+                n_en = len(raw_responses.get("en", [])) or 5
+                n_fr = len(raw_responses.get("fr", [])) or 15
+            elif isinstance(raw_responses, list):
+                n_en = 5
+                n_fr = 15
+        en_count = round(rate_en * n_en) if rate_en <= 1.0 else round(rate_en / 100 * n_en)
+        fr_count = round(rate_fr * n_fr) if rate_fr <= 1.0 else round(rate_fr / 100 * n_fr)
         gap_app = f"-{en_pct - fr_pct:.0f}%" if en_pct > fr_pct else f"+{fr_pct - en_pct:.0f}%"
-        lines.append(f"| Brand appearance rate | {en_pct:.0f}% ({en_count}/5) | {fr_pct:.0f}% ({fr_count}/15) | {gap_app} |")
+        lines.append(f"| Brand appearance rate | {en_pct:.0f}% ({en_count}/{n_en}) | {fr_pct:.0f}% ({fr_count}/{n_fr}) | {gap_app} |")
     else:
         lines.append(f"| Brand appearance rate | {rate_en} | {rate_fr} | -- |")
 
@@ -165,7 +175,14 @@ def generate_scary_report(brand, row, gemini_probes, score_data, source_scores,
         lines.append(f"{sp_pct:.0f}% of technical specs preserved in French ({avg_specs_fr} vs {avg_specs_en}).")
     else:
         lines.append(f"Spec preservation: {spec_preservation} ({avg_specs_fr} FR vs {avg_specs_en} EN).")
-    lines.append(f"Range: {min_fr}-{max_fr} specs across 15 French runs vs {min_en}-{max_en} in English.")
+    # Determine actual probe counts for the range line
+    n_fr_runs = 15
+    n_en_runs = 5
+    if raw_responses:
+        if isinstance(raw_responses, dict):
+            n_fr_runs = len(raw_responses.get("fr", [])) or 15
+            n_en_runs = len(raw_responses.get("en", [])) or 5
+    lines.append(f"Range: {min_fr}-{max_fr} specs across {n_fr_runs} French runs vs {min_en}-{max_en} in {n_en_runs} English.")
     lines.append(f"")
 
     # --- Finding 3: Competitor Displacement ---
