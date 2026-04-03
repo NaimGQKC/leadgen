@@ -1,0 +1,184 @@
+{
+  "brand": "Arcteryx",
+  "product_category": "",
+  "top_competitor": "",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleure veste imperméable technique pour l'hiver à Montréal",
+    "fr_2": "manteau de plein air technique pour l'hiver québécois",
+    "fr_3": "veste imperméable respirante pour randonnée Québec",
+    "fr_4": "Arc'teryx manteau spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Arc'teryx vs The North Face veste imperméable comparaison",
+    "en": "best technical Gore-Tex waterproof jacket Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 1.0,
+    "avg_specs_en": 8.3,
+    "avg_specs_fr": 8.8,
+    "spec_preservation": 1.06,
+    "confidence_range": {
+      "en": {
+        "min": 8,
+        "max": 9
+      },
+      "fr": {
+        "min": 6,
+        "max": 11
+      }
+    },
+    "competitor_frequency_en": {
+      "Arc'teryx": 1.0,
+      "Patagonia": 0.33,
+      "The North Face": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Arc'teryx": 1.0,
+      "Patagonia": 0.4,
+      "Helly Hansen": 0.2,
+      "Columbia": 0.6,
+      "Kanuk": 0.2,
+      "The North Face": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For Montreal's famously volatile weather—ranging from freezing rain to deep-freeze blizzards—the best technical Gore-Tex jackets are those that offer a 3-layer construction for maximum durability and the versatility to be layered over insulation.\n\nTop Technical Gore-Tex Jacket Recommendations\n\nArc'teryx Beta AR Jacket Mens\n$800.00\n4.7 (646 reviews)\nWidely considered the gold standard for versatility. It uses Gore-Tex Pro ePE, a 3-layer membrane that is rugged enough for alpine use but light enough for city commuting. Its \"Drophood\" and stand-up collar are specifically designed to protect against Montreal's biting winds even when the hood is down.\n\nRAB - Kangri GTX - Manteau de randonnée (non isolé) pour homme\n$599.99\n4.7 (230 reviews)\nAn excellent choice for those seeking a \"burly\" and durable jacket at a slightly lower price point than Arc'teryx. It features 70-denier recycled fabric and a two-way front zip, which is helpful for ventilation during active pursuits.\n\nMarmot Minimalist Pro GORE-TEX Jacket\n$400.00\n4.6 (188 reviews)\nA strong contender for an everyday commuting shell. It balances waterproof protection with breathability and is notably more affordable than the Arc'teryx options.\n\nArc'teryx Zeta SL Jacket / MEC Synergy Gore-Tex Jacket\n$350-$450\n4.4 (299 reviews)\nThe best option if packability and weight are your primary concerns. It uses a thinner Gore-Tex ePE membrane that remains fully waterproof and windproof but folds down easily into a bag once you get indoors.\n\nWhere to Buy in Montreal\n\nMEC (Mountain Equipment Company): Located near Crémazie metro and in Laval, they carry their own Gore-Tex line (the Synergy) alongside brands like Patagonia and Arc'teryx.\n\nLa Cordée: A local staple with multiple locations, including a major boutique at Place Alexis Nihon and on Sainte-Catherine O.\n\nAltitude Sports: While primarily an online retailer based in Montreal, they often offer the widest selection of technical colors and sizes with fast local delivery.\n\nSAIL: Large stores in Brossard and Laval that stock a wide range of Rab, Marmot, and Mountain Hardwear technical gear.\n\nMontreal Weather Tip\nA technical Gore-Tex shell is just a \"hardshell\"—it provides no warmth on its own. To survive a Montreal winter, you must pair it with a \"mid-layer\" like the Arc'teryx Atom Hoodie or a down vest.\n\nAre you looking for a lightweight shell for rainy spring commutes, or a heavy-duty hardshell to wear over a parka in February?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Patagonia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Rab Men's Kangri GTX Jacket 2026 - Google",
+          "Jacket for this winter : r/montreal - Reddit",
+          "Best Hardshell Jackets of 2026 - Switchback Travel",
+          "Arc'teryx - MEC",
+          "Gore-Tex: waterproof, windproof and breathable - SAIL",
+          "Rain Jackets & Rain Coats - MEC",
+          "Altitude Sports"
+        ],
+        "brand_rank": 5
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Arc'teryx jackets are categorized by series (Beta, Alpha, Rush, Sabre) and sub-types (SV, AR, SL), each utilizing specific GORE-TEX membranes and proprietary materials for varying alpine conditions. For the 2026 season, pricing for flagship shells generally ranges from $400 CAD to $1,100 CAD.\n\nCore Jacket Technologies\n\nGORE-TEX PRO ePE: A new, lighter, and PFAS-free membrane that provides high-performing waterproof-breathable protection.\nCoreloft™ Insulation: A synthetic polyester staple fibre used in insulated models (like the Beta Insulated) to provide warmth even when wet.\nHadron™ Face Fabric: A lightweight yet highly abrasion-resistant fabric pairing (e.g., in the Alpha Jacket) designed for technical ascents.\nC-KNIT™ Backer: A soft, quiet lining technology that improves next-to-skin comfort and breathability compared to traditional crinkly hardshells.\nRECCO® Reflector: A passive search-and-rescue device embedded in the hood or brim of most technical shells.\n\nTechnical Specs by Series (2026 Models)\n\nModel | Main Materials | Key Features | Typical Price (CAD)\nAlpha SV Jacket | N100D GORE-TEX PRO ePE | Severely durable for alpine; 100-denier face fabric | $1,100\nAlpha Jacket | 50D Hadron + GORE-TEX PRO ePE | Lightweight technical shell; harness-compatible | $850\nBeta AR Jacket | N40d & N80p GORE-TEX PRO | All-round versatility; DropHood™ for helmet compatibility | $800\nBeta SL Jacket | 3L 40D/70D GORE-TEX ePE | Super-light and packable for emergency weather | $480\nBeta Jacket | 3L 80D GORE-TEX ePE | Versatile hiking shell; reduced carbon footprint | $400\nRush Jacket | 80D 3L GORE-TEX PRO | Backcountry ski-specific; includes powder skirt | $950\nSabre Jacket | N80p-X 3L GORE-TEX | Freeride ski/snowboard shell with flannel backer | $720\nTherme Jacket | GORE-TEX ePE | Minimalist urban/hiking style | $750\n\nInsulated Technical Shells\n\nBeta Insulated Jacket: Uses 2-layer GORE-TEX with Coreloft insulation for cold, wet alpine conditions. Pricing is approximately $900 CAD.\nSabre Insulated Jacket: Features 100D GORE-TEX and 80gsm Coreloft for warmth during backcountry freeriding. Pricing is approximately $1,100 CAD.\n\nWould you like to compare the weight and packability of these specific shells for a particular activity like alpine climbing or skiing?",
+        "brands_mentioned": [
+          "Arc'teryx"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "ARC'TERYX Pro Alpine Guide Jacket Men's (2026) - 911 Supply & Adventure Gear",
+          "Arc'teryx Men's Beta Insulated Jacket - Sporting Life",
+          "Arc'teryx Jacket Technologies Explained (Gore-Tex, SV, AR, LT) - Land & Sea NZ"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "When comparing Arc'teryx and The North Face (TNF) waterproof jackets, the choice generally comes down to whether you prioritize technical precision and elite performance or versatility and value across different price points. Arc'teryx is widely regarded as a pinnacle brand for extreme alpine environments, while The North Face offers a massive range from casual rain shells to professional-grade expedition gear.\n\nPerformance & Materials\n\nArc'teryx: Primarily utilizes GORE-TEX membranes across their waterproof line. They are known for industry-leading construction techniques, such as micro-seam allowances to reduce weight and specialized laminated zippers.\n\nThe North Face: Uses a mix of proprietary technologies and GORE-TEX. Their FUTURELIGHT membrane is a standout for being exceptionally breathable and soft to the touch compared to traditional \"crunchy\" hardshells. For entry-level jackets, they use DryVent, which is waterproof but less breathable than GORE-TEX.\n\nDurability & Warranty\n\nArc'teryx: Known for extremely precise, durable construction. Their warranty is considered excellent, with a well-regarded repair program.\n\nThe North Face: Durability varies by line; their high-end Summit Series is exceptionally tough, while entry-level lifestyle jackets may show wear faster. Their lifetime warranty is well-established, with some users successfully getting 20-year-old zippers replaced at retail locations.\n\nComparison Table: Top Waterproof Shells (2026 Estimates)\n\nArc'teryx Alpha SV Jacket Men's\n$1,100.00 - 4.6 (346 reviews)\nBest For: Severe Alpine/Climbing\nMaterial: GORE-TEX PRO ePE\nFit: Regular/Articulated\nEst. Price: ~$1,100 CAD\nWeight: Extremely Light/Durable\n\nThe North Face Summit Mountain GTX Pro Bibs\n$910.00 - 5.0 (1 review)\nBest For: Professional Mountaineering\nMaterial: GORE-TEX Pro 3L\nFit: Standard/Articulated\nEst. Price: ~$910 CAD\nWeight: Heavy-duty/Durable\n\nThe North Face Men's Antora Jacket\n$150.00 - 4.7 (2.3K reviews)\nBest For: Casual Hiking/Daily Use\nMaterial: DryVent 2L\nFit: Standard/Relaxed\nEst. Price: ~$150 CAD\nWeight: Lightweight/Packable\n\nKey Decision Factors\n\nChoose Arc'teryx if: You need the absolute best weight-to-protection ratio, want a more \"tailored\" look, and are willing to pay a premium for technical perfection.\n\nChoose The North Face if: You want more \"bang for your buck,\" prefer a softer-feeling jacket (via FUTURELIGHT), or need a versatile shell that looks natural on both a mountain trail and a city street.\n\nAre you looking for a jacket for a specific activity like skiing or trail running, or do you need a general-purpose shell for daily rain?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "The North Face"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Arc'teryx vs North Face for Versatile Usage - Reddit",
+          "Arc'teryx vs The North Face Waterproof Jacket Comparison - Various Sources"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour affronter l'hiver à Montréal, où les températures oscillent entre le froid glacial et la pluie verglaçante, la meilleure veste technique doit combiner une imperméabilité totale (Gore-Tex ou équivalent) et une isolation performante capable de gérer l'humidité.\n\nLes meilleurs choix techniques (Hiver 2025-2026)\n\nArc'teryx Beta Insulated\n$900.00 - 4.2 (48 reviews)\nLe summum de la technicité. Elle combine une membrane Gore-Tex robuste pour bloquer le vent et la slush montréalaise avec une isolation synthétique Coreloft qui reste chaude même si elle est humide. Disponible chez Arc'teryx (environ 900 CAD).\n\nHelly Hansen Tromsoe Jacket\n$400.00 - 4.6 (227 reviews)\nConçue pour les journées les plus glaciales, cette parka est entièrement imperméable avec des coutures scellées aux points critiques. Son isolation PrimaLoft offre un excellent rapport qualité-prix.\n\nColumbia Aven Trail Shell\n$449.99 (en solde à $337.49) - 4.5 (120+ reviews)\nUne option plus abordable avec une doublure thermique Omni-Heat Infinity avec un duvet 650 pour une chaleur maximale. Disponible chez Columbia Sportswear Canada.\n\nFjällräven Nuuk Parka\n$600.00 - 4.6 (368 reviews)\nReconnue comme l'une des plus protectrices pour les hommes, elle offre une couverture longue idéale pour attendre le bus ou le métro par vent fort.\n\nOù les essayer à Montréal ?\n\nAltitude Sports : Une référence locale avec une boutique physique (Vallier) et un inventaire technique impressionnant en ligne.\nLa Cordée / MEC : Incontournables pour les marques de haute performance comme Patagonia ou Outdoor Research.\nL'Équipeur (Mark's) : Excellent pour les modèles Helly Hansen comme la Compass 2.0 ou la Oxford, souvent disponibles en stock au Marché Central.\n\nCaractéristiques essentielles pour Montréal\n\nImperméabilité : Priorisez le Gore-Tex ou les technologies propriétaires comme Helly Tech pour résister à la neige mouillée.\nLongueur : Une coupe parka (mi-cuisse) protège mieux contre les courants d'air froid dans les canyons de gratte-ciels du centre-ville.\nRespirabilité : Essentielle pour ne pas surchauffer lors des transitions entre le froid extérieur et la chaleur du métro.\n\nRecherchez-vous une veste spécifiquement pour le sport actif (ski/course) ou pour un usage urbain quotidien ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Patagonia",
+          "Helly Hansen",
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "10 Best Winter Jackets of 2026 - GearLab",
+          "Jacket for this winter : r/montreal - Reddit",
+          "Les meilleurs manteaux d'hiver pour nos hivers canadiens - Altitude Sports"
+        ],
+        "brand_rank": 5
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour affronter l'hiver québécois en mode actif, l'approche technique repose sur le système multicouche (le « principe de l'oignon ») plutôt que sur un seul gros manteau. Cette méthode permet d'évacuer l'humidité lors de l'effort et de conserver la chaleur au repos.\n\n1. La Coquille (Couche de protection)\nC'est votre rempart contre le vent, la neige et la pluie verglaçante. Elle doit être imper-respirante.\n\nArc'teryx - Gamme Beta ou Sabre : Des références pour leur membrane Gore-Tex haut de gamme. Le manteau Beta chez MEC ou le modèle Sabre chez Sports Experts (environ 900 $ CAD) sont conçus pour les conditions extrêmes.\n\nChlorophylle - Altitude : Une option québécoise robuste. La coquille rigide 3L est conçue spécifiquement pour notre climat changeant (environ 500 $ CAD).\n\nColumbia - Platinum Peak II : Une alternative technique souvent plus abordable (environ 300 $ CAD), disponible chez des détaillants comme The Last Hunt.\n\n2. L'Isolation (Couche intermédiaire)\nArc'teryx Atom Hoodie ou Patagonia Nano Puff : Des couches isolantes synthétiques légères et compressibles qui conservent leur chaleur même mouillées. Elles permettent de réguler la température pendant les activités à haute intensité comme le ski de fond ou la raquette rapide.\n\n3. La Couche de Base (Gestion de l'humidité)\nIndispensable pour rester au sec. Évitez absolument le coton qui garde l'humidité et refroidit le corps.\n\nLaine Mérinos : Des marques comme Icebreaker sont recommandées pour leurs propriétés thermiques et anti-odeurs.\n\nMarques Québécoises Spécialisées\nSi vous cherchez un manteau tout-en-un performant conçu localement :\n\nAudvik : Propose des manteaux comme le Toronto II (environ 900 $ CAD) fabriqués à Montréal, alliant style urbain et technicité hivernale.\nChlorophylle : Marque saguenéenne reconnue pour son expertise en plein air depuis des décennies.\nKanuk : Réputé pour ses isolants synthétiques capables d'affronter les froids les plus mordants.\n\nSouhaitez-vous des recommandations spécifiques pour une activité précise comme la randonnée alpine ou le ski de fond ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Patagonia",
+          "Kanuk",
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Comment choisir le meilleur manteau d'hiver - Chlorophylle",
+          "Pourquoi opter pour le système multicouche - Instagram / Sports Experts",
+          "MEC - Comment bien s'habiller chaudement - Instagram"
+        ],
+        "brand_rank": 6
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour choisir une veste imperméable et respirante adaptée à la randonnée au Québec, il est essentiel de privilégier des modèles offrant une protection robuste contre les averses soudaines et une excellente gestion de l'humidité pendant l'effort.\n\nRecommandations de produits (Saison 2026)\n\nArc'teryx Beta AR - Manteau de randonnée (non isolé)\n$799.99 - 4.7 (646 reviews)\nCe \"couteau suisse\" de la montagne est idéal pour les environnements alpins du Québec (comme les Chic-Chocs). Conçu avec un tissu Gore-Tex 3 couches, il est extrêmement durable, coupe-vent et respirant. Disponible chez Sports Experts pour environ 799,99 CAD.\n\nOutdoor Research Foray 3L Veste imperméable coupe-vent à capuche\n$617.38 - 4.4 (36 reviews)\nReconnue pour sa polyvalence, cette veste utilise la technologie TorsoFlo™ (fermetures éclair latérales intégrales) permettant une ventilation maximale lors de montées exigeantes.\n\nRAB Kangri GTX Jacket\n$599.99 - 4.7 (230 reviews)\nUn modèle robuste et durable avec un tissu recyclé de 70 deniers, parfait pour les randonnées techniques et les scrambles.\n\nColumbia Hikebound Jacket\n$129.99 - 4.5 (319 reviews)\nUn excellent choix pour les randonnées quotidiennes ou modérées. Elle intègre la technologie Omni-Tech™ avec des coutures entièrement scellées pour une imperméabilité fiable à un prix abordable. Disponible chez L'Équipeur / Mark's.\n\nDecathlon - Veste imperméable de randonnée\n$130.00 - 4.4 (39 reviews)\nSaluée pour son rapport qualité/prix, cette veste offre une bonne respirabilité et légèreté pour les sorties régulières. Disponible chez Decathlon Canada.\n\nCritères essentiels pour le Québec\n\nImperméabilité & Respirabilité : Recherchez des membranes comme le Gore-Tex ou Pertex Shield pour rester au sec sans surchauffer.\nVentilation mécanique : Les \"pit zips\" (fermetures sous les bras) sont cruciaux pour évacuer l'humidité lors des efforts intenses en climat humide.\nAjustements : Un capuchon ajustable et compatible avec un casque (pour l'escalade ou le ski de printemps) ainsi que des poignets ajustables assurent une protection hermétique contre le vent.\nLocalisation : Pour les terrains rocailleux ou brossés, une durabilité supérieure (deniers plus élevés, ex: 50D ou plus) est recommandée pour éviter les déchirures.\n\nAvez-vous une région spécifique ou un budget précis en tête pour affiner cette recherche ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Arc'teryx Beta AR - Google",
+          "Outdoor Research Men's Foray 3L Rain Jacket - Google",
+          "RAB Kangri GTX - SAIL"
+        ],
+        "brand_rank": 5
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Arc'teryx propose une gamme de manteaux structurée par des codes techniques précis. Voici les spécifications, matériaux et technologies clés pour les modèles de la saison actuelle (2024-2026).\n\n1. Comprendre les Gammes et Modèles\n\nChaque nom de manteau combine une série (activité) et un modificateur (niveau de protection) :\n\nSéries principales :\nAlpha : Spécifiquement pour l'alpinisme et l'escalade (compatible avec harnais).\nBeta : La gamme la plus polyvalente pour la randonnée et la montagne.\nAtom / Proton : Couches isolantes (peuvent servir de couche intermédiaire ou extérieure).\n\nModificateurs de performance :\nSV (Severe Weather) : Protection maximale pour les conditions les plus rudes.\nAR (All Round) : Équilibre entre durabilité et polyvalence.\nLT (Lightweight) : Conception légère et minimaliste.\nSL (Superlight) : Priorité absolue à la compacité et à la légèreté.\n\n2. Technologies et Matériaux Clés\n\nGORE-TEX Pro (ePE) : Membrane imper-respirante de dernière génération, sans PFAS. Utilisée dans les modèles Alpha et Beta haut de gamme. Offre une durabilité et une respirabilité supérieures.\nCoreloft™ : Isolation synthétique en fibre polyester qui conserve sa chaleur même mouillée. Disponible en différents grammages (60g, 80g, etc.) selon le niveau de chaleur requis.\nHadron™ : Tissu face ultra-léger mais très résistant à l'abrasion, utilisé notamment sur l'Alpha Jacket.\nC-KNIT™ : Doublure intérieure souple et silencieuse qui améliore le confort et la respirabilité par rapport aux membranes crissantes traditionnelles.\nRECCO® : Réflecteur passif de recherche et sauvetage intégré dans le capuchon de la plupart des coquilles techniques.\n\n3. Tableau des Modèles avec Prix Approximatifs\n\nModèle | Matériaux Principaux | Caractéristiques | Prix Approx. Moyen\nAlpha SV | GORE-TEX Pro 100D | Ultra-robuste, alpinisme extrême | ~1 100 $\nBeta AR | GORE-TEX Pro 80D | Polyvalent, renforts stratégiques | 800 $\nBeta Insulated | GORE-TEX 2L + Coreloft | Imperméable et chaud (hiver) | ~900 $\nBeta Jacket | GORE-TEX 3L (C-KNIT) | Coquille légère de randonnée | 500 $\nAtom SV Hoody | Nylon + Coreloft | Isolation synthétique chaude | ~420 $\nPatera Parka | GORE-TEX + Duvet 750 | Parka urbaine longue et chaude | 605 $\n\nLes modèles de saisons passées sont souvent disponibles à prix réduit (jusqu'à 60 % de rabais) sur le Arc'teryx Outlet.\n\nSouhaitez-vous comparer un modèle spécifique pour une activité précise comme le ski ou la randonnée hivernale ?",
+        "brands_mentioned": [
+          "Arc'teryx"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "How Arc'teryx Designs Extreme Cold-Weather Clothing - Arc'teryx",
+          "Que signifient les codes des noms de produits Arc'teryx ? - blog.jans.com",
+          "Decoding Arc'teryx | Technology + Design Explained"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Le choix entre une veste imperméable Arc'teryx et The North Face (TNF) dépend principalement de votre budget et de l'intensité de votre activité. Arc'teryx est souvent considérée comme la référence pour l'alpinisme technique grâce à sa coupe athlétique et sa durabilité extrême. The North Face offre un meilleur rapport qualité-prix pour un usage polyvalent (randonnée, quotidien) et propose des technologies variées selon les gammes.\n\nComparaison des caractéristiques principales\n\nCaractéristique | Arc'teryx | The North Face\nTechnologies | Utilise exclusivement le GORE-TEX (souvent Pro ou ePE). | Utilise le GORE-TEX (haut de gamme) ou sa propre membrane DryVent.\nCoupe & Style | Coupe ajustée (\"Trim fit\"), technique et épurée. | Coupe plus large (\"Relaxed fit\") et styles variés (urbain à technique).\nDurabilité | Réputée pour sa résistance exceptionnelle à l'abrasion. | Excellente sur la gamme Summit Series, plus variable sur l'entrée de gamme.\nPrix | Très élevé (souvent 600 $ à 1 100 $ CAD). | Plus accessible (150 $ à 700 $ CAD selon la gamme).\n\nModèles phares par usage\n\nUsage technique extrême (Alpinisme, Ski de rando) :\nArc'teryx Alpha SV : La référence pour les conditions sévères (\"Severe Weather\"), extrêmement robuste avec du GORE-TEX Pro.\nThe North Face Summit Eastwall : Conçue pour le ski de haute montagne avec une membrane GORE-TEX 3L et des fonctions spécifiques comme la jupe pare-neige.\n\nPolyvalence (Randonnée, Voyage, Ville) :\nArc'teryx Beta AR : Très polyvalente, équilibrée entre poids et protection pour toutes les activités de plein air.\nThe North Face Antora : Un excellent choix abordable pour la pluie quotidienne et les randonnées légères, utilisant la technologie DryVent recyclée.\n\nGarantie et service après-vente\n\nLes deux marques proposent une garantie limitée à vie couvrant les défauts de fabrication. Cependant, les retours d'utilisateurs suggèrent que The North Face est parfois plus flexible pour les réparations simples (comme les fermetures éclair), tandis qu'Arc'teryx est plus rigoureux sur l'évaluation de la \"durée de vie utile\" du produit avant d'accorder un remplacement.\n\nCherchez-vous une veste pour une activité spécifique (comme le ski ou la randonnée) ou pour un usage principalement urbain ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "The North Face"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Best Hardshell Jackets of 2026 | Switchback Tested - Switchback Travel",
+          "Arc'teryx vs Patagonia vs The North Face - Land & Sea NZ",
+          "Battle of the Brands: The North Face vs Arc'teryx - Altitude Sports"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

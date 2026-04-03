@@ -1,0 +1,160 @@
+{
+  "brand": "Frank Lyman",
+  "product_category": "women designer fashion",
+  "top_competitor": "Joseph Ribkoff",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleure marque vêtements femme designer Montréal",
+    "fr_2": "mode femme haut de gamme fabriqué à Montréal",
+    "fr_3": "designer québécois vêtements chics pour femme",
+    "fr_4": "Frank Lyman vêtements spécifications matériaux technologie prix",
+    "fr_5": "Frank Lyman vs Joseph Ribkoff mode femme comparaison",
+    "en": "best women designer fashion brand Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.4,
+    "avg_specs_en": 2.0,
+    "avg_specs_fr": 1.6,
+    "spec_preservation": 0.8,
+    "confidence_range": {
+      "en": {
+        "min": 0,
+        "max": 5
+      },
+      "fr": {
+        "min": 0,
+        "max": 3
+      }
+    },
+    "competitor_frequency_en": {
+      "SSENSE": 0.33,
+      "Joseph Ribkoff": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Mackage": 0.2,
+      "Joseph Ribkoff": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "Montreal's designer fashion scene is a blend of world-class high-end labels and a strong community of independent, sustainable designers who manufacture locally.\n\nTop Luxury & High-End Designer Brands\n\nFor those seeking sculptural elegance, avant-garde silhouettes, or global luxury names, these brands and destinations are the city's gold standard:\n\nMaison Marie Saint Pierre: A true icon of Montreal high fashion, known for sculptural, modern designs often crafted from high-performance \"fine scuba\" fabric. You can find their flagship at 2081 Rue de la Montagne in the Golden Square Mile.\n\nSSENSE: While globally famous as an e-commerce giant, their David Chipperfield–designed flagship in Old Montreal offers a highly curated physical space for luxury brands like Balmain, Jacquemus, and Margiela.\n\nHolt Renfrew Ogilvy: The premier destination for a \"shop-in-shop\" experience featuring international luxury labels.\n\nDenis Gagnon: A Montreal-born couturier celebrated for bold, darkly romantic, avant-garde pieces.\n\nIndependent & Sustainable Montreal Designers\n\nThe city's independent scene is one of the strongest in Canada, with many designers producing ethically in local workshops:\n\nEliza Faulkner: Focused on durable, minimalist clothing made from natural fibres in their Mile End workshop.\n\nEve Gravel Design: A staple for \"ultra-feminine\" yet contemporary clothing designed and produced entirely in Montreal. Her pieces often feature unique geometric cut-outs and flattering lines.\n\nBoutique Unicorn: Located in Mile End, this boutique is a \"ritual\" stop for many locals, balancing sharp international labels with a heavy focus on local talent like Jennifer Glasgow and Odeyalo.\n\nBoutique-atelier MARIGOLD: Offers ethical, high-end womenswear designed and made in Montreal, known for feminine prints and classic silhouettes like the Anais dress.\n\nBoutique 1861 / La Petite Garçonne: While 1861 is famous for vintage-inspired gowns, its sister shop, La Petite Garçonne, offers a more modern, minimalist designer aesthetic with a focus on high-quality basics and professional wear.\n\nAre you looking for a specific style (like avant-garde vs. minimalist) or a particular occasion (like a gala or sustainable everyday wear)?",
+        "brands_mentioned": [
+          "SSENSE"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "The best locally created boutiques by neighborhood in Montreal - Belle et Rebelle",
+          "Local Montreal shops for the permanently curious - The Main",
+          "Best Fashion Designers in Montreal: Best of MTL - Cult MTL"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Frank Lyman is a Canadian fashion brand known for its sophisticated women's clothing that emphasizes high-quality materials and a flattering, inclusive fit. Most of the collection is Made in Canada, with approximately 98% of production occurring within a 30-kilometre radius of their Montreal headquarters.\n\nMaterial Specifications & Fabric Technology\n\nThe brand focuses on luxurious, easy-care fabrics that offer both comfort and a refined aesthetic. Key material characteristics include:\n\nStretch & Mobility: Most garments use high-quality knit fabrics typically composed of Polyester (92-95%) blended with Elastane/Spandex (5-8%) to ensure a flexible, \"forgiving\" fit that moves with the body.\n\nFabric Variety: Collections frequently feature specialized materials like chiffon, silk, lace, and mesh. Some items incorporate metallic fibres (around 7%) for subtle shimmer effects.\n\nEasy Care: Many pieces are machine washable or require minimal maintenance, designed for the modern woman's lifestyle.\n\nPricing (CAD)\n\nBased on collection data from retailers like 1ère Avenue and DeCabana, the general price ranges are:\n\nCategory | Typical Price Range (CAD) | Example Items\nTops & Blouses | $135 – $235 | Relaxed Fit Mesh Pullover ($135), Embellished Crew Neck ($135)\nPants & Skirts | $115 – $240 | Pull-On Straight Leg Pant ($115), Vanilla Pant ($240)\nJackets & Blazers | $230 – $345 | Formal Collared Jacket ($260), Abstract Print Jacket ($240)\nDresses & Gowns | $235 – $515 | Midi Shift Dress ($235), Evening Gown ($515)\n\nNote: Prices vary by retailer and are subject to seasonal sales where discounts of 30-50% are common.\n\nProduct Highlights\n\nFit & Silhouette: Designs often feature statement necklines, asymmetrical cuts, and feminine silhouettes tailored to embrace various body types.\n\nDesign Accents: Common decorative elements include intricate embroidery, beading, sequins, and bold, artful prints inspired by international trends.\n\nWould you like to see a list of authorized retailers in your area or specific care instructions for a particular fabric?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Frank Lyman Design - Official Site",
+          "1ère Avenue - Frank Lyman Collection",
+          "DeCabana - Frank Lyman"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "While Joseph Ribkoff and Frank Lyman are both iconic Montreal-based Canadian fashion houses, they cater to different aesthetic moods. Joseph Ribkoff is the go-to for timeless, polished elegance, whereas Frank Lyman is known for its bold, trend-driven, and daring designs.\n\nBrand Comparison Table\n\nFeature | Joseph Ribkoff | Frank Lyman\nEstablished | 1957 | 2001\nPrimary Aesthetic | Classic, sophisticated, and refined | Bold, modern, and avant-garde\nKey Design Elements | Versatile silhouettes, monochrome logos, and subtle detailing | Vibrant prints, sequins, and creative accents\nTypical Items | Tailored jackets, sheath dresses, and versatile separates | Embellished jackets, printed blouses, and statement vests\nFit & Feel | True to size with figure-flattering cuts | High-quality construction with an immaculate fit\nManufacturing | Proudly designed and made in Canada | Montreal-based and manufactured in Canada\n\nStyle Philosophy\n\nJoseph Ribkoff: Known as a \"legacy brand\" with over six decades of history. The brand frequently uses a signature black-and-white colour scheme, making their pieces highly versatile for both casual and occasion wear.\n\nFrank Lyman: Acts as the \"younger, bolder counterpart\". This brand is for the woman who wants to make a statement, often incorporating fresh trends like metallics, fringe, or daring cuts. Their pieces are designed to add drama and individuality to a wardrobe.\n\nPricing & Availability\n\nBoth brands operate in the premium womenswear market, with similar price points for their core collections:\n\nDresses: Typically range between $200 – $280 for Joseph Ribkoff and $200 – $260 for Frank Lyman.\nSeparates: Joseph Ribkoff separates generally cost between $100 – $160.\nRetailers: You can find extensive selections of both brands at boutiques like 1ère Avenue or Luxetire.\n\nHow to Mix Them\n\nMany fashion experts suggest combining pieces from both labels to create a balanced look. For example: Pair a streamlined Ribkoff sheath dress with a bold Frank Lyman jacket for contrast.\n\nAre you looking to style an outfit for a specific event, or do you need help finding local retailers carrying these brands?",
+        "brands_mentioned": [
+          "Joseph Ribkoff"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Joseph Ribkoff vs Frank Lyman: What Sets Them Apart - Luxetire",
+          "Canada | Shop Frank Lyman Clothing Online at 1ère Avenue"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Montréal est une véritable plaque tournante de la mode, offrant un mélange unique de haute couture sculpturale, de prêt-à-porter éthique et de vêtements d'extérieur de luxe. Voici les meilleures marques de designers montréalais pour femmes, classées par style et spécialité :\n\nHaute Couture et Luxe\n\nMaison Marie Saint Pierre : Reconnue mondialement pour son approche sculpturale et avant-gardiste. Ses créations, comme le Top Orea ou la Robe Montgomery, utilisent souvent des tissus techniques comme le jersey double ou le scuba fin pour créer des silhouettes sophistiquées et intemporelles.\n\nElisa C-Rossow : Spécialisée dans le haut de gamme minimaliste, cette marque privilégie une palette de couleurs sobres (noir, blanc, gris) et une fabrication impeccable pour des pièces de structure architecturale.\n\nDenis Gagnon : Un incontournable de la scène montréalaise, célèbre pour son travail complexe sur le cuir et les matières texturées.\n\nPrêt-à-Porter Éthique et Local\n\nEliza Faulkner : Offre des vêtements durables pour toutes les morphologies, fabriqués à Montréal avec des fibres naturelles.\n\natelier b : Fondée par Catherine Métivier et Anne-Marie Laflamme, cette marque est célèbre pour ses designs minimalistes, ses textures douces et son engagement envers une fabrication circulaire et durable.\n\nMarigold par Marilyne Baril : Offre des vêtements chics et modernes entièrement fabriqués à Montréal, incluant des robes structurées et des vestes colorées.\n\nVêtements d'extérieur et Spécialités\n\nMackage : Leader mondial du luxe basé à Montréal, spécialisé dans les manteaux en duvet et les vestes de cuir haut de gamme qui allient parfaitement fonctionnalité technique et esthétique couture.\n\nMelow par Mélissa Bolduc : Distinguée par ses vêtements aux coupes fluides et complexes qui s'adaptent à toutes les silhouettes, offrant un confort exceptionnel sans sacrifier le style.\n\nBodybag by Jude : Créée par Judith Desjardins, cette marque s'adresse aux jeunes professionnelles avec des pièces classiques revisitées avec une touche contemporaine.\n\nOù les trouver à Montréal ?\n\nBoutique Unicorn (Mile End), La Petite Garçonne (Plateau), Boutique 1861 (Vieux-Montréal), et les ateliers-boutiques sur le boulevard Saint-Laurent et dans le Mile End.",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Tourisme Montréal - Designers montréalais",
+          "Best Fashion Designers in Montreal: Best of MTL - Cult MTL",
+          "atelier b | Montreal designer | Made in Canada"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Montréal est un véritable foyer pour la mode haut de gamme, alliant savoir-faire artisanal et esthétique contemporaine. Voici une sélection de marques et créateurs montréalais reconnus pour leurs collections féminines produites localement :\n\nCréateurs & Maisons de Luxe\n\nElisa C-Rossow : Spécialisée dans une mode minimaliste et structurée, cette maison propose des pièces haut de gamme souvent déclinées en noir, blanc et gris. Elle offre également un service de vêtements sur mesure pour une exclusivité totale.\n\nMAR par Maria Karimi : Une adresse incontournable pour la haute couture et la \"Grande Mesure\" à Montréal. Elle crée des pièces uniques, allant de tailleurs \"Power Suit\" à des robes de soirée sophistiquées, avec un souci du détail propre à l'artisanat de luxe.\n\nValérie C. Design : Marque québécoise dédiée à la production de vêtements luxueux et durables pour la femme contemporaine, avec des pièces fabriquées localement.\n\nPrêt-à-Porter Éthique et Local\n\nMarigold par Marilyne Baril : Vêtements chics et modernes entièrement fabriqués et conçus à Montréal. Vous y trouverez des pièces comme la Robe Belle (environ 212 CAD), cintrée avec un décolleté en V.\n\nMelow par Mélissa Bolduc : Reconnue pour ses coupes fluides et architecturales qui s'adaptent à toutes les silhouettes, alliant confort et élégance haut de gamme.\n\nAtelier B : Bien que plus minimaliste, cette marque de designers montréalais met l'accent sur la qualité durable et une fabrication locale rigoureuse dans leur atelier-boutique du Mile-End.\n\nSpécialités & Extérieur\n\nAudvik : Si vous recherchez des vêtements d'extérieur de luxe, cette marque fabrique au Québec des manteaux d'hiver haut de gamme, comme le modèle Monaco en nylon recyclé (environ 800 CAD).\n\nKollontaï : Offre des créations audacieuses et texturées, parfaites pour celles qui cherchent des pièces distinctives fabriquées localement.\n\nSouhaitez-vous des recommandations pour un style spécifique (ex: professionnel, soirée, casual chic) ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Elisa C-Rossow - Vêtements haut de gamme pour femmes",
+          "atelier b | Montreal designer | Made in Canada",
+          "Vêtement Femme | Montréal | Melow Par Mélissa Bolduc"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Le Québec regorge de designers talentueux proposant des vêtements chics pour femme, allant du minimalisme architectural au prêt-à-porter écoresponsable. Voici les créateurs et marques incontournables pour une garde-robe élégante et locale :\n\nDesigners et marques de prestige\n\nMarie Saint Pierre : Véritable icône de la mode canadienne, elle est reconnue pour ses coupes sculpturales, ses tissus techniques de luxe et son esthétique intemporelle.\n\nUNTTLD : Fondée par José Manuel St-Jacques et Simon Bélanger, cette marque propose un luxe dramatique avec des pièces structurées, parfaites pour les occasions spéciales ou un style affirmé.\n\nÉlisa C-Rossow : La référence pour un chic minimaliste. Ses collections se concentrent sur des coupes impeccables, principalement en noir, blanc et gris, privilégiant la qualité des matières.\n\nJudith & Charles : Bien que présente à l'international, cette marque montréalaise est synonyme de prêt-à-porter haut de gamme pour la femme professionnelle et moderne.\n\nPrêt-à-Porter Écoresponsable et Local\n\nMarigold par Marilyne Baril : Des vêtements féminins et colorés, entièrement conçus et fabriqués à Montréal. Une référence pour le chic accessible et éthique.\n\nMelow par Mélissa Bolduc : Des pièces aux coupes fluides et sophistiquées qui s'adaptent à toutes les morphologies, mettant l'accent sur le confort sans sacrifier le style.\n\nJennifer Glasgow Design : Une maison de design montréalaise axée sur la mode durable avec une esthétique raffinée et artisanale.\n\nBoutiques multi-designers (Montréal)\n\nSi vous souhaitez découvrir plusieurs créateurs au même endroit :\n\nBelle et Rebelle : Située sur la Plaza St-Hubert, cette boutique offre une vaste sélection de designers locaux.\n\nAtelier b : Propose ses propres collections ainsi que des collaborations locales dans une esthétique épurée et durable.\n\nBoutique Modéco : Une excellente destination pour découvrir des marques québécoises engagées.\n\nSouhaitez-vous des recommandations pour un type d'occasion spécifique (bureau, soirée, casual chic) ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Belle et Rebelle",
+          "Marigold par Marilyne Baril",
+          "Boutique Modéco",
+          "atelier b"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les vêtements Frank Lyman, marque québécoise fondée en 2001, se distinguent par un style \"haut de gamme\" et audacieux destiné aux femmes. Voici les détails concernant les matériaux, les prix et l'entretien de leurs collections.\n\nSpécifications et Matériaux\n\nLa marque privilégie des textiles synthétiques et mélangés pour assurer une tenue impeccable et un confort extensible. Bien que la composition exacte varie par modèle, les matériaux récurrents incluent :\n\nPolyester et Élasthanne (Spandex) : Utilisés massivement pour la durabilité, la résistance aux plis et l'élasticité nécessaire aux coupes ajustées.\n\nViscose et Rayonne : Présentes pour leur douceur et leur drapé fluide, souvent dans les blouses et les tricots légers.\n\nDétails ornementaux : De nombreuses pièces intègrent des broderies, des textures pailletées ou des ourlets transparents.\n\nTechnologie et Entretien\n\nLa composition en polyester-élasthanne permet aux vêtements de garder leur forme, idéal pour les voyages ou les événements.\n\nLavage : Il est fortement recommandé de laver à la main à l'eau froide ou d'utiliser le cycle délicat, toujours à l'envers pour protéger les ornements.\n\nSéchage : Le séchage à plat est préconisé. Évitez la sécheuse à haute température pour prévenir le rétrécissement des fibres d'élasthanne.\n\nGamme de prix (en CAD)\n\nLes prix varient selon la complexité de la pièce et le détaillant (prix relevés chez des marchands comme 1ère Avenue ou DeCabana.com).\n\nCatégorie | Gamme de prix approximative\nHauts et Blouses | 95 – 295\nPantalons et Jeans | 98 – 215\nRobes (Jour/Soir) | 235 – 438\nVestons et Cardigans | 144 – 275\n\nRecherchez-vous une pièce spécifique (ex: robe de soirée, pantalon capri) ou un point de vente dans une ville particulière ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Frank Lyman Design",
+          "Fabric Index & Care Instructions - Psylo",
+          "Apparel Solutions",
+          "1ère Avenue",
+          "DeCabana.com"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Frank Lyman et Joseph Ribkoff sont deux piliers de la mode québécoise, souvent comparés pour leur rayonnement international et leur qualité de fabrication. Bien qu'ils partagent une base commune — des vêtements conçus pour la femme moderne qui voyage et cherche le confort — leurs identités stylistiques divergent nettement.\n\nSynthèse Comparative\n\nCaractéristique | Joseph Ribkoff | Frank Lyman\nStyle principal | Élégance intemporelle et classique | Audace, éclat et caractère\nÉléments signatures | Silhouettes épurées, coupes fluides | Imprimés vibrants, paillettes, froufrous\nOccasion idéale | Professionnel, cocktails sophistiqués | Événements spéciaux, soirées, mode \"statement\"\nPublic cible | Femme cherchant un raffinement sobre | Femme aimant attirer le regard et exprimer sa personnalité\n\nJoseph Ribkoff : Le Raffinement Intemporel\n\nFondée en 1957, la marque est synonyme de chic classique et de coupes flatteuses. Ses pièces sont souvent décrites comme \"polyvalentes\", passant facilement du bureau à un dîner.\n\nPalette : Bien que proposant des couleurs, la marque est célèbre pour ses noirs profonds et ses tons neutres qui constituent une base de garde-robe solide.\n\nFrank Lyman : L'Audace et le Détail\n\nLancée plus récemment (2001), Frank Lyman est souvent perçue comme la \"cousine audacieuse\" de Ribkoff.\n\nDesign : Ses collections sont riches en textures : dentelle, accents métalliques, broderies et coupes asymétriques. L'objectif est de créer un effet \"wow\" immédiat.\n\nStyle : Les vêtements sont plus près du corps et intègrent souvent des détails de mode avant-gardistes qui plaisent aux femmes cherchant à se démarquer.\n\nPoints Communs\n\nQualité : Les deux marques sont reconnues pour leur durabilité exceptionnelle, conservant leur forme et leur éclat après de nombreux lavages.\n\nTaille : Elles proposent généralement des tailles fidèles aux standards (\"True to size\").\n\nVoulez-vous des recommandations de boutiques spécifiques dans votre région pour essayer ces collections ?",
+        "brands_mentioned": [
+          "Joseph Ribkoff"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Frank Lyman et Joseph Ribkoff Deux pionniers de la mode - Facebook / Lily Vögue",
+          "About Us - Joseph Ribkoff",
+          "Best Women's Luxury Fashion Brands 2023 - Charles Vermont"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

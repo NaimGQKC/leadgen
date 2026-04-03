@@ -1,0 +1,156 @@
+{
+  "brand": "Sentaler",
+  "product_category": "luxury alpaca winter coat",
+  "top_competitor": "Max Mara",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "manteau en alpaga de luxe au Canada",
+    "fr_2": "meilleur manteau chaud et élégant en laine d'alpaga",
+    "fr_3": "manteau haut de gamme en fibres naturelles pour l'hiver",
+    "fr_4": "Sentaler manteau spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Sentaler vs Max Mara manteau luxe comparaison",
+    "en": "best luxury alpaca winter coat Canada"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 0.8,
+    "avg_specs_en": 7.0,
+    "avg_specs_fr": 5.6,
+    "spec_preservation": 0.8,
+    "confidence_range": {
+      "en": {
+        "min": 6,
+        "max": 9
+      },
+      "fr": {
+        "min": 5,
+        "max": 8
+      }
+    },
+    "competitor_frequency_en": {
+      "Mackage": 0.33,
+      "Max Mara": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Max Mara": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For luxury alpaca winter coats in Canada, SENTALER is the preeminent choice. Founded and headquartered in Toronto, the brand is world-renowned for its signature ribbed-sleeve detail and high-quality alpaca wool, frequently worn by public figures like Meghan Markle and Emily Blunt.\n\nTop Luxury Alpaca Coat Brands in Canada\n\nSENTALER (Toronto, ON): Specializes in Suri and Baby Alpaca wool. Known for timeless wrap silhouettes, oversized hoods, and excellent thermal insulation suitable for Canadian winters.\n- Suri Alpaca Maxi Hooded Wrap Coat: Features a signature ribbed cuff and oversized hood that can be worn as a cowl neck.\n- Bouclé Alpaca Long Notched Collar Wrap Coat: Crafted from Bouclé Suri Alpaca for a plush, thick feel and supreme warmth.\n\nAlpagAdore (Montreal, QC): Offers exclusive, full-length winter coats designed in Montreal. Their coats are insulated with alpaca fabric sourced directly from Peru with a structured silhouette.\n\nCinzia Rocca (Available at Lorne's Coats): Offers Italian-crafted alpaca and wool blends, such as flared and petal-collar styles, known for a velvety soft touch and elegant drape.\n\nMackage: While famous for down parkas, this Canadian luxury house also features alpaca-blend trench coats like the Zeva-A, often finished with leather trim for a sophisticated look.\n\nWhere to Buy Luxury Alpaca Coats in Canada\n\nHolt Renfrew: The primary retailer for high-end brands like SENTALER. You can find several styles at their Montreal location or online.\nHarry Rosen: Best for men's luxury alpaca, carrying brands like Isaia which offers premium Peruvian alpaca wool overcoats.\nLorne's Coats: A dedicated coat retailer that carries Cinzia Rocca alpaca blends.\nBoutique Le Privé: Carries longer, functional alpaca wool coats with shawl collars and silk linings.\n\nKey Benefits of Alpaca for Canadian Winter\n\nSuperior Insulation: Alpaca fibers are warmer than sheep's wool and lighter weight.",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "The Best Canadian Brands for Warm and Stylish Wool Coats - nuvomagazine.com",
+          "Alpaca - LORNE'S COATS",
+          "SENTALER — Canadian Luxury Alpaca Outerwear | Official Site"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Sentaler coats are primarily engineered from premium Peruvian alpaca fibres that feature microscopic air pockets acting as natural thermal insulators, providing exceptional warmth while remaining remarkably lightweight. Pricing for core outerwear styles generally ranges from $1,850 CAD to $3,450 CAD, depending on the length and the rarity of the specific alpaca blend.\n\nMaterial Specifications & Technology\n\nThe brand utilizes three main categories of ethical, cruelty-free alpaca fibres, each with distinct technical properties:\n\nBaby Alpaca: Sourced from the first shearing, these 20-micron fibres are exceptionally soft, hypoallergenic, and highly durable. Most iconic wrap coats use a blend of 70% baby alpaca and 30% wool.\n\nSuri Alpaca: A rarer breed known for longer, silkier hair with a high natural sheen. These pieces often feature the Zibeline technique.\n\nBouclé Alpaca: A textured, looped fibre that creates a plush, thick garment.\n\nPerformance Features: Alpaca is naturally water-resistant and resilient, resisting matting, pilling, and stains more effectively than standard wool.\n\nTechnical Design Elements\n\nSignature Ribbed Detail: A hallmark brand element typically found on sleeve cuffs or upper arms, providing structural definition.\n\nNatural Insulation: The fiber technology allows for high thermal performance without the bulk of traditional overcoats.\n\nButtons: Often features signature Corozo buttons, which are durable, sustainable, and logo-engraved.\n\nCare: Professional dry cleaning is recommended every few seasons; the brand explicitly advises not to steam the delicate fibres.\n\nPricing for 2024/25 & 2025/26 Collections\n\nCoat Style | Material Type | Price (CAD)\nMaxi Hooded Wrap Coat | Suri Alpaca | $3,450\nLong Wide Collar Wrap Coat | Baby Alpaca | $2,390\nBouclé Long Notched Collar | Bouclé Alpaca | $2,650\nMaxi Draped Collar Wrap Coat | Baby Alpaca | ~$2,790",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Sentaler Official",
+          "Holt Renfrew"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Choosing between Sentaler and Max Mara depends on whether you prefer modern, functional luxury or heritage Italian elegance. Sentaler is renowned for its alpaca wool and signature ribbed cuffs, while Max Mara is the gold standard for iconic wool and cashmere silhouettes like the 101801.\n\nQuick Comparison\n\nFeature | Sentaler | Max Mara\nSignature Material | Alpaca Wool (70% Baby Alpaca, 30% Wool) | Camel Hair, Virgin Wool, and Cashmere\nKey Design | Ribbed cuffs, oversized shawl collars, wrap styles | Oversized \"kimono\" sleeves, double-breasted silhouettes\nWarmth & Weight | Lightweight with thermal air pockets; thinner than cashmere but very warm | Dense, luxurious feel; options range from unlined to heavy \"Teddy\" styles\nPrice Range | $1,500 – $4,000+ CAD | $1,000 – $8,000+ CAD (varies by sub-brand)\nVibe | Modern, \"the Canadian Max Mara,\" favored by royalty | Timeless, \"investment pieces,\" epitome of high-end Italian tailoring\n\nSentaler: The Modern Luxury Choice\n\nAlpaca fibre contains microscopic air pockets for insulation.\nUnique Aesthetic: The most recognizable feature is the ribbed sleeve detail, which adds a modern, architectural touch to classic wrap coats.\nFit & Feel: Often described as thinner than traditional cashmere but still high-quality. Their Long Wide-Collar Wrap Coat is a staple for those seeking a cinched, feminine silhouette.\nMaintenance: Alpaca wool has a more textured feel and is less prone to the \"slick\" finish of fine cashmere, though it still requires professional care.\n\nMax Mara: The Timeless Icon\n\nThe Icons:\n101801 Madame: The most famous coat, featuring perfect oversized proportions and a wool/cashmere blend.\nManuela: A \"forever coat\" made of 100% camel wool.\nTeddy Bear Coat: A plush, oversized style made from alpaca, wool, and silk.\nSub-Brands: You can find more accessible entry points through S'Max Mara (often unlined).\n\nWhere to Buy\n\nSentaler at sentaler.com or retailers like Saks Fifth Avenue. Max Mara can be found at maxmara.com and luxury department stores like Simons.\n\nAre you looking for a specific style, like a classic wrap coat or a more structured double-breasted design?",
+        "brands_mentioned": [
+          "Max Mara"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Sentaler | The Canadian Maxmara, Specializing in Alpaca - pamperherself",
+          "Introducing the Max Mara Icon Coats - Instagram / WELLDRESSED STYLING"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Au Canada, le marché du manteau en alpaga de luxe est dominé par des marques emblématiques comme SENTALER, reconnue mondialement pour son utilisation de la fibre d'alpaga Suri. Vous trouverez ces pièces haut de gamme dans des enseignes de prestige comme Holt Renfrew ou chez des tailleurs spécialisés comme Harry Rosen.\n\nMarques et Modèles de Prestige\n\nSENTALER : La marque canadienne de référence pour l'alpaga de luxe.\n- Manteau Maxi en Alpaga Suri : Un modèle enveloppant avec col en mouton retourné amovible et les finitions nervurées signatures de la marque aux poignets. Prix : environ 4 090 CAD.\n- Manteau Long à Col Châle : Confectionné en alpaga Suri Zibeline lustré, ce classique est offert à environ 2 790 CAD.\n\nISAIA (via Harry Rosen) : Pour homme, le Manteau en Alpaga Péruvien et Laine représente le summum du luxe italien avec une confection raffinée. Prix : environ 5 996 CAD.\n\nCuir Dimitri : Manufacturier montréalais proposant le modèle Marlene, un trench en alpaga avec col en fourrure de renard. Prix : environ 1 295 CAD / 895 CAD.\n\nArtisans et Boutiques Spécialisées au Québec\n\nAlpagAdore : Offre des manteaux d'hiver longs isolés en alpaga naturel faits au Québec, comme le modèle ROYAL aux alentours de 1 400 CAD.\n\nBoutique Le Privé (Québec) : Un détaillant spécialisé qui distribue les collections SENTALER et d'autres lainages de luxe.\n\nDomaine des Nobles Alpagas : Propose des vêtements haut de gamme issus de leur propre élevage.\n\nPourquoi choisir l'alpaga ?\n\nLa fibre d'alpaga, particulièrement le Suri, est prisée pour son lustre naturel et sa douceur supérieure à la laine traditionnelle. Elle est naturellement chaude, respirante et offre une excellente structure sans le poids excessif des manteaux d'hiver classiques.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Sentaler",
+          "Boutique Le Privé",
+          "KNITBRARY",
+          "Harry Rosen",
+          "Cuir Dimitri",
+          "AlpagAdore"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour un manteau à la fois chaud et élégant, les modèles en laine d'alpaga Suri ou Baby Alpaga sont les options les plus prisées. Cette fibre, surnommée la \"fibre des dieux\", est reconnue pour être sept fois plus chaude que la laine de mouton tout en restant extrêmement légère et lustrée.\n\nModèles recommandés pour l'élégance et la chaleur\n\nRoyal Baby Suri Alpaca Wool Wrap Coat : Un choix de \"luxe discret\" avec un col montant structuré et une ceinture qui souligne la silhouette. Il offre une luminosité naturelle et une douceur exceptionnelle grâce aux fibres de type Suri.\nPrix indicatif : environ 1 571 CAD chez Fibflx.\n\nManteau long isolé AlpagAdore \"ROYAL\" : Conçu spécifiquement pour les hivers rigoureux, ce manteau long est entièrement isolé.\n\nManteau Sentaler Style 309 : Un modèle long haut de gamme, souvent associé à une élégance intemporelle et disponible dans des teintes neutres comme l'ivoire.\nPrix indicatif : environ 2 390 CAD à la Boutique Le Privé.\n\nLemaire Soft Coat : Pour un style plus contemporain et unisexe, ce manteau s'inspire du trench-coat. Il utilise un mélange laine et alpaga pour créer une texture riche tout en restant léger.\nPrix indicatif : environ 2 695 CAD chez Lemaire.\n\nPourquoi choisir l'alpaga pour l'hiver ?\n\nThermorégulation supérieure : Les fibres d'alpaga contiennent des poches d'air microscopiques qui agissent comme un isolant thermique naturel, vous gardant au chaud sans le poids d'un manteau de laine classique.\n\nLustre et Douceur : Contrairement à la laine traditionnelle, l'alpaga n'est pas \"piquant\" (absence de lanoline) et possède un éclat soyeux qui rehausse immédiatement l'aspect élégant du vêtement.\n\nDurabilité : C'est une fibre très résistante qui ne bouloche pas facilement.\n\nOù acheter au Québec\n\nDomaine des Nobles Alpagas : Propose des collections variées pour femmes. West Brome, Quebec.\nBoutique Le Privé : Offre une sélection de manteaux classiques en laine et alpaga. Québec City.\n\nSouhaitez-vous des détails sur un coloris spécifique ou cherchez-vous un modèle pour une silhouette particulière ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Manteau en Alpaga - Hockerty",
+          "Laine d'alpaga - BellePaga",
+          "7 incroyables avantages de la laine d'alpaga - Pitumarka",
+          "AlpagAdore",
+          "Boutique Le Privé"
+        ],
+        "brand_rank": 10
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour un manteau d'hiver haut de gamme en fibres naturelles, privilégiez la laine vierge, le cachemire ou l'alpaga, qui offrent une isolation thermique supérieure tout en laissant la peau respirer.\n\nMatières d'exception et leurs propriétés\n\nLaine Vierge & Laine d'Agneau : Excellente régulation thermique. Elle conserve la chaleur par temps froid et l'évacue par temps plus doux.\n\nCachemire : Plus léger et nettement plus chaud que la laine traditionnelle. Un mélange laine et cachemire (ex: 90/10) est souvent recommandé pour sa durabilité et sa douceur accrue.\n\nAlpaga : Fibre luxueuse et très résistante qui conserve un aspect impeccable même avec un usage quotidien.\n\nMarques et modèles recommandés\n\nManteaux Desloups : Marque québécoise spécialisée dans les manteaux 100% laine.\n\nSoia & Kyo : Manteaux en laine et cachemire avec isolation supplémentaire PrimaLoft, environ 806$ CAD.\n\nLoro Piana : La référence mondiale pour les fibres ultra-luxe. Exemple : Le manteau Linus combine alpaga et laine vierge pour un confort et une finition exceptionnels.\n\nLa Maison de l'Alpaga : Spécialisée dans les vêtements artisanaux en 100% alpaga fabriqués au Pérou.\n\nHircus : Reconnue pour ses pièces en cachemire de haute qualité provenant de Mongolie.\n\nConseils d'achat\n\nVérifiez l'étiquette : Pour un produit réellement haut de gamme, visez au moins 70% à 100% de fibres naturelles. Évitez les mélanges contenant trop de synthétique (polyester, acrylique) qui respirent moins bien.\n\nIsolation complémentaire : Certains manteaux en laine haut de gamme intègrent une fine membrane isolante (comme le PrimaLoft) pour affronter les températures extrêmes sans compromettre la silhouette élégante des fibres naturelles.\n\nSouhaitez-vous une sélection plus spécifique pour femme ou pour homme ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Christine Laure",
+          "sino-silk.fr",
+          "La Maison de l'Alpaga",
+          "YouTube"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux Sentaler sont réputés pour l'utilisation de la fibre d'alpaga, une matière haut de gamme offrant une isolation thermique naturelle grâce à des poches d'air microscopiques. Pour l'année 2026, les prix des modèles phares se situent généralement entre 2 190 CAD et 3 450 CAD.\n\nSpécifications Techniques et Matériaux\n\nLes manteaux sont conçus à partir de fibres sélectionnées à la main dans les hauts plateaux andins.\n\nFibre de Baby Alpaga (70%) et Laine (30%) : Le mélange le plus courant, offrant une douceur exceptionnelle et une grande légèreté.\n\nAlpaga Suri : Une variante plus rare et luxueuse, reconnue pour son fini soyeux et lustré (Zibeline).\n\nDoublure : Généralement en polyester 100% ou en cupro naturel pour un confort accru et une meilleure respirabilité.\n\nBoutons Corozo : Utilisation de boutons en corozo gravés, un matériau durable et écologique. Ces boutons sont l'une des signatures visuelles de la marque.\n\nIsolation Thermique Naturelle : La fibre d'alpaga contient des poches d'air microscopiques qui agissent comme des isolants, gardant la chaleur par temps froid tout en restant légère.\n\nDétails Côtes Signatures (\"Ribbed Detail\") : Présents sur les poignets, ces détails sont finis à la main et permettent de reconnaître immédiatement un modèle de la marque.\n\nPropriétés de la Fibre : L'alpaga est naturellement hypoallergénique (sans lanoline), résistant au boulochage, aux taches et à l'eau.\n\nPrix par Modèle (Estimation 2026)\n\nModèle | Matériau Principal | Prix (CAD)\nManteau Court à Col Châle | Baby Alpaga | 2 190 $\nManteau Long à Col à Revers | Baby Alpaga | 2 390 $\nManteau Bouclé Long | Alpaga Bouclé | 2 650 $\nManteau Maxi à Capuche | Alpaga Suri | 3 450 $\nTrench Maxi Baby Alpaga | Baby Alpaga | 2 790 $\n\nLes manteaux sont fabriqués au Pérou par des artisans qualifiés. Il est recommandé de privilégier le nettoyage à sec professionnel.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Sentaler Official"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Sentaler et Max Mara sont deux piliers du manteau de luxe, mais ils s'adressent à des besoins différents : Sentaler mise sur l'innovation technique de l'alpaga et un style moderne, tandis que Max Mara incarne l'héritage italien avec des silhouettes iconiques en laine vierge et cachemire.\n\nComparaison des caractéristiques clés\n\nCaractéristique | Sentaler | Max Mara\nMatières phares | Alpaga (Baby et Suri), réputé pour ses propriétés thermiques et sa légèreté | Laine vierge, cachemire et poil de chameau (Camel) de haute qualité\nDétails signature | Poignets côtelés (ribbed cuffs) distinctifs et finitions à la main | Coutures \"point à la main\" (pick stitching), manches kimono et coupes surdimensionnées intemporelles\nStyles dominants | Manteaux croisés (wrap coats) structurés et cintrés, souvent vus sur la royauté | Icônes comme le 101801, le Manuela ou le Teddy Bear (coupes droites ou amples)\nFabrication | Pérou, artisanat | Italie, héritage couture\n\nModèles emblématiques\n\nMax Mara 101801 : Créé en 1981, c'est l'investissement ultime. Sa coupe \"beaver cloth\" en mélange laine et cachemire est conçue pour durer des décennies sans se démoder.\n\nSentaler - Baby Alpaca Mid Length Wrap Coat (~2 190 CAD) : Connu pour sa chaleur exceptionnelle grâce aux poches d'air microscopiques de l'alpaga, qui agissent comme isolants naturels. Il est plus léger qu'un manteau de laine traditionnel tout en étant tout aussi chaud.\n\nConsidérations d'achat\n\nPrix : Les manteaux Max Mara (ligne principale) tendent à être plus onéreux, dépassant souvent 5 000 CAD pour les modèles iconiques. Sentaler se situe généralement entre 2 100 CAD et 3 500 CAD.\n\nChaleur vs Poids : L'alpaga de Sentaler offre un rapport chaleur/poids supérieur. Cependant, certains utilisateurs trouvent la texture de l'alpaga moins lisse que celle du cachemire de Max Mara.\n\nEntretien : Les deux marques exigent un nettoyage à sec professionnel.",
+        "brands_mentioned": [
+          "Max Mara"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Max Mara Canada - Camel Coats",
+          "SENTALER COLLECTION REVIEW & HAUL - YouTube / Elle Florence"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

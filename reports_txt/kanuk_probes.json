@@ -1,0 +1,169 @@
+{
+  "brand": "Kanuk",
+  "product_category": "Montreal-made winter coat",
+  "top_competitor": "Quartz Co",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleure marque manteau hiver patrimoine québécois",
+    "fr_2": "manteau fabriqué au Québec artisanal durable",
+    "fr_3": "manteau hiver local écoresponsable Montréal",
+    "fr_4": "Kanuk manteau spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Kanuk vs Quartz Co manteau hiver comparaison",
+    "en": "best heritage winter coat brand Quebec Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 0.6,
+    "avg_specs_en": 10.3,
+    "avg_specs_fr": 6.6,
+    "spec_preservation": 0.64,
+    "confidence_range": {
+      "en": {
+        "min": 4,
+        "max": 20
+      },
+      "fr": {
+        "min": 5,
+        "max": 12
+      }
+    },
+    "competitor_frequency_en": {
+      "Mackage": 0.33,
+      "Quartz Co": 1.0,
+      "Canada Goose": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Quartz Co": 0.6
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For heritage winter coats in Quebec, Kanuk and Quartz Co. are widely considered the gold standards due to their long histories and continued manufacturing within Montreal.\n\nTop Heritage Brands from Quebec\n\nKanuk: Founded in 1970, Kanuk is the quintessential Montreal heritage brand. For over 50 years, they have handcrafted parkas in their Plateau-area workshop. Their coats are famous for being specifically engineered for Quebec's humid, bone-chilling winters and often feature their iconic Snowy Owl logo.\n\nQuartz Co.: Known for its \"Heritage\" collection, Quartz Co. has been operating since 1997. They maintain a Montreal factory where they produce high-performance down coats that blend a minimalist, timeless aesthetic with extreme cold protection.\n\nAudvik: Operating for over 40 years, Audvik designs and handcrafts coats in their Chabanel-district workshop in Montreal. They are a go-to for those seeking local artisanal production with a focus on sustainability and recycled materials.\n\nBilodeau Canada: Based in Normandin, Quebec, Bilodeau is a more traditional heritage brand known for its deep roots in northern craftsmanship and the use of natural materials, creating rugged gear meant for the harshest Canadian environments.\n\nKey Brands by Style and Origin\n\nBrand | Founded | Known For | Origin\nKanuk | 1970 | Artisanal parkas; Snowy Owl logo; designed for humid cold | Montreal\nQuartz Co. | 1997 | Sustainable innovation; lifetime warranty; slim, modern silhouettes | Montreal\nAudvik | ~1980s | Family-owned; local workshop production; eco-friendly materials | Montreal\nMackage | 1999 | High-end luxury fashion; sleek, tailored leather and down coats | Montreal\nBilodeau | 1985 | Traditional northern styles; focus on warmth and durability | Normandin, QC\n\nLocal Shopping Recommendations\n\nFlagship Stores: To get the full brand experience, visit the Kanuk flagship on Rachel Street or the Quartz Co. store in Mile End.\nMulti-Brand Retailers: Retailers like Altitude Sports (online) and SAIL carry a wide variety of these heritage labels under one roof.\n\nAre you looking for a specific style, such as a heavy technical parka for extreme cold or a more tailored coat for city commuting?",
+        "brands_mentioned": [
+          "Mackage",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Canadian Made Winter Coats & Parkas | Montreal - Audvik",
+          "Canadian-Made & Designed Winter Jackets Brands",
+          "Quartz Co.",
+          "Altitude Sports"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Kanuk winter coats are engineered for extreme cold, typically featuring temperature ratings from 0°C to -35°C. The brand utilizes high-performance insulation technologies like Thermo+ synthetic and RDS-certified duck down to maintain warmth in humid urban environments.\n\nCore Technical Specifications & Materials\n\nKanuk coats are distinguished by their \"architectured\" design, specifically adapted for the Quebec climate.\n\nInsulation Types:\nThermo+ Synthetic: A proprietary continuous fibre network that maintains loft and integrity even in damp conditions.\nNatural Down: A 90/10 duck down and feather blend with up to 800 fill power, certified by the Responsible Down Standard (RDS).\nThindown: A patented down fabric that provides warmth without the traditional bulk of a puffer.\n\nShell Materials:\nMini-Ottoman: 100% recycled polyester with a microporous hydrophobic lamination and DWR (Durable Water Repellent) treatment.\nVintage Ripstop: 100% nylon used in signature heritage models for durability.\n\nKey Features:\nWeatherproofing: Most models offer 10,000 mm waterproofing and are fully windproof.\nClosures: Two-way heavy-duty zippers often protected by snap-closure storm flaps.\nCuffs: Inset Lycra or wool-blend rib-knit storm cuffs to seal out drafts.\n\nPricing & Model Comparison (April 2026)\n\nPrices for Kanuk coats generally range from $300 to over $1,000 CAD, with significant seasonal discounts often available through the Official Kanuk Store and authorized retailers like Altitude Sports.\n\nModel | Insulation | Comfort Zone | Current Price (CAD)\nKANUK Harfang Signature Parka | Primaloft Black | -20°C to -25°C | $950\nKANUK Mont-Royal Hooded Coat | Thermo+ / Primaloft | -20°C to -25°C | $790\nKANUK Sutton Quilted Puffer | 800 Fill Down | -10°C to -20°C | $750\nKANUK Milton Shiny Puffer | RDS Duck Down | -20°C to -25°C | $340 (was $850)\nKANUK Laurier Semi-Fitted Coat | Synthetic | -20°C to -25°C | $240 (was $800)\nKANUK Alpin Short Jacket | Primaloft Black | -10°C to -20°C | $357 (was $595)\n\nCare and Maintenance\n\nTo preserve the technical properties of the materials, Kanuk recommends:\nWashing: Use a front-loading machine only; top-loaders can damage the water-repellent shell.\nDetergent: Use bleach-free detergent specifically formulated for down or synthetics.\nDrying: Tumble dry on medium heat with drying balls to restore loft. Do not dry clean unless specified (some leather/wool trims require specialist care).\n\nWould you like to compare a specific Kanuk model against another brand like Canada Goose or Quartz Co.?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Insulation, Care & Service - Kanuk",
+          "FAQ - Kanuk",
+          "Insulation - Kanuk"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "When comparing Kanuk and Quartz Co, the primary trade-off is between Kanuk's legacy of durability and synthetic insulation expertise versus Quartz Co's modern, lightweight down performance and minimalist design. Both brands are luxury-tier Montreal-based companies capable of handling extreme Canadian winters as low as -30°C to -40°C.\n\nKey Comparison Overview\n\nFeature | Kanuk | Quartz Co\nInsulation | Primarily Thermo+ synthetic (mimics down, better in wet/damp). | Primarily Canadian White Duck Down (lighter, highly compressible).\nManufacturing | Historically and largely made in Montreal. | Proudly Made in Canada.\nStyle | Wide variety, from bold urban to rugged outdoor. | Minimalist with clean lines and neutral tones.\nWarranty | Lifetime warranty against manufacturing defects. | High durability with a focus on sustainability and recycling.\nFit | Generally true to size; some models offer more \"wiggle room\". | Range of fits from Fitted to Slim-Straight.\n\nBrand Breakdowns\n\nKanuk: The Legacy Specialist\nInsulation Performance: Known for Thermo+, which retains heat even when damp from heavy snow or rain, making it ideal for coastal or fluctuating climates.\nArtisanal Craftsmanship: Features a \"buy-now, wear-forever\" reputation with an artisanal production style in its Montreal workshop.\nDesign Aesthetic: Offers a unique personal aesthetic that combines classic parkas with modern, rejuvenated silhouettes.\n\nQuartz Co: The Minimalist Modernist\nLightweight Warmth: Uses 650-fill power ethically sourced down, providing a \"wrapped in a duvet\" feel that is significantly lighter than most synthetic alternatives.\nSustainable Innovation: Heavily emphasizes environmental impact, using bluesign®-certified fabrics and recycled materials for both shells and some synthetic options.\nVersatility: Their range includes \"lightweight\" coats for 0°C to -10°C and \"extreme\" parkas rated for -40°C, allowing for precise selection based on your region.\n\nWhere to Shop\n\nYou can find a selection of both brands at Altitude Sports or Boutique Bubbles, which provide detailed temperature ratings for specific models.\nKanuk also maintains a flagship warehouse store on Rue Rachel in Montreal for those who want to try them on in person.\n\nWould you like me to look up specific price comparisons or size charts for a particular model from either brand?",
+        "brands_mentioned": [
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Kanuk vs. Quartz Co: A Comparative Review of Luxury ... - Boutique Bubbles",
+          "5 brands of winter jackets designed in Canada | SAIL Blog",
+          "OSC, Kanuk, or Quartz Co? : r/BuyCanadian - Reddit",
+          "Altitude Sports"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "La marque la plus emblématique du patrimoine québécois est incontestablement Kanuk. Fondée à Montréal en 1970, elle est devenue un symbole culturel avec son logo de harpe et ses manteaux conçus spécifiquement pour l'humidité et le froid rigoureux du Québec.\n\nVoici les marques qui incarnent le mieux le savoir-faire et l'histoire de la province :\n\n1. Kanuk : L'icône montréalaise\nPatrimoine : Véritable institution depuis plus de 50 ans, Kanuk fabrique ses manteaux dans son atelier de la rue Rachel à Montréal.\nStyle & Qualité : Reconnue pour ses coupes classiques et son isolation synthétique de haute performance, idéale pour les climats changeants.\nPrix : Modèles disponibles autour de 600 CAD chez des détaillants comme The Last Hunt.\n\n2. Quartz Co. : L'élégance nordique\nPatrimoine : Fondée en 1997, la marque mise sur une production locale et des matériaux durables pour refléter le mode de vie nordique.\nStyle & Qualité : Offre des designs plus épurés et modernes, utilisant souvent du duvet de canard canadien de source éthique.\nExpertise : Très prisée pour sa légèreté et sa résistance aux températures extrêmes.\n\n3. Audvik : Le savoir-faire familial\nPatrimoine : Une entreprise québécoise qui met de l'avant l'achat local et l'utilisation de matériaux recyclés.\nStyle & Qualité : Propose des parkas robustes comme le modèle Monaco (environ 800 CAD) ou le Toronto II (environ 900 CAD), tous deux fabriqués au Québec.\nEngagement : Disponible directement sur le site d'Audvik.\n\n4. Bilodeau Canada : L'authenticité du terroir\nPatrimoine : Basée au Saguenay–Lac-Saint-Jean, cette marque est experte dans l'utilisation de la fourrure et des matières naturelles.\nStyle & Qualité : Leurs modèles, tels que l'Anouk (environ 919 CAD) ou l'Albert (environ 599 CAD), sont conçus pour une protection thermique maximale dans les conditions les plus sauvages.\nDisponibilité : À découvrir sur la boutique de Bilodeau Canada.\n\n5. Desloups : La tradition de la laine\nPatrimoine : Spécialisée dans les manteaux en laine 100 % fabriqués à Montréal.\nStyle & Qualité : Allie un look urbain chic à une chaleur surprenante, avec des modèles comme le manteau long à double boutonnage (environ 650 CAD).\nOriginalité : Parfait pour ceux qui cherchent une alternative élégante au parka traditionnel sur le site de Desloups.\n\nSouhaitez-vous comparer les performances thermiques spécifiques de ces marques ou cherchez-vous un style particulier (urbain vs expédition) ?",
+        "brands_mentioned": [
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Kanuk vs Quartz Co : un examen comparatif des vêtements d'extérieur - Boutique Bubbles",
+          "À Propos - Kanuk",
+          "Des manteaux québécois pour braver l'hiver - LaPresse.ca"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Plusieurs marques et ateliers québécois se spécialisent dans la confection artisanale de manteaux durables, privilégiant des matières nobles comme la laine ou des textiles recyclés.\n\nMarques artisanales et durables au Québec\n\nManteaux Desloups : Réputé pour ses manteaux en laine 100 % naturelle confectionnés à Montréal. Le style est classique et urbain, conçu pour durer des années tant au niveau de la coupe que de la robustesse des matériaux.\n\nAudvik : Propose des manteaux d'hiver haut de gamme fabriqués localement à partir de matières recyclées. Ils offrent un service de sur-mesure dans leur atelier de Montréal, ce qui garantit une pièce parfaitement adaptée et une durabilité accrue.\n\natelier b : Situé dans le Mile End, cet atelier-boutique prône la \"slow fashion\" avec une production locale et des matières naturelles comme le lin et le coton biologique, proposant parfois des manteaux légers ou de transition.\n\nGaia & Dubos : Une marque axée sur l'éthique qui utilise des textiles écologiques et propose des pièces durables fabriquées entièrement au Québec.\n\nMeemoza : Créatrice montréalaise qui utilise des fibres naturelles et récupérées pour concevoir des vêtements féminins, incluant des manteaux au style raffiné et écoresponsable.\n\nCaractéristiques de durabilité observées\n\nProduction Locale : La plupart de ces marques effectuent la coupe et l'assemblage directement à Montréal ou dans d'autres régions du Québec pour réduire l'empreinte carbone.\nMatières Premières : Utilisation intensive de la laine (thermorégulatrice et biodégradable) ou de polyesters issus de bouteilles de plastique recyclées.\nRéparabilité : Les marques comme Audvik mettent l'accent sur la qualité de construction permettant des réparations au fil des ans plutôt que le remplacement.\n\nRecherchez-vous un modèle spécifique pour le grand froid ou plutôt un manteau de transition pour le printemps et l'automne ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Audvik",
+          "atelier b",
+          "Gaia & Dubos",
+          "Meemoza"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour un manteau d'hiver à la fois local et écoresponsable à Montréal, plusieurs marques se distinguent par leur fabrication québécoise et l'utilisation de matériaux durables (tissus recyclés, isolation éthique).\n\nVoici les meilleures options de marques montréalaises et québécoises :\n\n1. Marques avec fabrication locale (Fait à Montréal/Québec)\n\nAudvik : Cette marque fabrique ses manteaux directement dans son atelier du quartier Chabanel à Montréal. Elle utilise des tissus faits de plastique recyclé et propose un programme de \"Seconde Vie\" pour revendre des manteaux usagés.\nModèle phare : Le Audvik Montréal (environ 900 CAD), conçu spécifiquement pour les grands marcheurs urbains.\n\nQuartz Co. : Bien que certains composants puissent varier, la marque met l'accent sur la transparence de sa chaîne d'approvisionnement et propose des manteaux fabriqués au Canada avec du duvet recyclé ou des fibres comme le Repreve.\nModèle phare : Le Quartz Co. Labrador Heritage (environ 1150 CAD), certifié OEKO-TEX et conçu pour des températures allant jusqu'à -30°C.\n\nEthically Warm : Une option 100 % végétalienne et locale. Leurs parkas sont fabriqués au Québec, utilisant des matériaux biodégradables et des fermetures éclair produites à Montréal.\n\n2. Marques écoresponsables (Design Montréalais)\n\nOOKPIK : Propose des collections écoresponsables et vegan utilisant des bouteilles de plastique recyclées pour l'isolation.\n\nAlizée : Spécialisée dans les manteaux écoresponsables, reconnue pour son confort et sa chaleur sans compromis éthique.\n\nChlorophylle : Bien que la production soit plus large, cette marque québécoise propose des modèles comme le Lana ou le Mistral (entre 224 CAD et 400 CAD) avec une attention portée à la durabilité.\n\nOù les trouver à Montréal ?\n\nMarque | Boutique / Point de vente | Quartier\nAudvik / FOSFO | Atelier Audvik (sur rendez-vous) | Chabanel\nQuartz Co. | Boutique De Gaspé | Mile End\nQuartz Co. | Boutique Royalmount | Mont-Royal\nMulti-marques | SAIL | Divers lieux\n\nRecherchez-vous un manteau pour une utilisation urbaine ou pour des activités de plein air plus intenses ?",
+        "brands_mentioned": [
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Canadian Made Winter Coats & Parkas | Montreal - Audvik",
+          "Quartz Co.",
+          "alizee.ca",
+          "Chlorophylle"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux Kanuk sont reconnus pour leur ingénierie adaptée aux hivers urbains rigoureux, combinant des isolants de haute performance (duvet et synthétique) avec des tissus techniques durables.\n\nTechnologies d'isolation\n\nKanuk utilise plusieurs types d'isolants selon le niveau de chaleur et la gestion de l'humidité requis :\n\nDuvet de Hutterite canadien : Un duvet de canard blanc de première qualité avec un pouvoir gonflant (fill power) de 800. Il offre un rapport chaleur-poids exceptionnel et une grande respirabilité.\nKanuk Thermo+ : Un isolant synthétique à fibres continues qui crée un réseau rigide pour maximiser le volume d'air emprisonné (loft). Il conserve son intégrité structurelle et sa chaleur même dans des conditions humides.\nThermo+ Comfort : Une variante plus souple du Thermo+ offrant plus de flexibilité pour le design tout en maintenant une protection thermique élevée.\n\nTissus et matériaux extérieurs\n\nMini-Ottoman : Polyester 100 % recyclé avec lamination microporeuse hydrophobe et traitement DWR (Durable Water Repellent). C'est le tissu technique principal de la collection.\nVintage Ripstop : Nylon 100 % utilisé sur les modèles signature de la marque pour leur aspect patrimonial et leur résistance à la déchirure.\nImperméabilité : La plupart des modèles offrent une imperméabilité de 10 000 mm, à la fois coupe-vent et résistant à l'eau.\nZones de confort : La plupart des modèles sont classés par zones, comme la zone K3 (conçue pour -20°C à -25°C) ou des modèles plus légers pour la zone -10°C à -20°C.\n\nPrix et modèles représentatifs (en CAD)\n\nLes prix varient considérablement selon les promotions en vigueur et le type d'isolation (les prix barrés indiquent des soldes récents sur Kanuk).\n\nModèle | Type / Particularité | Prix approximatif\nKanuk Mont-Royal | Parka classique urbain (Zone K3) | 790 $\nKanuk Condor | Parka \"Mixed Media\" en duvet | ~990 $ (soldé ~594 $)\nKanuk Sutton | Manteau court matelassé en duvet | 750 $\nKanuk Alpin | Manteau isolé court (synthétique) | ~595 $ (soldé ~357 $)\nKanuk Halloway | Manteau 3-en-1 polyvalent | ~1299 $ (soldé ~649 $)\nKanuk Milton | Doudoune légère en nylon brillant | ~850 $ (soldé ~340 $)\nKanuk Kiruna | Coupe ample en duvet Hutterite | ~990 $ (soldé ~297 $)\n\nCaractéristiques techniques additionnelles\n\nConception : Plusieurs modèles incluent des poignets coupe-vent en tricot (souvent en laine mérinos) et des capuchons ajustables avec cordons élastiques.\nEntretien : La majorité des manteaux avec isolation synthétique ou duvet traité sont lavables à la machine.\nGarantie : Kanuk est réputé pour sa fabrication canadienne (Montréal) et la durabilité de ses produits sur plusieurs décennies.\n\nSouhaitez-vous comparer les spécifications d'un modèle spécifique ou obtenir des conseils sur la taille idéale ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Insulation - Kanuk",
+          "Kanuk",
+          "influenceu"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Pour choisir entre Kanuk et Quartz Co., il faut principalement soupeser votre préférence pour l'isolation (synthétique vs duvet), le lieu de fabrication et le style esthétique.\n\nComparaison Rapide : Kanuk vs Quartz Co.\n\nCaractéristique | Kanuk | Quartz Co.\nIsolation Principale | Thermo+ (synthétique propriétaire) et duvet. | Duvet de canard blanc canadien de haute qualité.\nLieu de Fabrication | Certains modèles encore au Canada, mais une partie de la production est maintenant en Chine. | La collection Heritage est fièrement fabriquée dans leur usine de Montréal.\nStyle | Designs variés allant de l'urbain chic au plein air technique. | Esthétique minimaliste, épurée et moderne.\nPerformance Humide | Excellente grâce à l'isolation synthétique qui garde sa chaleur même mouillée. | Très bonne protection grâce à des membranes imperméables (10 000 mm).\nGarantie | Garantie à vie. | Garantie à vie avec service de réparation gratuit.\n\nPourquoi choisir Kanuk ?\n\nPerformance en Humidité : L'isolation Thermo+ est particulièrement adaptée pour les climats humides (neige mouillée/pluie) car elle ne s'écrase pas et continue d'isoler une fois humide.\nVariété de Styles : Offre une gamme plus large de silhouettes, incluant des modèles classiques comme le Kanuk Mont-Royal (-25°C) qui reste une référence urbaine.\nHistorique : Marque établie depuis 1970 avec une réputation de durabilité extrême (\"manteau pour la vie\").\n\nPourquoi choisir Quartz Co. ?\n\nLégèreté et Chaleur : L'utilisation de duvet canadien (750-fill power sur certains modèles) offre un rapport chaleur/poids supérieur, donnant une sensation de \"duvet\" très confortable.\nFabrication Locale : Si l'origine québécoise est cruciale pour vous, Quartz Co. maintient une production artisanale à Montréal pour ses modèles emblématiques.\nMinimalisme Moderne : Leurs manteaux sont souvent jugés plus \"habillés\" ou versatiles pour le bureau grâce à leurs lignes simples et leurs tons neutres.\nPerformance Arctique : Des modèles comme le Quartz Co. Vostok sont conçus pour des températures extrêmes allant jusqu'à -40°C.\n\nModèles recommandés selon vos besoins\n\nPour le froid extrême (-30°C à -40°C) : Le Quartz Co. Vostok est une véritable armure contre l'Arctique avec son duvet 750 et sa membrane imper-respirante.\nPour un usage urbain quotidien (-20°C à -25°C) : Le Kanuk Mont-Royal est un excellent choix, combinant style montréalais et protection efficace contre le vent et l'humidité.\nPour un style léger et polyvalent : Le Quartz Co. Kimberly offre une coupe semi-ajustée élégante tout en protégeant jusqu'à -30°C.\n\nSouhaitez-vous comparer des modèles spécifiques pour homme ou pour femme afin d'affiner votre choix ?",
+        "brands_mentioned": [
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "5 brands of winter jackets designed in Canada | SAIL Blog",
+          "Kanuk vs Quartz Co : un examen comparatif des vêtements d'extérieur de luxe - Boutique Bubbles",
+          "Insulation - Kanuk",
+          "Quartz Co."
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

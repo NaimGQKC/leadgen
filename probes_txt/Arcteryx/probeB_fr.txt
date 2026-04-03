@@ -1,0 +1,45 @@
+Query: Arc'teryx manteau spécifications techniques complètes matériaux technologie prix
+
+Arc'teryx propose une gamme de manteaux structurée par des codes techniques précis. Voici les spécifications, matériaux et technologies clés pour les modèles de la saison actuelle (2024-2026).
+
+1. Comprendre les Gammes et Modèles
+
+Chaque nom de manteau combine une série (activité) et un modificateur (niveau de protection) :
+
+Séries principales :
+Alpha : Spécifiquement pour l'alpinisme et l'escalade (compatible avec harnais).
+Beta : La gamme la plus polyvalente pour la randonnée et la montagne.
+Atom / Proton : Couches isolantes (peuvent servir de couche intermédiaire ou extérieure).
+
+Modificateurs de performance :
+SV (Severe Weather) : Protection maximale pour les conditions les plus rudes.
+AR (All Round) : Équilibre entre durabilité et polyvalence.
+LT (Lightweight) : Conception légère et minimaliste.
+SL (Superlight) : Priorité absolue à la compacité et à la légèreté.
+
+2. Technologies et Matériaux Clés
+
+GORE-TEX Pro (ePE) : Membrane imper-respirante de dernière génération, sans PFAS. Utilisée dans les modèles Alpha et Beta haut de gamme. Offre une durabilité et une respirabilité supérieures.
+Coreloft™ : Isolation synthétique en fibre polyester qui conserve sa chaleur même mouillée. Disponible en différents grammages (60g, 80g, etc.) selon le niveau de chaleur requis.
+Hadron™ : Tissu face ultra-léger mais très résistant à l'abrasion, utilisé notamment sur l'Alpha Jacket.
+C-KNIT™ : Doublure intérieure souple et silencieuse qui améliore le confort et la respirabilité par rapport aux membranes crissantes traditionnelles.
+RECCO® : Réflecteur passif de recherche et sauvetage intégré dans le capuchon de la plupart des coquilles techniques.
+
+3. Tableau des Modèles avec Prix Approximatifs
+
+Modèle | Matériaux Principaux | Caractéristiques | Prix Approx. Moyen
+Alpha SV | GORE-TEX Pro 100D | Ultra-robuste, alpinisme extrême | ~1 100 $
+Beta AR | GORE-TEX Pro 80D | Polyvalent, renforts stratégiques | 800 $
+Beta Insulated | GORE-TEX 2L + Coreloft | Imperméable et chaud (hiver) | ~900 $
+Beta Jacket | GORE-TEX 3L (C-KNIT) | Coquille légère de randonnée | 500 $
+Atom SV Hoody | Nylon + Coreloft | Isolation synthétique chaude | ~420 $
+Patera Parka | GORE-TEX + Duvet 750 | Parka urbaine longue et chaude | 605 $
+
+Les modèles de saisons passées sont souvent disponibles à prix réduit (jusqu'à 60 % de rabais) sur le Arc'teryx Outlet.
+
+Souhaitez-vous comparer un modèle spécifique pour une activité précise comme le ski ou la randonnée hivernale ?
+
+--- SOURCE LINKS ---
+How Arc'teryx Designs Extreme Cold-Weather Clothing - Arc'teryx
+Que signifient les codes des noms de produits Arc'teryx ? - blog.jans.com
+Decoding Arc'teryx | Technology + Design Explained

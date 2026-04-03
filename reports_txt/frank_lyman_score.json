@@ -1,0 +1,38 @@
+{
+  "brand": "Frank Lyman",
+  "ias": 35,
+  "severity": "RED",
+  "breakdown": {
+    "appearance": {
+      "score": 0,
+      "rate_fr": 0.4,
+      "rate_en": 0.67
+    },
+    "spec_preservation": {
+      "score": 15,
+      "ratio": 0.8,
+      "avg_en": 2.0,
+      "avg_fr": 1.6
+    },
+    "competitor_displacement": {
+      "score": 10,
+      "new_competitors_fr": [
+        "Mackage"
+      ],
+      "count": 1
+    },
+    "source_authority": {
+      "score": 0,
+      "gap": null,
+      "avg_en": null,
+      "avg_fr": null
+    },
+    "rank_parity": {
+      "score": 10,
+      "en_rank": null,
+      "fr_rank": null,
+      "note": "proxy_from_appearance"
+    }
+  },
+  "methodology": "manual-txt-import, 8 probes (3 EN, 5 FR)"
+}

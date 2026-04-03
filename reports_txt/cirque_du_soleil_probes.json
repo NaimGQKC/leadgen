@@ -1,0 +1,150 @@
+{
+  "brand": "Cirque du Soleil",
+  "product_category": "live entertainment show",
+  "top_competitor": "Blue Man Group",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleur spectacle à voir à Montréal",
+    "fr_2": "spectacle incontournable à Montréal en ce moment",
+    "fr_3": "sortie culturelle impressionnante à Montréal",
+    "fr_4": "Cirque du Soleil spectacle détails prix billets",
+    "fr_5": "Cirque du Soleil vs Blue Man Group spectacle comparaison",
+    "en": "best live entertainment show Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 0.8,
+    "avg_specs_en": 1.0,
+    "avg_specs_fr": 0.4,
+    "spec_preservation": 0.4,
+    "confidence_range": {
+      "en": {
+        "min": 1,
+        "max": 1
+      },
+      "fr": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "competitor_frequency_en": {
+      "Blue Man Group": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Blue Man Group": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For top-tier live entertainment in Montreal for April 2026, the standout choice is Cirque du Soleil: ECHO, a mesmerizing production featuring world-class acrobatics and a giant 23-foot cube. For those seeking laughs, the Just For Laughs Showcase at The Comedy Nest offers a high-stakes look at rising talent.\n\nTop Recommendations for April 2026\n\nCirque du Soleil: ECHO: A spectacular performance under the Big Top at Jacques-Cartier Pier.\nHighlights: Acrobatics, vibrant visuals, and a narrative centered on the natural world.\nDuration: 125 minutes.\n\nJust For Laughs Showcase: Professional and rising comedians compete for a spot at the legendary festival at The Comedy Nest.\nWhen: Wednesday, April 15, 2026, at 7:00 PM and 9:00 PM.\nVibe: High-energy, English-language stand-up for ages 18+.\n\nRed Velvet Burlesque Show: A popular variety and cabaret show that combines glamour and humor.\nWhere: Bar Taboo.\n\nVie d'un Prodige: A theatrical production exploring the life of the iconic pianist at Théâtre du Rideau Vert.\nDates: Daily performances through April 17, 2026.\n\nJazz Nights at Le Balcon: Experience intimate jazz sessions like the Hommage à Herbie Hancock.\nDetails: Optional dinner service available for a complete cabaret experience.\n\nVibrant Arts Complexes\n\nPlace des Arts: Montreal's premier multi-venue complex hosting everything from classical music to major festivals.\nAmenities: Onsite restaurants, world-class acoustics, and wheelchair accessibility.\nApril 2026 Events: Includes diverse performances such as Dumas and contemporary dance by the Stephanie Lake Company.\n\nWould you like help booking tickets for one of these shows, or are you looking for dinner recommendations near a specific venue?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Cirque du Soleil ECHO Show Montreal",
+          "Place des Arts",
+          "The Comedy Nest"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "For 2026, Cirque du Soleil's flagship touring production is ECHO, appearing in major cities like Montreal and Dallas. Other major resident and touring shows like LUZIA, OVO, and Las Vegas classics continue their runs with varying specs and pricing.\n\nCurrent Featured Show: ECHO\n\nTheme: A story about evolution and the symbiotic relationship between humans, the animal kingdom, and the natural world, centered around a massive 23-foot cube.\nShow Duration: 125 minutes, including a 25-minute intermission.\nAge Requirement: Family-friendly and recommended for all ages; children 2 and older require their own ticket.\n\nTicket Pricing:\nStandard: Starting from $59 CAD up to $89 CAD depending on the date and time.\nPremium/VIP: Can exceed $300 CAD during peak times.\n\nLocations (2026):\nDallas, TX: April 9 – May 3 at Lone Star Park.\nMontreal, QC: May 21 – June 28 at the Old Port.\n\nOther Active Shows\n\nShow | Location | Dates | Starting Price\nLUZIA | Touring | Varies by region | Varies\n\"O\" | Las Vegas (Bellagio) | Ongoing | $202 USD\nKÀ | Las Vegas (MGM Grand) | Ongoing | $49 USD+\nSérie Hommage | Trois-Rivières, QC | July 15 – Aug 15 | (75-minute show)\n\nTicket & Booking Details\n\nOfficial Box Office: Tickets can be purchased directly via the Cirque du Soleil Official Site or by phone at 1-877-924-7783.\nGroup Rates: Discounts are typically available for groups of 10 or more people.\nAccessibility: Most Big Top venues are fully wheelchair accessible; specialized \"ADA\" or reduced mobility tickets can be selected during the online checkout process.\nPayment: On-site box offices generally accept cash, credit, and debit, while online bookings require a credit card or digital payment.\n\nVenues & Amenities\n\nBig Top Experience: Touring shows like ECHO and LUZIA are presented under the \"Grand Chapiteau\" (Big Top). These venues include concession tents for snacks and merchandise but typically do not offer full-service restaurants or coat checks.\nPhotography: Non-flash photography is generally permitted before the show and during intermission.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Cirque du Soleil Official"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "While Cirque du Soleil and Blue Man Group are now part of the same company, they offer vastly different experiences. Cirque du Soleil focuses on high-production acrobatics, artistry, and scale, whereas Blue Man Group delivers a high-energy, comedic, and interactive percussion-based performance.\n\nCore Experience Comparison\n\nFeature | Cirque du Soleil | Blue Man Group\nPrimary Focus | Elite acrobatics, storytelling, and visual wonder | Comedy, percussion, and social commentary\nAtmosphere | Elegant, \"dream-like,\" and often grand in scale | Loud, chaotic, and high-energy \"party\" vibe\nAudience Interaction | Minimal; performers stay on stage | High; includes splashing paint and audience participation\nLanguage | Non-verbal; uses music and movement | Non-verbal; uses mime, music, and visual gags\n\nKey Differences for Your Visit\n\nProduction Scale: Cirque shows like \"O\" or KÀ feature massive, technically complex stages.\n\nFamily Friendliness: Both are family-friendly, but Blue Man Group is often cited as more engaging for younger children or those with shorter attention spans due to its humor and pace. Cirque shows are longer and more \"artistic,\" which some kids might find slow.\n\nAvailability: While Cirque has multiple resident shows in Las Vegas (and a new show opening in Orlando on May 1, 2026), Blue Man Group currently has only one permanent North American production at the Luxor Hotel & Casino in Las Vegas.\n\nPricing: Blue Man Group tickets are generally more affordable and often have \"buy one, get one\" or family deals. Premium Cirque shows like O are among the most expensive on the Strip but are widely considered \"bucket list\" experiences.\n\nWhich Should You Choose?\n\nChoose Cirque du Soleil if you want to be awestruck by human capability, intricate costumes, and world-class stage technology.\n\nChoose Blue Man Group if you want to laugh, enjoy loud drumming, and feel like you're part of a giant, blue-themed celebration.",
+        "brands_mentioned": [
+          "Blue Man Group"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Reddit",
+          "Cirque du Soleil",
+          "Blue Man Group"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Voici les meilleurs spectacles à voir à Montréal en avril 2026, classés par catégorie pour vous aider à choisir selon vos goûts :\n\nGrands Concerts & Variétés\n\nLady Gaga : Les « Little Monsters » ne voudront pas manquer son retour au Centre Bell les 2 et 3 avril 2026 dans le cadre de sa tournée mondiale The MAYHEM Ball.\n\nFlorence + The Machine : Une performance envoûtante est prévue au Centre Bell le 15 avril 2026.\n\nÉric Lapointe : Le rockeur québécois se produit au Théâtre St-Denis du 2 au 4 avril 2026.\n\nYasmina : La grande voix de la chanson kabyle fait son retour après 13 ans d'absence à la Salle Désilets le 4 avril 2026.\n\nHumour & Cabaret\n\nJust For Laughs Showcase : Découvrez les humoristes montréalais qui tentent de percer au festival The Comedy Nest le 15 avril 2026.\n\nComedy Legends : Une soirée de stand-up en anglais avec des vétérans de l'humour le 3 avril 2026.\n\nRed Velvet Burlesque Show : Un spectacle de variétés glamour au Bar Taboo.\n\nCirque & Théâtre\n\nCirque du Soleil: ECHO : Le spectacle phare sous le Grand Chapiteau au Quai Jacques-Cartier. Acrobaties de classe mondiale et visuels époustouflants. Durée : 125 minutes.\n\nVie d'un Prodige : Pièce de théâtre au Théâtre du Rideau Vert, performances quotidiennes jusqu'au 17 avril 2026.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Sors-tu?",
+          "The Comedy Nest",
+          "Cirque du Soleil"
+        ],
+        "brand_rank": 21
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "En ce début avril 2026, Montréal propose une programmation culturelle variée allant de la danse contemporaine aux festivals internationaux. Voici les spectacles et événements incontournables du moment :\n\nFestivals et Événements Majeurs\n\nFestival international de cinéma Vues d'Afrique : Du 2 au 10 avril 2026, ce festival célèbre le cinéma africain et créole au Quartier des spectacles.\n\nFestival des Clowns de Montréal : Pour une expérience plus insolite, ne manquez pas ce festival qui se déroule du 10 au 18 avril 2026.\n\nArt Souterrain : À partir du 25 avril 2026, explorez la ville souterraine à travers le thème de la « Dualité » avec des œuvres d'une trentaine d'artistes locaux.\n\nDanse et Performance Immersive\n\nStephanie Lake Company : Une performance de danse contemporaine d'envergure présentée au Théâtre Maisonneuve du 2 au 4 avril 2026.\n\nLe Carnaval des animaux immersif : Une expérience musicale immersive.\n\nConcerts et Musique Live\n\nLady Gaga - The MAYHEM Ball : Les 2 et 3 avril 2026 au Centre Bell.\n\nFlorence + The Machine : Le 15 avril 2026 au Centre Bell.\n\nÉric Lapointe : Du 2 au 4 avril au Théâtre St-Denis.\n\nCirque du Soleil: ECHO : Sous le Grand Chapiteau au Quai Jacques-Cartier, un spectacle acrobatique de 125 minutes.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Quartier des spectacles",
+          "Sors-tu?",
+          "Place des Arts"
+        ],
+        "brand_rank": 25
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour une sortie culturelle réellement impressionnante à Montréal en ce moment (avril 2026), les expériences immersives et les expositions technologiques dominent la scène.\n\nExpériences Immersives et Réalité Virtuelle\n\nLe trésor des bâtisseurs : sur les traces du génie égyptien : Une expédition en réalité virtuelle à l'Arsenal art contemporain qui vous transporte de la mer Rouge à la grande pyramide de Gizeh pour percer les mystères de la construction des pyramides. Jusqu'au 26 avril 2026.\n\nÉternelle Notre-Dame : Également à l'Arsenal, cette expérience de RV vous plonge dans l'histoire de la cathédrale parisienne, de ses débuts il y a 850 ans jusqu'à sa restauration récente. Jusqu'au 26 avril 2026.\n\nLe Carnaval des animaux immersif : Présentée chez OASIS immersion au Palais des congrès, cette réinterprétation contemporaine de l'œuvre de Camille Saint-Saëns combine musique et visuels grandioses.\n\nMedieval Times : Une expérience de dîner-spectacle médiéval avec une représentation de 45 minutes entre intrigues et batailles. Jusqu'au 20 avril 2026.\n\nExpositions Muséales Captivantes\n\nÉnigmes révélées : de Sherlock Holmes au Montréal du 19e siècle : Au Musée Pointe-à-Callière, une exposition qui mêle littérature et histoire locale pour les passionnés de mystères.\n\nÀ table ! Montréal, une histoire de restaurants : Le Musée McCord Stewart propose une plongée nostalgique et sociologique dans l'évolution de la scène culinaire montréalaise depuis les années 1960.\n\nFabulous FAB Exhibition : Située au Centre Eaton, cette exposition déploie plus de 20 mondes extraordinaires sur trois étages, offrant une expérience visuelle éclatée.\n\nSpectacles et Événements Spéciaux\n\nBat Out of Hell – La comédie musicale : Une performance rock d'envergure présentée à la Place des Arts le 5 avril 2026.\n\nArt Souterrain : Un festival d'art unique qui transforme les couloirs du Montréal souterrain en une galerie géante, accessible gratuitement.",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Tourisme Montréal",
+          "Place des Arts",
+          "OASIS immersion"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Pour assister à un spectacle du Cirque du Soleil, les prix varient généralement selon l'emplacement du siège, la ville et le type de production. À Montréal, pour le nouveau spectacle ECHO, les billets débutent souvent autour de 59 $.\n\nDétails du spectacle à Montréal (2026)\n\nLe spectacle phare actuel est ECHO, présenté sous le Grand Chapiteau au Vieux-Port de Montréal.\n\nThématique : Une exploration de l'évolution et de l'équilibre entre les humains, les animaux et le monde naturel.\nDates : Prévu du 21 mai au 28 juin 2026.\nLieu : Quai Jacques-Cartier, Vieux-Port de Montréal.\n\nFourchettes de prix typiques (CAD)\n\nCatégorie de siège | Prix estimé (à partir de)\nSections arrière ou latérales | ~59 $\nSections centrales | ~89 $\nPremium / VIP | 200 $ – 300 $+\n\nAutres spectacles en tournée ou résidents\n\nSérie Hommage (Trois-Rivières) : Spectacle en hommage à Jean Leloup (Paradis Perdus) à l'Amphithéâtre Cogeco, avec des billets débutant à 55 $.\n\nSpectacles Résidents (Las Vegas) : Des classiques comme \"O\" au Bellagio ou Mad Apple au New York-New York.\n\nDrawn to Life (Orlando) : Une collaboration avec Disney présentée à Disney Springs.\n\nConseils pour l'achat\n\nSite officiel : Il est fortement recommandé d'acheter via le site officiel du Cirque du Soleil pour éviter les frais excessifs des sites de revente.\n\nDisponibilité : Les représentations de fin de semaine se vendent rapidement ; privilégiez les soirs de semaine pour un meilleur choix de places.\n\nTenue : Un jean propre ou un pantalon habillé est tout à fait approprié pour une soirée au Cirque.\n\nSouhaitez-vous que je vérifie les disponibilités spécifiques pour une date précise ou pour une autre ville ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Billets pour ECHO - Cirque du Soleil",
+          "Vieux Port de Montréal",
+          "Amphithéâtre Cogeco"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Bien que le Blue Man Group appartienne désormais au Cirque du Soleil (acquisition en 2017), les deux types de spectacles offrent des expériences radicalement différentes :\n\nComparaison des styles et de l'ambiance\n\nCaractéristique | Cirque du Soleil | Blue Man Group\nCœur du spectacle | Acrobaties de haut niveau, prouesses physiques et athlétisme | Musique percutante (percussions), humour visuel et technologie\nTon & Ambiance | Souvent poétique, onirique ou majestueux (ex: O, Mystère) | Énergique, loufoque, interactif et parfois \"salissant\" (peinture)\nInteraction | Limitée ; le public est spectateur d'un univers clos | Très interactive ; les personnages descendent souvent dans la foule\nLangage | Universel (pas de dialogue ou langue inventée) | Non-verbal (les Blue Men ne parlent jamais)\n\nPoints forts pour choisir\n\nOptez pour le Cirque du Soleil si :\nVous recherchez l'émerveillement visuel et l'exploit physique.\nVous préférez une expérience de type théâtre classique ou grand opéra moderne.\n\nOptez pour le Blue Man Group si :\nVous y allez en famille avec des enfants ; l'humour est accessible et le rythme soutenu.\nVous aimez la musique live forte et les rythmes de percussions innovants (instruments en PVC).\nVous voulez une soirée décontractée axée sur le rire et la surprise plutôt que sur la performance athlétique pure.\n\nDisponibilité et Prix\n\nCirque du Soleil : Plusieurs spectacles permanents à Las Vegas (comme O au Bellagio ou Mystère au Treasure Island) et des tournées mondiales. Les prix sont généralement plus élevés.\n\nBlue Man Group : Spectacles permanents à Las Vegas (Luxor), New York, Chicago et Berlin. Les billets sont souvent plus abordables que les grandes productions du Cirque.\n\nSouhaitez-vous une recommandation pour un spectacle spécifique du Cirque du Soleil en fonction de vos goûts ?",
+        "brands_mentioned": [
+          "Blue Man Group"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Fast Company",
+          "Reddit",
+          "Facebook"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

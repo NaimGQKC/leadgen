@@ -1,0 +1,41 @@
+{
+  "brand": "Mackage",
+  "ias": 65,
+  "severity": "YELLOW",
+  "breakdown": {
+    "appearance": {
+      "score": 25,
+      "rate_fr": 1.0,
+      "rate_en": 1.0
+    },
+    "spec_preservation": {
+      "score": 25,
+      "ratio": 0.86,
+      "avg_en": 8.3,
+      "avg_fr": 7.2
+    },
+    "competitor_displacement": {
+      "score": 0,
+      "new_competitors_fr": [
+        "Arc'teryx",
+        "Nobis",
+        "Patagonia",
+        "Quartz Co"
+      ],
+      "count": 4
+    },
+    "source_authority": {
+      "score": 0,
+      "gap": null,
+      "avg_en": null,
+      "avg_fr": null
+    },
+    "rank_parity": {
+      "score": 15,
+      "en_rank": null,
+      "fr_rank": null,
+      "note": "proxy_from_appearance"
+    }
+  },
+  "methodology": "manual-txt-import, 8 probes (3 EN, 5 FR)"
+}

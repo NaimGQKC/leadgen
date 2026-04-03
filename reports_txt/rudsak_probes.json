@@ -1,0 +1,171 @@
+{
+  "brand": "Rudsak",
+  "product_category": "leather winter outerwear",
+  "top_competitor": "Mackage",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "manteau de cuir pour l'hiver Montréal",
+    "fr_2": "où trouver un manteau en cuir chaud à Montréal",
+    "fr_3": "veste de cuir doublée pour le froid québécois",
+    "fr_4": "Rudsak manteau cuir spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Rudsak vs Mackage manteau cuir hiver comparaison",
+    "en": "best leather winter jacket Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 0.8,
+    "avg_specs_en": 6.3,
+    "avg_specs_fr": 6.6,
+    "spec_preservation": 1.04,
+    "confidence_range": {
+      "en": {
+        "min": 4,
+        "max": 9
+      },
+      "fr": {
+        "min": 4,
+        "max": 10
+      }
+    },
+    "competitor_frequency_en": {
+      "Canada Goose": 0.33,
+      "Mackage": 0.67
+    },
+    "competitor_frequency_fr": {
+      "Mackage": 1.0,
+      "Kanuk": 0.4,
+      "Bombardier": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For a Montreal winter, the best leather jacket must combine a wind-resistant leather shell with high-performance insulation like down or shearling to handle temperatures that can drop to -30°C.\n\nTop Local Montreal Brands\n\nMontreal is home to world-renowned leather experts who design specifically for the local climate.\n\nCuir Dimitri: A Montreal staple since 1972, they specialize in leather winter coats engineered for temperatures from -5°C to -30°C.\nArctic Winter Leather Coat: Features a genuine lamb leather exterior and silver fox fur trim for extreme cold protection.\nEder & Brandon Jackets: These offer a more streamlined look while maintaining significant warmth for daily city wear.\n\nMackage: This high-end Montreal brand is famous for luxury \"quiet luxury\" leather down jackets.\nCash Diamond-Quilted Jacket: A premium option featuring a down-filled leather body and a shearling-lined hood designed for harsh winters.\n\nRudsak: Known for their rebellious, rock-inspired aesthetic combined with functional warmth.\nLeather-trimmed parkas and shearling options are specifically \"Canada Cold\" rated.\n\nCanada Goose: While primarily known for parkas, their leather-trimmed and shearling options are specifically \"Canada Cold\" rated.\nOriginal Shearling Stirling Parka: Rated for -10°C to -25°C, it uses a mix of leather, shearling, and down.\n\nKey Features for Montreal Winters\n\nInsulation Type: Look for Sheepskin/Shearling for natural breathability and warmth, or Down-filled leather for the highest heat retention in deep freezes.\nLeather Material: Sheepskin and Lambskin are softer and provide better natural insulation compared to cowhide, which can become stiff in extreme cold.\nLocal Services: Brands like Cuir Dimitri offer specialized local services including waterproofing, organic cleaning, and alterations, which are essential for maintaining leather against Montreal's road salt and slush.\n\nWhere to Shop in Montreal\n\nStore | Location | Best For\nCuir Dimitri Inc | 540 Blvd Henri-Bourassa E | Expertise, custom sizing, and repairs\nMackage Boutique | 5050 Chem. de la Côte-de-Liesse | High-end luxury leather down coats\nRudsak Flagship | Ste-Catherine Street | Edgy leather parkas and bombers\nCoronet Leather | St. Laurent Blvd (North of Jean Talon) | Custom \"made-to-measure\" leather jackets\n\nAre you looking for a specific style, such as a formal long coat or a rugged bomber, to narrow down these options?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Cuir Dimitri: Vestes & manteaux en cuir depuis 1972",
+          "Men's Winter Leather Jackets - Lusso Leather",
+          "\"Quiet Luxury\" Leather Jacket Rule Men Over 40 Will Follow - YouTube"
+        ],
+        "brand_rank": 14
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Rudsak leather jackets typically range in price from $595 CAD to over $2,000 CAD, depending on the complexity of the design and the specific materials used, such as shearling or down insulation. Crafted primarily from premium, supple lamb and goat leathers, these jackets are designed to develop character and soften over time.\n\nMaterial Specifications & Technology\n\nPrimary Materials: Most contemporary models utilize 100% lamb leather for its soft, luxe feel or goat leather for enhanced durability. Some technical \"mixed media\" styles incorporate high-performance combo materials like cotton, polyester, and elastane for flexibility.\nLining Technology: Interior linings often consist of a polyester and elastane blend (typically 95%/5%) to provide a smooth \"slip\" over other clothing while allowing for movement. Technical shells used in some models are engineered for weather performance.\nHardware & Design: High-quality metallic zippers, press-stud lapel fastenings, and branded hood details are standard. Functional features often include zippered expansion cuffs for mobility and removable hooded \"dickies\" for versatile styling.\n\nPopular Models & Pricing\n\nPrices are sourced directly from Rudsak as of April 2026.\n\nModel | Style | Key Features | Price\nDareg | Moto Jacket | Smooth lamb leather, press-stud lapels, expansion cuffs | $995.00 CAD\nSteven | Classic Moto | Supple luxe leather, mock-neck, minimalist side pockets | $595.00 CAD\nManus B | Biker Jacket | Removable hooded dickie, lustrous glossy finish | $895.00 CAD\nClifton | Combo Moto | Mixed-media contrast panels, exposed metallic zippers | $595.00 CAD\nJameson | Down Puffer | Quilted leather, RDS-certified down, removable hood | $1,995.00 CAD\nConor | Shearling | Heavyweight shearling-lined moto jacket | $2,195.00 CAD\n\nShopping Tips\n\nSizing: Most models are described as having a \"classic, easy-to-wear cut\" designed for a balanced fit. Rudsak generally advises that their leather jackets will stretch and mold to the body after a few wears.\nSales: Check for significant discounts (up to 75%) on Final Sale leather items, with some styles reduced to as low as $299.99 CAD.\n\nAre you looking for a specific fit (like slim vs. relaxed) or a jacket for a particular season?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "THE RUDSAK DIFFERENCE - RUDSAK USA",
+          "Men's leather jacket DAREG BLACK - Rudsak",
+          "PROMOTION | LEATHER JACKETS - Rudsak"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Both Rudsak and Mackage are high-end Canadian labels known for their stylish, high-performance leather winter jackets. While they share a similar \"urban luxury\" aesthetic, they differ in pricing, design philosophy, and customer reputation.\n\nQuick Comparison Table\n\nFeature | Rudsak | Mackage\nPrice Point | Mid-to-high (regularly discounted) | High-end / Luxury\nStyle | \"Edgy,\" tailored, and contemporary | Elegant, streamlined, and architectural\nCommon Fill | 700–800+ RDS-certified down | Premium down and high-performance synthetics\nTemp Ratings | Often rated between -10°C and -22°C | Often rated for extreme cold (-15°C to -35°C)\n\nKey Differences\n\nDesign & Fit:\nRudsak is often described as having a \"rebellious spirit\" with a focus on edgy, tailored silhouettes and distinctive hardware. Reviewers often note that their sizing runs small and may require sizing up.\nMackage focuses on \"sophisticated functionality,\" with a signature streamlined fit.\n\nPrice & Value:\nRudsak jackets generally range from $1,200 to $2,000+ CAD, but the brand frequently offers significant discounts (30%–60% off) during sales. This makes them a more accessible option for many buyers.\nMackage generally maintains a higher price point with fewer steep discounts, though it is often cited as having better long-term durability and customer service.\n\nCustomer Experience:\nMackage is frequently praised for its superior quality and warmer performance compared to other luxury brands.\nRudsak reviews are more mixed; while many customers praise the \"buttery\" feel of the leather and its stylish look, others have expressed frustration with warranty fulfillment and customer service.\n\nRecommended Leather Winter Jackets\n\nRudsak Men's Harvey X Quilted Leather Down Parka ($1,895): A modern, tailored parka made of supple leather with 800+ fill power down.\nRudsak Women's Shauna X Leather Down Puffer ($1,795): An iconic asymmetrical silhouette made from ultra-light \"Cloud\" leather.\nRudsak Men's Manus B Leather Moto Jacket ($895): A versatile unisex option featuring a removable hooded bib and weather-treated leather.\n\nAre you looking for a specific temperature rating or a certain style (like a bomber or parka) for your new jacket?",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Our Favourite Coats To Get You Through The Winter - Love Your Leather",
+          "Rudsak, moose knuckles and Canada goose - Reddit",
+          "Rudsak vs Mackage : r/askTO - Reddit"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour affronter l'hiver à Montréal avec un manteau de cuir, il est essentiel de choisir un modèle spécifiquement conçu pour le froid extrême (jusqu'à -30°C), car le cuir seul n'est pas un isolant thermique suffisant. Voici les meilleures options et adresses locales pour trouver un manteau alliant style et chaleur.\n\nModèles recommandés pour le climat montréalais\n\nManteau de cuir avec isolation en duvet : C'est l'option la plus chaude pour les journées de grand froid. Le cuir agit comme un coupe-vent total tandis que le duvet emprisonne la chaleur.\nMackage Cash : Un luxueux manteau en cuir matelassé avec isolation en duvet et une capuche doublée de mouton retourné, conçu pour les conditions hivernales rigoureuses.\nBuffalo Jackson Bridger : Une option robuste en cuir d'agneau véritable avec isolation en plumes de duvet, offrant un look \"héritage\" tout en restant très chaud.\n\nManteau en mouton retourné (Shearling) : La fourrure intérieure naturelle agit comme un isolant thermique puissant, conçu pour résister à des températures allant de -5°C à -30°C.\nThe Jacket Maker Charles : Un manteau croisé en cuir de mouton avec une doublure complète en fausse fourrure pour une isolation élégante.\n\nMeilleures adresses à Montréal\n\nCuir Dimitri (Ahuntsic-Cartierville) : Expert depuis 1972, ils proposent des manteaux de cuir isolés et des \"puffers\" en cuir très populaires pour le climat québécois.\nm0851 : Marque montréalaise emblématique connue pour ses cuirs légers et ses manteaux d'hiver urbains au design minimaliste.\nKanuk (Plateau) : Bien que célèbres pour leurs tissus techniques, ils proposent parfois des modèles haut de gamme avec des finitions en cuir fabriqués directement à Montréal.\nRudsak : Une référence locale pour les vestes de moto en mouton retourné et les parkas avec manches en cuir.\nBoutique Le Privé : Spécialisée dans les manteaux en agneau retourné et les cuirs d'hiver.\n\nConseils pour l'achat\n\nL'isolation est la clé : Assurez-vous que le manteau possède une doublure thermique (duvet, Thinsulate ou laine de mouton). Le cuir \"nu\" ne convient que jusqu'à environ 5°C.\nImperméabilisation : Le sel de voirie et l'humidité de la neige peuvent endommager le cuir. Demandez un traitement protecteur en magasin, comme ceux offerts par l'atelier de Cuir Dimitri.\nPériode d'achat : Les meilleures soldes ont souvent lieu en janvier et février, lorsque les détaillants liquident leurs stocks d'hiver.\n\nSouhaitez-vous des précisions sur un style spécifique (parka longue, aviateur, coupe ajustée) ou un budget particulier ?",
+        "brands_mentioned": [
+          "Mackage",
+          "Kanuk"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Cuir Dimitri: Vestes & manteaux en cuir depuis 1972",
+          "Reddit"
+        ],
+        "brand_rank": 17
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour trouver un manteau en cuir chaud à Montréal, vous pouvez vous tourner vers des institutions locales reconnues pour leurs collections hivernales doublées ou isolées.\n\nSpécialistes du cuir et fabricants locaux\n\nCes boutiques sont spécialisées dans le cuir et proposent souvent des modèles adaptés au climat québécois avec des doublures thermiques ou de la fourrure.\n\nCuir Dimitri : Une institution depuis 1972 offrant une vaste sélection de manteaux d'hiver en cuir pour hommes et femmes. Ils proposent des modèles comme le Arctic Winter Leather Coat avec fourrure naturelle ou de renard argenté (environ ~695 $ CAD).\nLocalisation : 540 Boul. Henri-Bourassa E.\n\nCuir Mont-Royal : Ce spécialiste sur le Plateau est très apprécié pour la qualité de ses pièces et son service personnalisé.\n\nm0851 : Marque montréalaise emblématique connue pour ses manteaux en cuir haut de gamme au design minimaliste. Bien que portés sur le style, ils proposent des manteaux avec des isolants techniques adaptés aux températures plus froides.\nLocalisations : Plusieurs boutiques, dont une au 1190 Rue de Maisonneuve O. et au 3526 Boul. Saint-Laurent.\n\nManteaux Desloups : Bien que spécialisés dans la laine, ils sont cités pour leurs designs chauds et élégants fabriqués localement.\nLocalisation : 3694 Rue Saint-Denis.\n\nMarques de luxe et boutiques mode\n\nPour des modèles combinant haute couture et isolation performante :\n\nMackage : Marque de luxe montréalaise célèbre pour ses manteaux d'hiver très chauds. Ils offrent des pièces comme le Chance-nv ou le Carmela (prix entre ~1 990 et 2 590 CAD), souvent dotés de cols en rason ou de doublures luxueuses.\nLocalisation : Boutiques au Centre Eaton ou sur la Rue Sainte-Catherine.\n\nCréations GAMA (Vieux-Port) : Anciennement Dubarry Furs, ce fabricant propose des vêtements d'extérieur haut de gamme en cuir, peau retournée (shearling) et fourrure.\nLocalisation : 206 Rue St-Paul Ouest.\n\nLa Maison Simons : Une option accessible pour comparer différentes marques et styles, incluant leur collection maison et des marques internationales de cuir et suède.\nLocalisation : 977 Rue Sainte-Catherine O.\n\nOptions seconde main et vintage\n\nBoutique Seconde Main : Pour dénicher des manteaux en cuir ou suède de qualité à prix réduit.\nLocalisation : 4057 Rue de Bullion.\n\nSouhaitez-vous des détails sur un style spécifique (comme un bombardier en peau retournée) ou un budget précis pour affiner ces recommandations ?",
+        "brands_mentioned": [
+          "Mackage",
+          "Bombardier"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "m0851 | Sacs, accessoires et manteaux en cuir",
+          "Manteaux et Perfectos en Cuir et Suède pour Homme - Simons",
+          "Cuir Dimitri: Vestes & manteaux en cuir depuis 1972"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter le froid québécois avec une veste en cuir, il est essentiel de choisir un modèle avec une doublure isolante performante, comme la peau de mouton (shearling) ou des isolants synthétiques avancés, car le cuir seul est un excellent coupe-vent mais un piètre isolant.\n\nMarques et modèles recommandés\n\nVoici des options robustes conçues pour les températures froides, allant de styles urbains à des modèles capables de supporter jusqu'à -20°C :\n\nRudsak Men's Conor Shearling Moto Jacket (~2 195 $) : Un choix premium pour l'hiver québécois avec une cote de température de -20°C. Elle est fabriquée en cuir d'agneau 100% avec une doublure intégrale en peau de mouton et un col montant protecteur.\n\nJordan Leather Parka with Natural Fur de Cuir Dimitri (~1 195 $ en solde / ~1 495 $ prix original) : Une parka en cuir doublée avec fourrure naturelle, conçue pour le grand froid.\n\nBuffalo Jackson Shearling Leather Bomber Jacket : Inspirée des blousons d'aviateurs, elle utilise de la véritable laine de mérinos, reconnue comme l'un des cuirs les plus chauds de sa catégorie.\n\nm0851 Manteaux en cuir : Cette marque montréalaise propose des manteaux et parkas en cuir léger mais isolés, parfaits pour le style urbain québécois sans le poids excessif.\n\nMackage Veste en cuir : Réputée pour ses coupes haut de gamme, Mackage offre des modèles doublés alliant esthétique et résistance aux éléments.\n\nOù acheter à Montréal et au Québec\n\nCuir Dimitri : Une institution à Montréal (Boul. St-Laurent) offrant une vaste collection automne-hiver.\nBoutique Le Privé : Située à Québec, elle propose des manteaux en cuir doublés haut de gamme.\nRudsak : Présent dans plusieurs centres commerciaux (comme la rue Sainte-Catherine), c'est une référence pour le cuir de luxe adapté au climat local.\nSimons : Offre une sélection variée de vestes en cuir et suède pour femmes et hommes sous différentes marques.\n\nConseils pour le climat québécois\n\nEntretien : La neige et le sel sont les ennemis du cuir. Il est crucial d'appliquer un traitement imperméabilisant et de nettoyer régulièrement le bas du manteau pour éviter les taches permanentes.\nSuperposition : Même avec une veste doublée, le système multicouche (ajouter un chandail de laine ou une veste fine en duvet dessous) est recommandé lors des journées de grand froid sous -15°C.\n\nRecherchez-vous une coupe spécifique comme un style aviateur ou une parka longue pour plus de protection ?",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Chlorophylle",
+          "Cuir Dimitri",
+          "Rudsak",
+          "Buffalo Jackson",
+          "m0851",
+          "SAIL"
+        ],
+        "brand_rank": 7
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux en cuir de la marque montréalaise Rudsak se distinguent par l'utilisation de cuirs haut de gamme (agneau, chèvre) et une isolation en duvet certifié pour leurs modèles d'hiver. Les prix de détail varient généralement entre 595 CAD pour les modèles de transition et plus de 2 000 CAD pour les parkas en cuir d'hiver avec garniture de luxe.\n\nSpécifications Techniques et Matériaux\n\nLes manteaux Rudsak sont conçus pour offrir une silhouette ajustée (il est souvent recommandé de prendre une taille au-dessus) et intègrent les matériaux suivants :\n\nCuir Extérieur : Utilisation prédominante de cuir d'agneau souple (smooth lamb leather) pour sa douceur ou de cuir de chèvre pour certains modèles plus robustes. Certains modèles récents intègrent également du cuir recyclé.\nIsolation (Gamme Hiver) : Utilisation de duvet certifié RDS (Responsible Down Standard) pour les modèles puffers et parkas, offrant un excellent rapport chaleur/poids.\nDoublure : Mélange polyester/élasthanne (souvent 95%/5%) pour le confort et la mobilité. Certains modèles incluent une doublure en fausse fourrure ou en peau de mouton (shearling) pour une isolation accrue.\nAccessoires : Fermetures éclair métalliques exposées, quincaillerie tonale ou argentée, et poignets en tricot côtelé sur les modèles d'hiver pour bloquer le froid.\n\nTechnologies et Performance\n\nRudsak classe ses manteaux selon des indices de température spécifiques pour aider au choix :\nLéger / Transition : Résistants au vent et à l'eau, adaptés jusqu'à -5°C.\nPerformance Hivernale : Les parkas et puffers en cuir sont conçus pour des températures allant de -15°C à -30°C selon le modèle.\nVersatilité : Présence de \"dickies\" (plastrons) amovibles avec capuche sur plusieurs modèles (ex: Manus B) pour adapter le style et la chaleur.\n\nPrix par Catégorie de Produit\n\nCatégorie de Manteau | Modèles Représentatifs | Prix Approximatif (CAD)\nVeste de Moto / Transition | Clifton, Steven | 595 $\nBiker Classique | Manus B, Abigail | 795 – 895 $\nManteau de Moto Premium | Dareg | 995 $\nPuffer en Cuir et Duvet | Jameson, Draven X | 1 595 – 1 995 $\nParka Cuir ou Shearling | Harvey X, Conor | 1 895 – 2 195 $\n\nSouhaitez-vous comparer ces modèles avec une autre marque de luxe canadienne comme Mackage ou Kanuk ?",
+        "brands_mentioned": [
+          "Mackage",
+          "Kanuk"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Rudsak Dareg Men's Leather Moto Jacket",
+          "Rudsak Men's Quilted Leather Down Puffer",
+          "Rudsak Men's Manus B Leather Moto Jacket"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Rudsak et Mackage sont deux marques de luxe montréalaises reconnues pour leurs manteaux de cuir d'hiver, offrant une qualité exceptionnelle et un style sophistiqué. Bien que similaires, Mackage est souvent perçue comme légèrement plus haut de gamme avec des prix plus élevés, tandis que Rudsak se distingue par ses coupes très ajustées et ses rabais fréquents lors de ventes d'entrepôt.\n\nStyle et Coupe\n\nSilhouette : Les deux marques privilégient des coupes élégantes et ajustées.\nTailles : Les manteaux Rudsak taillent petit ; il est fortement conseillé de choisir une taille supérieure si vous êtes entre deux mesures.\nDesign : Mackage mise sur un équilibre entre fonctionnalité et design \"exquis\", souvent considéré comme une référence mondiale du luxe. Rudsak est célèbre pour ses détails audacieux et ses finitions en cuir emblématiques.\n\nQualité et Matériaux\n\nCuir : Rudsak et Mackage utilisent principalement du cuir d'agneau de première qualité, reconnu pour sa souplesse et sa longévité.\nFourrure : Rudsak a cessé d'utiliser de la fourrure naturelle fin 2022, optant pour des alternatives synthétiques ou recyclées dans ses nouvelles collections.\nRésistance : Leurs modèles d'hiver sont généralement conçus pour résister au vent et à l'eau, avec des cotes de température pouvant atteindre -30°C pour certains modèles.\n\nPrix et Accessibilité\n\nGamme de prix : Un manteau de cuir d'hiver se détaille généralement entre 1 500 et 2 000 CAD.\nRabais : Rudsak est connue pour ses ventes saisonnières et d'entrepôt offrant des réductions allant jusqu'à 50% ou 60% sur certains modèles. Mackage est plus rarement soldée à des taux aussi agressifs, bien que des promotions existent.\n\nModèles populaires à considérer chez Rudsak :\n\nDoudoune en cuir pour homme avec doublure en fausse fourrure ($1,995).\nPelin X - Modèle mi-long pour femme avec ceinture amovible pour une silhouette cintrée ($1,695).\nDraven X - Manteau en cuir épuré avec plastron à capuche amovible pour plus de modularité ($1,595).\n\nSouhaitez-vous comparer des modèles spécifiques ou connaître les points de vente officiels à Montréal ?",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Rudsak Apollo Men's Heritage Quilted Down Parka",
+          "Winter coats - Quality vs Brand : r/malefashionadvice - Reddit",
+          "Our Favourite Coats To Get You Through The Winter - Love Your Leather"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

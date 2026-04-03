@@ -1,0 +1,189 @@
+{
+  "brand": "Moose Knuckles",
+  "product_category": "premium Canadian down parka",
+  "top_competitor": "Canada Goose",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleure marque parka luxe canadienne hiver",
+    "fr_2": "manteau duvet premium style urbain Montréal",
+    "fr_3": "doudoune luxe tendance hiver québécois",
+    "fr_4": "Moose Knuckles manteau spécifications techniques complètes matériaux prix",
+    "fr_5": "Moose Knuckles vs Canada Goose parka hiver comparaison",
+    "en": "best premium Canadian winter parka brand"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.8,
+    "avg_specs_en": 9.7,
+    "avg_specs_fr": 6.4,
+    "spec_preservation": 0.66,
+    "confidence_range": {
+      "en": {
+        "min": 7,
+        "max": 13
+      },
+      "fr": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    "competitor_frequency_en": {
+      "Canada Goose": 0.67,
+      "Mackage": 0.33,
+      "Kanuk": 0.33,
+      "Nobis": 0.33,
+      "Quartz Co": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Canada Goose": 0.6,
+      "Mackage": 0.4,
+      "Nobis": 0.2,
+      "Quartz Co": 0.6,
+      "Kanuk": 0.4,
+      "Rudsak": 0.4,
+      "La Canadienne": 0.2,
+      "Bombardier": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "While Canada Goose remains the most globally recognized name for premium Canadian parkas, several other high-end brands like Nobis, Kanuk, and Mackage are often cited by experts for their superior technical features or modern aesthetics.\n\nTop Premium Canadian Parka Brands\n\nCanada Goose: Widely considered the standard for extreme cold, originally developed for scientists in Antarctica.\nCanada Goose Expedition Parka Heritage: Rated for temperatures of -30°C and below, this is often called the \"best splurge\" for ultimate warmth.\nCanada Goose Langford Parka: A more urban, streamlined option that still offers mid-thigh protection and heavy insulation.\n\nNobis: Known for blending high-fashion silhouettes with technical performance, featuring more waterproof and windproof membranes than many traditional down coats.\nNobis Yatesy Men's Long Parka: Features a premium Canadian white duck down fill and a breathable Sympatex membrane, making it fully waterproof.\n\nKanuk: A Montreal-based heritage brand that hand-crafts its coats to withstand severe Quebec winters.\nKanuk Notting Hill: Offers a refined, timeless look with high-performance insulation rated for -25°C.\n\nMackage: Focuses on luxury fashion-forward designs, often incorporating tailored cuts, leather trims, and high-quality down.\n\nQuartz Co.: This brand specializes in sustainable, lightweight warmth using ethically sourced down or synthetic materials like Isosoft.\nQuartz Co. JULES Heritage: A slim-straight fit rated for -30°C, valued for its balance of style and eco-friendly construction.\n\nArctic Bay: Designed for the harshest environments, these parkas use high fill-power Canadian duck down and are often expedition-tested.\nArctic Bay Alaska Men's Fur Winter Down Parka: Features a temperature rating down to -45°C, one of the highest available for extreme conditions.\n\nPajar: Based in Montreal, they are recognized for fusing heritage craftsmanship with advanced technology, such as Thinsulate Featherless fill.\n\nComparison of Key Features\n\nBrand | Primary Focus | Best Use Case | Typical Price Range\nCanada Goose | Extreme Durability | Severe Arctic conditions | $1,250 – $1,995\nNobis | Technical Fashion | Urban style with full waterproofing | $1,395 – $1,695\nMackage | High Luxury | Fashion-conscious winter wear | $900 – $1,500\nQuartz Co. | Sustainability | Sleek, lightweight urban warmth | $769 – $1,150\nKanuk | Heritage Quality | Daily Montreal-style winters | $570 – $1,000\n\nAre you looking for a parka for extreme outdoor expeditions or for daily urban commuting?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage",
+          "Kanuk",
+          "Nobis",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "10 Best Winter Jackets of 2026 - Outdoor Gear Lab / GearLab",
+          "The best winter jackets in Canada, ranked by temperature 2026",
+          "Pajar Canada"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Moose Knuckles jackets are defined by high-performance technical materials designed for extreme Canadian winters, typically featuring a signature 74% cotton and 26% nylon blend and heavy-duty insulation.\n\nCore Technical Specifications & Materials\n\nThe brand's \"Originals\" and \"Classic Core\" collections use a standardized set of high-end components:\n\nOuter Shell: Most core models use a durable 74% Cotton / 26% Nylon blend, though newer technical lines like the Laki or Greystone may use a slightly stretchy 82% Nylon / 18% Elastane shell.\nWeatherproofing: Shells are typically treated with a Durable Water Repellent (DWR) coating and a waterproof laminated backing to shield against wind and water in temperatures as low as -40°C.\nInsulation (Down): Uses ethically sourced, RDS-Certified duck or goose down. Fill powers typically range from 650 to 800+ with a standard 90/10 down-to-feather ratio for maximum loft and warmth.\n\nTrims & Hardware:\nFur: Premium models feature Blue Fox fur or Sheepskin/Shearling trims.\nLogo: Iconic metal \"MK\" sleeve logos are made from various metals, including gunmetal, antique nickel, and 14k gold plating.\nZippers: Heavy-duty, industrial-strength YKK metal zippers (often 2-way).\nLining: Often uses 100% down-proof nylon or polyester designed to be tear and snag-proof.\n\nPricing Guide (MSRP)\n\nPrices vary based on the protection level and materials used. Below are typical prices from Moose Knuckles Canada:\n\nJacket Model | Estimated Price (CAD) | Protection Level\nDalon Bomber | $445 | Transitional / Mild\nJacques Shirt Jacket | $495 | Kinda Cold\nKamet Hybrid Jacket | $695 | Transitional\nLaki Jacket | $745 | Cold (Level 2)\nGreystone 3Q Jacket | $895 | Very Cold\nBriar 3Q Puffer | $1,095 | Seriously Cold (Level 3)\nOriginal Ballistic Bomber | $1,295 | Canada Cold (Level 4)\nOriginal Shearling 3Q Jacket | $1,395 | Canada Cold (Level 4)\nOriginal Stirling Parka | $1,495 | Canada Cold (Level 4)\nGold Series Stagg Bomber | $1,524 | Seriously Cold\n\nNote: Prices are subject to change and may vary by retailer or seasonal sales (e.g., discounts up to 40% found at retailers like Sporting Life or Due West).",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Product Knowledge | Moose Knuckles CA",
+          "Fabrics and Fill to keep you Warm | Moose Knuckles CA",
+          "duewest.ca"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Both Moose Knuckles and Canada Goose are premium Canadian brands known for high-performance winter gear, but they cater to different priorities. Moose Knuckles generally offers a more tailored, \"fashion-forward\" fit with slightly higher recorded thermal insulation in some tests. Canada Goose is often preferred for its classic, utilitarian aesthetic and proven performance in extreme Arctic conditions.\n\nKey Comparison Overview\n\nFeature | Moose Knuckles | Canada Goose\nPrimary Style | Edgy, slim, and body-conscious | Classic, utilitarian, and technical\nWarmth | High; ranked top in some 2018 insulation tests | Exceptional; \"Thermal Experience Index\" (TEI) ratings for -30°C+\nFit | Slimmer, more tailored | Often runs large; designed for layering\nMaterials | Durable cotton/nylon blends, YKK metal zippers | Signature \"Arctic Tech\" shell for wind/water resistance\nFur Type | Sourced fox fur; known for being exceptionally fluffy | Sourced coyote fur; known for shedding less\nCommon Price | ~$895 – $1,595 CAD | ~$1,200 – $1,800+ CAD\n\nBrand Highlights\n\nMoose Knuckles: For Style & Durability\nMoose Knuckles is frequently cited for its sturdier feel and unique hardware, such as heavy-duty metal YKK zippers.\nTailored Aesthetics: Their jackets, like the Original Stirling Parka, feature a \"body-conscious\" fit that is less bulky than traditional parkas.\nExceptional Insulation: In university-led manikin tests, some Moose Knuckles models outperformed competitors in \"clo\" (thermal insulation) values.\nBold Branding: Features a distinct metallic logo on the sleeve, often available in different finishes like gold or matte black.\n\nCanada Goose: The \"Gold Standard\" for Utility\nCanada Goose is the iconic choice for professional and extreme cold-weather use, originally developed for workers in the High Arctic.\nFunctionality-First: High-end models like the Expedition Parka feature up to 11 pockets and internal waist belts to block wind.\nProven Protection: Uses \"Arctic Tech\" fabric, which is specifically engineered to stay dry and warm in the harshest climates.\nResale Value: Due to its long-standing reputation and timeless designs, Canada Goose often maintains a higher resale value than many other luxury parka brands.\n\nNotable Models for Comparison\n\nMoose Knuckles Original Shearling Trim 3Q Jacket: A popular waist-length option featuring 90/10 down fill and a removable shearling-trimmed hood.\nCanada Goose Resolute Parka: A mid-thigh length parka designed for temperatures below -30°C, often featuring coyote fur and reinforced elbows for durability.\nMoose Knuckles Greystone 3Q Jacket: A sportier, slightly stretchy water-repellent option with a protection rating for \"Canada Cold\" (-20°C to -30°C).",
+        "brands_mentioned": [
+          "Canada Goose"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Moose Knuckles' Parka Ranks Top for Thermal Insulation - FREEDS",
+          "From Canada Comes Moose Knuckles With A New Idea In... - Forbes",
+          "Which Down Jacket Is Better? | Moose Knuckles VS Canada Goose - YouTube / Men's Fashion Files"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Les meilleures marques de parkas de luxe canadiennes se distinguent par leur capacité à allier une protection thermique extrême (souvent testée jusqu'à -30°C ou -40°C) à un design haut de gamme. Canada Goose demeure la référence mondiale pour son héritage et sa performance, mais d'autres marques comme Mackage ou Moose Knuckles s'imposent pour leur esthétique plus urbaine et sophistiquée.\n\nMarques de référence pour le grand froid\n\nCanada Goose : Reconnue mondialement pour ses modèles iconiques comme la Expedition ou la Langford, conçus pour les conditions arctiques. La marque utilise du duvet de haute qualité et propose des variantes \"Black Label\" pour un look plus discret en ville.\n\nNobis : Appréciée pour l'aspect technique de ses tissus qui sont entièrement imperméables et respirants, contrairement à certains modèles classiques en coton mélangé. Leurs designs sont souvent plus épurés et adaptés à un environnement professionnel.\n\nArctic Bay : Spécialisée dans les manteaux techniques pour températures extrêmes, s'inspirant de l'héritage du Grand Nord canadien avec une fabrication locale rigoureuse.\n\nMarques alliant luxe et style urbain\n\nMackage : Se distingue par l'utilisation de finitions en cuir, de coupes cintrées et de cols en fourrure spectaculaires. C'est la marque de choix pour ceux qui recherchent une silhouette élégante sans sacrifier la chaleur.\n\nMoose Knuckles : Offre un style plus audacieux et \"edgy\" avec des logos métalliques distinctifs et des coupes robustes. Elle est très populaire auprès d'un public plus jeune et urbain.\n\nQuartz Co. : Une alternative haut de gamme et durable, connue pour sa légèreté et ses designs minimalistes fabriqués au Québec. Leurs manteaux sont souvent moins volumineux tout en offrant une excellente isolation.\n\nPajar Canada : Alliant mode et fonctionnalité, cette marque montréalaise est célèbre pour ses parkas stylées qui intègrent souvent des éléments pratiques pour la vie citadine.\n\nComparatif rapide des caractéristiques\n\nMarque | Point fort principal | Style | Température typique\nCanada Goose | Héritage et performance éprouvée | Sportif / Expédition | -15°C à -30°C+\nMackage | Esthétique de luxe et coupes cintrées | Chic / Urbain | -10°C à -25°C\nNobis | Imperméabilité totale (Membrane) | Technique / Sobre | -20°C à -40°C\nMoose Knuckles | Durabilité et look audacieux | Tendance / Robuste | -15°C à -30°C\nQuartz Co. | Légèreté et fabrication locale | Minimaliste | -20°C à -30°C\n\nPour faire votre choix, vous pouvez consulter les collections complètes sur les sites officiels de Canada Goose, Mackage ou chez des détaillants spécialisés comme Altitude Sports qui proposent souvent des comparatifs détaillés.\n\nSouhaitez-vous des recommandations pour un modèle spécifique (homme ou femme) ou pour une utilisation particulière comme la randonnée ou la ville ?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage",
+          "Nobis",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Les marques de doudounes Canadiennes - La Canadienne",
+          "Manteaux d'Hiver Canadiens Premium pour Grand Froid - Pajar",
+          "Manteaux d'hiver en duvet conçus au Canada - Quartz Co.",
+          "Altitude Sports"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour un manteau en duvet premium alliant haute performance technique et style urbain à Montréal, plusieurs marques québécoises et canadiennes s'imposent comme des références incontournables.\n\nMarques montréalaises et québécoises \"Premium\"\n\nCes marques sont conçues localement pour affronter l'humidité et le vent glacial du Plateau ou du centre-ville, tout en conservant une silhouette élégante :\n\nQuartz Co. : Une référence pour le style urbain minimaliste. Leurs manteaux, comme le modèle Blake ou Grant, utilisent du duvet de canard blanc canadien et sont reconnus pour leur légèreté et leur coupe ajustée.\n\nAudvik : Basée à Montréal, cette marque propose le modèle Montréal, un manteau d'hiver isolé ultra léger pour femme, ainsi que la gamme FOSFO en nylon recyclé pour un look urbain plus audacieux.\n\nKanuk : Institution montréalaise célèbre pour son logo de harfang des neiges. Leurs designs iconiques sont extrêmement durables et adaptés aux froids intenses jusqu'à -30 °C.\n\nVallier : Spécialisée dans les vêtements urbains performants, la marque propose des pièces comme le parka Outremont en duvet, conçu spécifiquement pour la vie quotidienne à Montréal.\n\nMarques de luxe canadiennes (Style \"High-End\")\n\nSi vous recherchez un positionnement plus prestigieux ou mode :\n\nMackage et Soia & Kyo : Ces deux marques sont réputées pour leurs coupes très travaillées, leurs détails en cuir et leur esthétique haut de gamme, parfaites pour un look chic en ville.\n\nMoose Knuckles : Un style plus \"edgy\" et robuste, très populaire auprès des jeunes professionnels montréalais.\n\nRudsak : Marque montréalaise privilégiant le cuir et les finitions luxueuses, idéale pour ceux qui ne veulent pas sacrifier le style pour la chaleur.\n\nOù magasiner à Montréal ?\n\nVous pouvez essayer ces différents modèles dans des boutiques spécialisées offrant une sélection multi-marques :\n\nAltitude-Sports (en ligne, basé à Montréal) pour le plus vaste inventaire de marques techniques comme Quartz Co.\nOberson pour une excellente sélection de \"manteaux de ville\".\nRodin Montréal pour découvrir des marques comme Pajar ou Moose Knuckles.\nLa Canadienne pour des parkas de luxe et des doudounes haut de gamme.\n\nSouhaitez-vous des recommandations pour une température spécifique (ex: -20°C vs -30°C) ou un budget précis ?",
+        "brands_mentioned": [
+          "Mackage",
+          "Kanuk",
+          "Rudsak",
+          "Quartz Co",
+          "La Canadienne"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "La collection haute gamme est arrivée chez Rodin Montréal",
+          "SAIL",
+          "Rudsak",
+          "Oberson"
+        ],
+        "brand_rank": 21
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter l'hiver québécois avec style en 2026, les tendances de doudounes de luxe se tournent vers des marques locales iconiques qui allient performance thermique (protection contre le froid extrême) et esthétique urbaine raffinée. Les modèles phares privilégient les coupes structurées, les matériaux recyclés et les finitions haut de gamme comme la fourrure (véritable ou vegan).\n\nMarques Québécoises Incontournables\n\nLe savoir-faire local est privilégié pour sa capacité à gérer les températures descendant sous les -30°C.\n\nKanuk : Réputée pour ses manteaux isolés en duvet, comme le modèle Lawrence. C'est une référence pour le style \"Montréalais\" chic et durable.\n\nQuartz Co. : Reconnue pour ses designs épurés et sa collaboration avec des marques comme Porsche Canada. Leurs manteaux sont conçus pour les hivers rudes tout en restant légers.\n\nAudvik : Propose des doudounes faites au Québec, notamment la série FOSFO (en version longue ou maxi) utilisant des matières recyclées, idéale pour un look tendance et écoresponsable.\n\nRudsak : La marque de choix pour un look \"Rock\" et luxueux avec des détails en cuir et des bordures de capuchon imposantes. Les modèles comme le Apollo ou le Ricky sont des classiques indémodables.\n\nTendances Clés de l'Hiver 2026\n\nLe Volume \"Puff\" : La tendance est aux doudounes volumineuses. Le modèle Super Puff d'Aritzia reste une référence très populaire au Québec pour son rapport chaleur-tendance.\n\nCouleurs et Finitions : Outre le noir classique, on voit émerger des tons naturels (Avoine, Camel, Mousse) et des couleurs audacieuses comme le bleu pâle ou le vert citron pour briser la monotonie hivernale.\n\nCoupes Longues et Maxi : Pour une protection maximale contre le vent, les doudounes extra-longues (longueur chevilles) sont très recherchées cette saison.\n\nSélection de Modèles par Style\n\nMarque | Modèle Phare | Caractéristique | Prix Approx.\nAudvik | FOSFO Maxi | Duvet recyclé, coupe extra longue | ~325 CAD\nRudsak | Apollo Parka | Héritage luxe, coupe ajustée | ~1195 CAD\nKanuk | Lawrence | Isolation duvet haute performance | ~357 CAD (en solde)\nCanada Goose | Expedition Parka | Conçu pour le froid polaire | ~1995 CAD\n\nCherchez-vous une doudoune spécifiquement pour des activités de plein air ou pour un usage purement urbain au centre-ville ?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Kanuk",
+          "Rudsak",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Mission : trouver LA doudoune parfaite pour affronter l'hiver au Québec - Instagram",
+          "Manteaux Manteaux",
+          "Quartz Co."
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux Moose Knuckles se distinguent par leur construction robuste conçue pour les hivers canadiens extrêmes, avec des prix variant généralement entre 895 et 1 595 CAD selon le modèle et les finitions.\n\nSpécifications techniques et Matériaux\n\nLa collection \"Originals\" (incluant les modèles Stirling, 3Q et Ballistic) partage des caractéristiques techniques communes de haute performance :\n\nTissu extérieur (Shell) : Un mélange durable de 74 % coton et 26 % nylon, traité avec un revêtement déperlant (DWR) pour résister au vent et à l'eau.\nIsolation (Garnissage) : Duvet de canard gris de première qualité avec un facteur de gonflement (fill power) de 650 à 800, certifié par le Responsible Down Standard (RDS). Le ratio est souvent de 90 % duvet et 10 % plumes.\nProtection thermique : Classée selon quatre niveaux, les modèles emblématiques offrent une protection de niveau 4 (Canada Cold), testée pour des températures allant jusqu'à -30 °C à -40 °C.\n\nDétails iconiques :\nLogo : Logo en métal sur la manche, souvent personnalisé ou plaqué (or 24 carats pour la série Gold).\nFourrure/Garniture : Utilisation de peau lainée (shearling) ou de fourrure de renard bleu (Blue Fox) d'origine canadienne, souvent amovible.\nQuincaillerie : Fermetures éclair YKK robustes et rivets de renforcement.\n\nModèles populaires et Prix (avril 2026)\n\nVoici les prix pratiqués par Moose Knuckles Canada pour les modèles phares :\n\nModèle | Type | Protection | Prix approximatif\nOriginal Stirling Parka | Parka mi-cuisse | Canada Cold (-30°C) | 1 495 $ CAD\nOriginal 3Q Jacket | Veste 3/4 | Canada Cold (-30°C) | 1 395 $ CAD\nOriginal Ballistic Bomber | Bombardier | Canada Cold (-30°C) | 1 295 $ CAD\nGreystone 3Q Jacket | Veste légère/stretchy | Very Cold | 895 $ CAD\nGold Series Stirling | Parka de luxe | Canada Cold | 1 594 $ CAD\n\nEntretien\n\nNettoyage : La plupart des modèles nécessitent un nettoyage à sec professionnel à l'envers.\nPrécautions : Il est impératif de retirer les garnitures en fourrure ou en peau lainée avant tout nettoyage.\n\nDes options à prix réduit (30 % à 40 %) peuvent être trouvées chez des détaillants comme Due West ou Altitude Sports lors de soldes saisonnières.",
+        "brands_mentioned": [
+          "Bombardier"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Product Knowledge | Moose Knuckles CA",
+          "Parkas Collection | Moose Knuckles CA",
+          "duewest.ca"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Le choix entre une parka Moose Knuckles et Canada Goose pour l'hiver 2026 dépend principalement de votre priorité entre un style urbain ajusté ou une fonctionnalité technique éprouvée. Voici une comparaison détaillée basée sur les performances et les caractéristiques actuelles :\n\nRésumé des points forts\n\nMoose Knuckles : Reconnue pour ses coupes cintrées (\"slim fit\"), sa durabilité supérieure grâce à des fermetures éclair robustes et une isolation thermique souvent classée en tête lors de tests universitaires.\nCanada Goose : Leader mondial de l'équipement de grand froid, privilégiée pour sa légèreté relative, ses nombreux compartiments de rangement et son esthétique plus classique et utilitaire.\n\nComparaison des caractéristiques clés\n\nCaractéristique | Moose Knuckles | Canada Goose\nIsolation thermique | Souvent 90% duvet / 10% plumes (fill power 650-800). | Généralement 80% duvet / 20% plumes (fill power 625-750).\nCoupe & Style | Très ajustée (Slim fit), plus urbaine et \"rebelle\". | Plus large et utilitaire, idéale pour le multicouche.\nDurabilité | Matériaux extérieurs épais et fermetures éclair YKK industrielles ultra-robustes. | Tissu Arctic Tech résistant, mais certains utilisateurs notent une usure plus rapide des bordures.\nFourrure | Fourrure de renard (argenté ou bleu) plus volumineuse et douce. | Fourrure de coyote, réputée pour sa résistance au givre mais moins dense.\nOrigine | Plusieurs modèles fabriqués au Canada; d'autres importés (Chine, etc.). | Historiquement 100% fabriqué au Canada pour les modèles phares.\n\nModèles recommandés (Prix indicatifs 2026)\n\nMoose Knuckles Stirling Parka : Le modèle iconique offrant une protection \"Canada Cold\" (jusqu'à -40°C selon les tests) avec une isolation en duvet 90/10 et une finition haut de gamme. Disponible chez Moose Knuckles Canada aux alentours de 1 495 $ CA. 5.0 (4 reviews)\n\nCanada Goose Resolute Parka : La référence pour les conditions extrêmes, utilisée par les chercheurs en Arctique. Elle offre 8 poches extérieures et une résistance thermique certifiée pour des températures inférieures à -30°C. On peut la trouver à environ 1 625 $ CA. 4.8 (32 reviews)\n\nMoose Knuckles 3Q Jacket : Une veste courte plus sportive et flexible, idéale pour la vie citadine active tout en conservant une protection thermique intense. Proposée à environ 1 395 $ CA chez Moose Knuckles. 5.0 (4 reviews)\n\nVerdict\n\nSi vous recherchez un manteau qui met en valeur votre silhouette avec des matériaux qui semblent plus \"lourds\" et luxueux au toucher, la Moose Knuckles est souvent préférée par les critiques récents. Si vous avez besoin d'un manteau plus léger à porter, avec une réputation mondiale de fiabilité technique et un look plus sobre, la Canada Goose reste le standard de l'industrie.",
+        "brands_mentioned": [
+          "Canada Goose"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "CANADA GOOSE CHILLIWACK vs MOOSE KNUCKLES - YouTube / The Hoxton Trend",
+          "Which Down Jacket Is Better? | Moose Knuckles VS Canada Goose - YouTube / Men's Fashion Files",
+          "Another Canada goose or moose knuckle? : r/CanadaGoose - Reddit"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}
