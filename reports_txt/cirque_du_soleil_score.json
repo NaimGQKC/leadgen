@@ -1,0 +1,36 @@
+{
+  "brand": "Cirque du Soleil",
+  "ias": 60,
+  "severity": "YELLOW",
+  "breakdown": {
+    "appearance": {
+      "score": 25,
+      "rate_fr": 0.8,
+      "rate_en": 1.0
+    },
+    "spec_preservation": {
+      "score": 5,
+      "ratio": 0.4,
+      "avg_en": 1.0,
+      "avg_fr": 0.4
+    },
+    "competitor_displacement": {
+      "score": 20,
+      "new_competitors_fr": [],
+      "count": 0
+    },
+    "source_authority": {
+      "score": 0,
+      "gap": null,
+      "avg_en": null,
+      "avg_fr": null
+    },
+    "rank_parity": {
+      "score": 10,
+      "en_rank": null,
+      "fr_rank": null,
+      "note": "proxy_from_appearance"
+    }
+  },
+  "methodology": "manual-txt-import, 8 probes (3 EN, 5 FR)"
+}

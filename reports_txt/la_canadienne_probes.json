@@ -1,0 +1,164 @@
+{
+  "brand": "La Canadienne",
+  "product_category": "waterproof winter boots",
+  "top_competitor": "Blundstone",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "bottes imperméables pour l'hiver à Montréal",
+    "fr_2": "meilleures bottes chaudes et étanches pour la sloche",
+    "fr_3": "bottes d'hiver qui gardent les pieds au sec Québec",
+    "fr_4": "La Canadienne bottes spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "La Canadienne vs Blundstone bottes hiver comparaison",
+    "en": "best waterproof winter boots Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.6,
+    "avg_specs_en": 9.3,
+    "avg_specs_fr": 7.8,
+    "spec_preservation": 0.84,
+    "confidence_range": {
+      "en": {
+        "min": 8,
+        "max": 11
+      },
+      "fr": {
+        "min": 6,
+        "max": 9
+      }
+    },
+    "competitor_frequency_en": {
+      "The North Face": 0.33,
+      "Columbia": 0.33,
+      "Blundstone": 0.67
+    },
+    "competitor_frequency_fr": {
+      "Columbia": 0.6,
+      "Blundstone": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For Montreal's notoriously messy winters—characterized by deep slush, freezing rain, and extreme cold—the best waterproof boots balance high-performance traction with serious insulation. Local favourites and expert-tested models for 2026 include:\n\nTop Overall Recommendations\n\nThe North Face Men's Chilkat V 400 Waterproof Winter Boots ($214.99): Regarded as a top all-rounder for cold and snowy climates. It features a waterproof membrane, 400g of insulation for deep cold, and a specialized sole for impressive traction on slippery city surfaces.\n\nBaffin Womens Chloe Boots ($204.99): Highly rated for extreme cold protection, this boot uses B-Tek Heat and Polywool insulation to keep feet dry and warm during long hours outdoors.\n\nWomen's UGG Adirondack Boot XXV ($300.00): A Montreal staple known for blending style with performance. It is rated for extreme cold conditions.\n\nSorel Caribou ($200+): A classic choice for deep snow and slush, featuring a vulcanized rubber shell and a tall, seam-sealed waterproof suede upper.\n\nSorel 1964 Pac Nylon (Men's): A classic snow boot with a waterproof nylon upper and a rubber outsole designed for grip on icy sidewalks.\n\nBest for Extreme Cold and Ice\n\nBaffin Snow Monster Men's Winter Boots ($280.00): Specifically designed for extreme conditions, it is cold-rated to -70°C and features \"Icepaw\" pads to improve grip on pure ice.\n\nSalomon Toundra Pro CSWP Boot ($140.00-$280): Uses Aerogel technology to provide warmth down to -40°C while remaining lightweight and flexible for hiking or long walks.\n\nWindRiver Men's Backwoods Waterproof Hyper Dri 3 Icefx Hiking Boots ($124.98): A budget-friendly option noted for its specialized abrasive rubber sole that provides better-than-average traction on ice.\n\nBudget-Friendly Options\n\nColumbia Men's Bugaboot III Wide ($179.99): A reliable all-around winter boot with 200g insulation and Omni-Heat reflective lining.\n\nWhere to Shop in Montreal\n\nBoutique Le Marcheur: On Saint-Denis; carries premium brands.\nTony Pappas: Near Place-des-Arts / Complexe Desjardins Central; stocks Baffin, Sorel, and Columbia.\nMEC (Mountain Equipment Company): Located on Saint-Denis; good for high-performance brands like Salomon, Blundstone, and Baffin.\nSports Experts / Atmosphere: Locations at Eaton Centre and Place Alexis Nihon; carries Sorel, Columbia, and Salomon.\n\nAre you looking for a casual city boot or something more heavy-duty for outdoor activities like hiking or snowshoeing?",
+        "brands_mentioned": [
+          "The North Face",
+          "Columbia",
+          "Blundstone"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "10 Best Winter Boots of 2026 - Outdoor Gear Lab",
+          "suggestions for winter boots? : r/montreal - Reddit",
+          "Best Winter Boots of 2026 | Switchback Tested"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "La Canadienne boots are engineered for urban performance, combining Italian-sourced materials with Canadian weatherproofing expertise. Their footwear is primarily defined by the City Dry™ technology, which provides complete water protection without sacrificing style.\n\nCore Technology & Innovation\n\nCity Dry™ Technology: Signature waterproofing where Italian leather and suede are treated throughout the material, not just on the surface. This allows for immediate wear in wet conditions without initial treatment.\n\nBreathable Design: All components, including waterproof membranes and linings, are designed to permit moisture evaporation, keeping feet both warm and dry from morning to night.\n\nAdvanced Traction Soles:\n- OCSystem Ice-Grip: Features rotating flip-grips that switch between built-in snow cleats (GRIP-ON) and flat surfaces (GRIP-OFF) for ice safety.\n- Vibram Arctic Grip: A specialized rubber compound for superior traction on wet ice.\n\nMaterials & Construction\n\nLeather: Primarily Italian waterproof leather and suede, known for a smooth feel and durability.\n\nInsoles: Cushioned memory foam is standard across most models, often accompanied by removable OrthoLite inserts for enhanced breathability.\n\nManufacturing & Craftsmanship\n\nOrigin: Most boots are made in Italy using expert craftsmanship. Some specialty styles are handmade in Spain.\n\nLocal Heritage: The brand maintains a factory in Montreal, which has produced the City Dry™ collection for over 35 years.\n\nPricing & Availability (As of April 2026)\n\nPricing typically ranges from approximately $400 CAD to $820 CAD, depending on the height and lining of the boot.\n\nProduct Type | Price Range (CAD) | Example Model\nBooties/Ankle Boots | $400 - $600 | Blaise Leather Bootie\nKnee-High Boots | $500 - $750 | Harry Shearling-Lined Boot\nSpecialty/Western | $700 - $820 | Paton Western Boot\nSale/Discounted | $230 - $400 | Malachi Leather Boot\n\nThe 6-month City Dry™ guarantee excludes zippers, lace openings, and elastics.\n\nWould you like to compare the winter traction or specific models with another brand?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "La Canadienne | City Dry™ - Official Site",
+          "La Canadienne Boots - Newswire Canada",
+          "La Canadienne - Blu's"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Choosing between La Canadienne and Blundstone for winter depends on whether you prioritize a refined, office-ready look or a rugged, casual pull-on style. While both offer waterproof options, La Canadienne is generally better for deep winter due to its variety of insulated linings and specialized ice-grip soles. Blundstone, while durable and convenient, is often viewed as a \"shoulder season\" boot unless you opt specifically for their Thermal Series.\n\nKey Comparison\n\nFeature | La Canadienne | Blundstone (Thermal Series)\nPrimary Style | Refined, dressy, and sophisticated | Rugged, casual Chelsea boot\nWarmth | High; often features shearling or thermal linings | Moderate; 200g Thinsulate & sheepskin footbed\nTraction | Advanced; options include Vibram Arctic Grip or rotating spikes | Moderate; standard TPU or Vibram soles, but can be slippery on ice\nClosure | Side zipper or lace-up | Pull-on with elastic gussets\nPrice Range | ~$400 – $750+ CAD | ~$250 – $350 CAD\n\nLa Canadienne: The Refined Winter Boot\n\nIce Traction: Many models feature the OCSystem with rotating spikes you can flip on for icy sidewalks and off for indoors.\nWaterproofing: Their \"City Dry\" technology ensures the leather and suede remain waterproof and salt-resistant.\nLongevity: Users report these boots lasting 5 to 15+ years with proper care.\nFit Note: They can run narrow in the toe box, so some users recommend sizing up if wearing thick socks.\n\nBlundstone: The Practical Workhorse\n\nBlundstones are iconic for their durability and \"kick-off\" convenience, but standard models lack the insulation needed for extreme cold.\n\nThermal Series: If using for winter, you must choose the Thermal Series (like the Blundstone 2241 or 584) which includes 200g of Thinsulate and a removable sheepskin footbed.\nEase of Use: The pull-on design with two pull tabs makes them extremely convenient for quick trips, though some find them difficult to put on initially.\nTraction Limitations: While the All-Terrain models use Vibram soles for better grip, many users find they still struggle on pure ice compared to La Canadienne's specialized solutions.\nLongevity: Built to last; the sole can be resoled, and the leather ages beautifully over many years.\n\nThe Verdict\n\nFor deep Canadian winters with ice and heavy slush, La Canadienne is the stronger choice due to its superior warmth and ice-grip technology. For a versatile, all-season boot that handles light winter conditions, Blundstone Thermal offers better value and convenience.\n\nWould you like recommendations for specific models from either brand?",
+        "brands_mentioned": [
+          "Blundstone"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "La Canadienne vs Blundstone - Reddit",
+          "La Canadienne | City Dry™",
+          "Blundstone Thermal Series"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour affronter l'hiver à Montréal, où les températures chutent régulièrement sous les -20 °C avec d'importantes accumulations de neige et de gadoue, il est essentiel de choisir des bottes offrant une imperméabilité totale, une isolation thermique performante (souvent 200g à 400g de Thinsulate) et une semelle antidérapante.\n\nMeilleures options pour femmes\n\nSOREL CARIBOU Bottes imperméables pour femme ($260 CAD) : Un classique robuste avec un chausson amovible, idéal pour la neige profonde, offert chez Sorel Canada.\n\nBottes imperméables Winter Carnaval de Sorel ($85-$170 CAD) : Reconnues pour leur protection efficace contre l'humidité tout en conservant un style urbain.\n\nMerrell Women's Thermo Akita Mid Waterproof Boots ($169.99 CAD) : Excellentes pour la marche en ville avec une bonne isolation.\n\nMeilleures options pour hommes\n\nBottes Bugaboot III de Columbia ($125.96-$179.95 CAD) : Très bien cotées pour leur chaleur et leur robustesse, disponibles au Magasin Latulippe.\n\nMerrell Cham 8 Thermo Tall WP ($230 CAD) : Excellentes pour la randonnée hivernale et les longues marches en ville, vendues chez Sports Experts.\n\nBottes Revel IV High Polar de Keen ($259.99 CAD) : Conçues pour les conditions les plus difficiles avec une isolation de haute performance.\n\nBottes d'hiver imperméables homme MH 500 ($105 CAD) : Une option au bon rapport qualité-prix disponible chez Decathlon CA.\n\nOù acheter à Montréal ?\n\nPlusieurs détaillants locaux proposent des ventes d'entrepôt et des marques québécoises réputées comme Pajar, Anfibio ou Martino :\n\nRodin Montréal : Situé dans le quartier Chabanel, pour des rabais constants sur des bottes d'hiver.\nSports Experts / Atmosphere : Plusieurs succursales au centre-ville.\nMEC : Sur la rue Saint-Denis, pour des marques de performance.\nDecathlon : Pour le meilleur rapport qualité-prix.\n\nRecherchez-vous un style urbain ou des bottes pour des activités de plein air comme la raquette ?",
+        "brands_mentioned": [
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "SAIL - Bottes d'hiver imperméables",
+          "7 marques québécoises pour trouver botte à son pied - Blogue Le Snack Bar",
+          "Choisir Des Bottes D'hiver - MEC"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour affronter la \"sloche\" (gadoue) québécoise, les meilleures bottes doivent combiner une imperméabilité totale (souvent une base en caoutchouc) et une isolation thermique performante pour garder les pieds au sec malgré l'humidité glaciale.\n\nLes meilleurs choix pour la sloche (Saison 2025-2026)\n\nBaffin Yoho (Homme) / Baffin Chloe (Femme) : Ces modèles sont considérés parmi les plus performants pour les conditions extrêmes. La base est totalement étanche pour marcher dans la gadoue profonde sans infiltration. Baffin Men's Yoho : ~169,98 $ chez L'Équipeur / Mark's.\n\nColumbia Bugaboot III ($125.99-$180 CAD) : Un excellent rapport qualité-prix. Elle est reconnue pour son confort et sa chaleur tout en étant robuste face à l'humidité.\n\nMerrell Thermo Akita Mid WP : Botte polyvalente avec une membrane imperméable respirante, idéale pour ceux qui marchent beaucoup en ville.\n\nMarques québécoises et durabilité\n\nSi vous cherchez des produits conçus localement ou particulièrement adaptés au sel et à la sloche urbaine :\n\nAnfibio : Bottes en cuir véritable imperméable, souvent fabriquées à Montréal, offrant un look plus urbain tout en étant très résistantes au sel.\n\nPajar Canada : Leurs collections 2025-2026 mettent l'accent sur l'étanchéité et le style pour les hivers canadiens.\n\nSorel Caribou : Un classique avec une coque en caoutchouc vulcanisé, imbattable pour l'étanchéité dans 10 cm de sloche.\n\nOù les trouver à Montréal et environs\n\nVous pouvez essayer ces modèles dans les magasins spécialisés comme Magasin Latulippe (très bien noté), Sports Experts ou SAIL.\n\nSouhaitez-vous une recommandation plus spécifique pour une activité particulière (marche urbaine, déneigement, randonnée) ou un budget précis ?",
+        "brands_mentioned": [
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "GearLab - Best Winter Boots",
+          "Pajar Canada",
+          "Magasin Latulippe"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter l'hiver au Québec et garder vos pieds au sec, il est essentiel de choisir des bottes combinant une membrane imperméable (comme le Gore-Tex), une isolation thermique (minimum 200g pour la ville) et une semelle antidérapante.\n\nMarques québécoises recommandées\n\nLe Québec possède plusieurs marques locales réputées pour leur expertise en conditions de grand froid et d'humidité :\n\nPajar Canada : Reconnue pour ses bottes isolées et stylées, comme le modèle Galaxy.\n\nSorel : Un classique indémodable. La Winter Carnaval est prisée pour son imperméabilité, tandis que la Caribou protège jusqu'à -30°C.\n\nKamik : Offre une protection chaude et imperméable, souvent à des prix compétitifs comme le modèle Snovalley 6.\n\nActon : Propose des modèles robustes comme la botte Emma, idéale pour la neige profonde.\n\nMartino et Olang : Ces marques sont appréciées pour leur confort et leur durabilité dans les conditions hivernales québécoises.\n\nGuide par usage\n\nUsage | Modèle recommandé | Caractéristiques\nUrbain / Quotidien | La Canadienne, Sorel Winter Carnaval | Imperméable, look urbain, confort pour la marche.\nPlein air / Neige | Sorel Caribou, Kamik Snovalley | Base en caoutchouc vulcanisé, résistant à la neige profonde.\nGrand froid (-40°C+) | Baffin Meribel ou NAT'S | Conçues avec des chaussons amovibles de 400g pour les conditions extrêmes.\nActif / Sportif | Columbia Bugaboot III | Légère, imperméable et dotée de la technologie Omni-Heat.\n\nConseils pour rester au sec\n\nVérifiez l'étanchéité : Recherchez les mentions \"Waterproof\" (imperméable) plutôt que \"Water resistant\" (résistant à l'eau).\n\nL'isolation : Pour une utilisation quotidienne, 200g d'isolant suffisent. Pour rester immobile à l'extérieur ou par grand froid, visez 400g.\n\nLe bas compte aussi : Évitez le coton qui retient l'humidité. Privilégiez des bas en laine de mérinos ou en matières synthétiques qui évacuent la transpiration.\n\nSouhaitez-vous une sélection spécifique pour femme ou pour homme, ou cherchez-vous un magasin dans une ville précise au Québec ?",
+        "brands_mentioned": [
+          "Columbia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Comment bien choisir ses bottes d'hiver - Caron Chaussures",
+          "7 marques québécoises pour trouver botte à son pied - Blogue Le Snack Bar",
+          "Choisir Des Bottes D'hiver - MEC"
+        ],
+        "brand_rank": 20
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les bottes de La Canadienne se distinguent par leur technologie propriétaire City Dry™, qui allie imperméabilité et respirabilité sans compromis sur le style. Fabriquées principalement en Italie et au Canada, elles sont conçues pour résister aux climats rigoureux tout en restant adaptées à un usage urbain quotidien.\n\nTechnologies et Matériaux\n\nLa marque utilise des matériaux haut de gamme traités en profondeur pour une protection durable :\n\nTechnologie City Dry™ : Le cuir et le suède italiens sont traités directement lors du tannage, et non seulement en surface, ce qui permet de repousser l'eau instantanément sans nécessiter de traitement protecteur supplémentaire avant l'usage.\n\nDoublures Respirantes : Selon les modèles, les bottes sont doublées de microfibre, de cuir, ou de peau de mouton véritable (shearling) pour une isolation thermique supérieure.\n\nSemelles Antidérapantes :\n- OCSystem Ice-Grip : Crampons rotatifs intégrés (GRIP-ON / GRIP-OFF) pour la glace.\n- Vibram Arctic Grip : Caoutchouc spécialisé pour une adhérence sur glace mouillée.\n\nSemelles Intérieures : Mousse à mémoire de forme rembourrée avec des inserts OrthoLite amovibles pour un confort prolongé.\n\nSpécifications Techniques\n\nCaractéristique | Spécification Type\nOrigine | Italie, Canada ou Roumanie\nHauteur du talon | 30 mm à 45 mm (environ 1.25\" à 1.75\")\nÉtanchéité | Matériaux imperméables (excluant souvent les fermetures éclair)\nMatériaux tige | Cuir pleine fleur, suède italien, ou néoprène\n\nPrix et Disponibilité (Mars/Avril 2026)\n\nLes prix reflètent le positionnement haut de gamme et la fabrication européenne/nord-américaine :\n\nBottes et Bottillons : Généralement entre 400 CAD et 675 CAD pour les nouveaux modèles.\nModèles Spécialisés (Shearling/Vibram) : Peuvent atteindre 565 CAD à 635 CAD.\nOptions en Solde : Des rabais de 20% à 50% sont fréquents sur les collections précédentes, avec des prix débutant autour de 140 CAD pour le néoprène ou 300 CAD pour certains modèles en cuir.\n\nSouhaitez-vous comparer un modèle spécifique ou obtenir des conseils d'entretien ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "La Canadienne | City Dry™ - lacanadienneshoes.com",
+          "La Canadienne - Technologies et Innovation"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "La comparaison entre La Canadienne et Blundstone pour l'hiver canadien oppose principalement une botte de luxe élégante à une botte utilitaire robuste. Le choix dépendra de votre besoin de polyvalence (bureau vs plein air) et de votre budget.\n\nComparaison des caractéristiques hivernales\n\nCaractéristique | La Canadienne | Blundstone (Série Thermique)\nStyle | Chic, citadin, souvent à talon ou profil mince. | Rustique, décontracté, style Chelsea classique.\nImperméabilité | Technologie City Dry™; cuir et suède traités. | Cuir imperméable, coutures scellées et élastiques étanches.\nIsolation | Doublure en mouton (shearling) ou microfibre isolante. | Doublure Thinsulate™ (200g) et semelle amovible en laine.\nAdhérence | Certains modèles incluent des crampons pivotants (système OC). | Semelle en TPU durable; traction correcte mais peut glisser sur la glace vive.\nPrix (approx.) | 450 – 600 CAD. | 285 – 320 CAD.\n\nLa Canadienne : L'élégance hivernale\n\nUsage idéal : Bureau, sorties en ville, événements formels dans des conditions hivernales.\nTechnologie City Dry™ : Le cuir est traité en profondeur pour une imperméabilité durable sans traitement préalable.\nCrampons pivotants : Certains modèles intègrent le système OC pour une adhérence sur la glace.\n\nBlundstone : La robustesse polyvalente\n\nUsage idéal : Quotidien actif, travail, marche dans la gadoue et neige épaisse.\nSérie Thermique : Pour l'hiver, il est crucial de choisir la gamme Thermal (modèles comme la 584 ou la 1477), car les modèles classiques ne sont pas assez isolés pour les grands froids.\nDurabilité : Elles sont réputées pour durer plusieurs années avec un minimum d'entretien, développant une patine unique avec le temps.\n\nVerdict\n\nChoisissez La Canadienne si vous cherchez une botte de haute qualité qui se porte aussi bien avec un manteau habillé qu'avec un jean, sans sacrifier la chaleur. Optez pour Blundstone Thermal si vous privilégiez un look \"tout-terrain\", une botte facile à enfiler pour toutes les activités quotidiennes et un prix plus accessible.\n\nSouhaitez-vous voir des modèles spécifiques avec des crampons intégrés ou préférez-vous comparer des bottes plus hautes pour la neige profonde ?",
+        "brands_mentioned": [
+          "Blundstone"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "La Canadienne Shoes: The Ultimate Winter Footwear",
+          "Blundstone - Blu's",
+          "Blundstone Thermal Series"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

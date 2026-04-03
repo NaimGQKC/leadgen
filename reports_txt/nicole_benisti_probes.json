@@ -1,0 +1,191 @@
+{
+  "brand": "Nicole Benisti",
+  "product_category": "luxury women winter coat",
+  "top_competitor": "Mackage",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "manteau d'hiver pour femme haut de gamme Montréal",
+    "fr_2": "meilleur manteau chic pour femme à Montréal",
+    "fr_3": "manteau de luxe femme pour l'hiver québécois",
+    "fr_4": "Nicole Benisti manteau spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Nicole Benisti vs Mackage manteau d'hiver comparaison",
+    "en": "best luxury women winter coat Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.4,
+    "avg_specs_en": 10.3,
+    "avg_specs_fr": 6.8,
+    "spec_preservation": 0.66,
+    "confidence_range": {
+      "en": {
+        "min": 9,
+        "max": 12
+      },
+      "fr": {
+        "min": 5,
+        "max": 12
+      }
+    },
+    "competitor_frequency_en": {
+      "Canada Goose": 0.33,
+      "Mackage": 0.67,
+      "Kanuk": 0.33,
+      "Rudsak": 0.33,
+      "Moncler": 0.33,
+      "Max Mara": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Arc'teryx": 0.2,
+      "Canada Goose": 0.4,
+      "Mackage": 0.8,
+      "Moose Knuckles": 0.2,
+      "Kanuk": 0.6,
+      "Rudsak": 0.2,
+      "Quartz Co": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For the best luxury women's winter coats in Montreal, you'll find a mix of iconic local designers and high-performance international brands. Montreal-based labels like Mackage, Rudsak, and Kanuk are particularly popular because they are designed specifically to handle the city's extreme -30°C humidity and cold while maintaining a high-fashion silhouette.\n\nTop Luxury Brands & Models\n\nMackage: Known for its sophisticated, tailored look and distinctive fur trims.\nLaurella 2-in-1 Coat: A versatile long belted down coat with a removable inner bib, rated for temperatures down to -15°C.\nCalina Maxi Coat: A longline A-line coat with chevron quilting and 800-fill power recycled down for a sleek but high-performance fit.\n\nCanada Goose: The gold standard for extreme warmth.\nMystique Parka: One of the warmest options available, offering full-calf length protection and a -30°C temperature rating, ideal for the coldest Montreal days.\n\nRudsak: Combines a rebellious \"rock and roll\" aesthetic with luxury leather and down.\nIzabella H: A long quilted puffer designed with wind- and water-resistant fabric and elegant leather accents.\nMao H: A relaxed-fit long puffer with side expansion zippers for movement.\n\nKanuk: A heritage Montreal brand famous for its \"urban parka\" that is entirely waterproof and designed for maximum insulation without extreme bulk.\n\nAudvik: A local, eco-friendly boutique choice that handcrafts high-performance coats in their Montreal workshop.\nMontréal II: Specifically named after the city, this coat uses Primaloft insulation and is rated for -30°C.\n\nWhere to Shop in Montreal\n\nRetailer | What They Carry | Location\nHolt Renfrew Ogilvy | Burberry, Canada Goose, Mackage, Moncler, Max Mara | Downtown (Ste-Catherine)\nSimons | Soia & Kyo, Rudsak, and high-end house brands | Downtown & Various\nMackage Flagship | Full collection of current season coats | Ste-Catherine & Royalmount\nRudsak Flagship | Wide variety of leather and down outerwear | Ste-Catherine\nAudvik Workshop | Locally made, sustainable technical parkas | Chabanel (Fashion District)\nGorski Montreal | Shearling, cashmere, and high-end wool coats | Mount Royal\n\nAre you looking for a heavy-duty parka for long walks or a more tailored wool/down blend for commuting between meetings?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage",
+          "Kanuk",
+          "Rudsak",
+          "Moncler",
+          "Max Mara"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Canadian Made Winter Coats & Parkas | Montreal - Audvik",
+          "Mackage",
+          "Kanuk"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Nicole Benisti coats are luxury Canadian outerwear known for blending high-fashion \"mixed-media\" aesthetics—such as tweed, leather, and shearling—with high-performance winter technology.\n\nCore Technical Specifications & Materials\n\nThe brand's construction typically features a multi-layered approach to maximize warmth and durability:\n\nInsulation & Down Power: Most premium puffers utilize a 90/10 goose down-to-feather ratio for optimum insulation. Specific performance models, like the Chelsea Parka, are rated at 650 fill power.\nShell Technology: Shells are often crafted from water-repellent and wind-resistant mega-twill or nylon.\nLuxury Mixed-Media: Signature designs incorporate French imported tweed, Italian leather accents, and genuine shearling (lamb or sheep).\nTemperature Rating: Many models are designed for city winters, with some heavier parkas suitable for temperatures down to approximately -20°C to -25°C.\n\nModel-Specific Specs & Pricing\n\nPrices vary significantly based on materials like cashmere or shearling. Below are current market estimates as of April 2026:\n\nNicole Benisti Matignon Tweed Puffer Coat: ~$1,440 (Sale) / ~$2,400 (Original) at Holt Renfrew. Features 90/10 goose down, water-repellent shell, and French tweed.\nNicole Benisti Calista Shearling-Trimmed Down Jacket: ~$1,400 (Sale) / ~$2,800 (Original) at Holt Renfrew. Highlights include a mix of silk, camel, and leather with shearling trims.\nNicole Benisti Karin Mixed-Media Down Jacket: ~$1,250 (Sale) / ~$2,500 (Original) at Holt Renfrew. Known for bold jacquard-inspired knit detailing and an oversized silhouette.\nNicole Benisti Oxford Cable-Knit Down Jacket: ~$930 (Sale) / ~$1,550 (Original) at Holt Renfrew. A blend of wool, cashmere, and cable-knit textures.\nNicole Benisti Chelsea Parka: A medium-weight 100% nylon option with 90/10 duck down.\n\nCare Instructions\n\nDue to the delicate nature of the mixed-media (leather, fur, and down), all Nicole Benisti coats require professional dry clean only. It is recommended to store them in a spacious closet away from direct light and heat to prevent leather and fur from drying out or fading.\n\nWould you like to compare the temperature ratings of specific Nicole Benisti models against other Canadian luxury brands?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "MATIGNON | TWEED JULES PUFFER JACKET - Nicole Benisti",
+          "Nicole Benisti Montaigne Shearling Puffer Jacket - Garmentory",
+          "WILLIAMS | LONG HAIR SHEARLING PUFFER JACKET - Nicole Benisti",
+          "Holt Renfrew Canada"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "Both Nicole Benisti and Mackage are high-end Canadian outerwear brands known for blending luxury fashion with extreme weather performance. While Mackage is more established with a broader range of technical \"daily\" coats, Nicole Benisti is often seen as the more \"glamorous\" alternative, focusing on oversized silhouettes and bold fur or leather accents.\n\nStyle and Design Philosophy\n\nNicole Benisti: Focuses on statement pieces. Expect oversized puffer silhouettes, elaborate fur trims (often in vibrant or contrasting colours), and mixed-media designs featuring heavy use of leather and tweed.\nMackage: Known for its signature \"closest-to-body\" tailored fit. Their coats often feature a distinctive V-shaped fur collar and asymmetrical zippers. While they offer relaxed styles, their overall aesthetic is sharper and more streamlined compared to the \"street-glam\" look of Benisti.\n\nTechnical Performance & Warmth\n\nMackage: Uses laboratory-tested weight-to-protection ratios. Many of their flagship models like the Kay or Adali are rated for deep cold down to -25°C. Key features include windproof fabrics, water-repellent finishes, and insulated leather welt pockets.\nNicole Benisti: While also providing heavy-duty warmth, her coats are frequently cited for their sheer bulk and oversized hoods, which provide significant insulation but can feel heavier than a technical Mackage parka.\n\nPrice and Value Comparison\n\nNicole Benisti: Generally sits at a higher entry price point. While some puffers are available around $1,500 CAD, many of her shearling and leather-heavy designs range from $2,000 to over $5,000 CAD.\nMackage: Offers a more accessible range for luxury buyers. Standard down coats typically retail between $1,000 and $1,500 CAD, though specialized leather or long-line models can exceed $2,000 CAD.\n\nComparison Table: Key Features\n\nFeature | Mackage | Nicole Benisti\nTypical Fit | Slim, tailored, \"signature fit\" | Oversized, \"street-glam\"\nCommon Materials | Recycled down, Agile-360 stretch shell, leather welts | Satin, tweed, heavy shearling, various leathers\nSignature Detail | V-shaped \"Signature Collar\" with fur | Bold fur hoods and mixed-media panels\nTemp. Rating | Often up to -25°C | Built for extreme cold, but less standardized\n\nWhich should you choose?\n\nChoose Mackage if you want a sophisticated, everyday luxury coat that prioritizes a slimming silhouette and proven technical durability. Choose Nicole Benisti if you want a dramatic fashion statement that stands out in a crowd and you don't mind a heavier, more voluminous coat.\n\nWould you like to compare specific models, such as the Mackage Adali vs. the Nicole Benisti Fordham?",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Best Winter Coats Guaranteed to Keep You Warm! - Busbee Style",
+          "Mackage Coat Review | Natalie Yerger",
+          "Nicole Benisti"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour affronter l'hiver à Montréal avec élégance, les options haut de gamme se divisent principalement entre les parkas techniques pour le grand froid et les manteaux en laine structurés pour un style plus urbain.\n\nMarques montréalaises et québécoises emblématiques\n\nLe Québec possède une expertise unique dans la confection de manteaux capables de résister à des températures de -30°C tout en conservant une silhouette raffinée.\n\nKanuk: Véritable institution montréalaise, la marque fabrique ses manteaux à la main dans son atelier du Plateau. Reconnue pour sa durabilité exceptionnelle et son style intemporel, elle propose des modèles isolés pour le grand froid.\nMackage: Fondée à Montréal, cette marque allie luxe et fonctionnalité. Leurs manteaux se distinguent par des coupes cintrées, des détails en cuir et des cols en fourrure luxueux.\nAudvik: Une option haut de gamme axée sur la durabilité. Le modèle Montréal (environ 900 CAD) est conçu à partir de matériaux recyclés et offre une isolation ultra-légère idéale pour les grands marcheurs.\nDesloups: Spécialisée dans les manteaux en laine 100% (environ 665 CAD), cette marque offre une coupe ajustée et élégante, parfaite pour un look soigné en ville tout en restant au chaud.\n\nMarques canadiennes de prestige\n\nCes marques sont les références mondiales pour l'isolation thermique de luxe.\n\nCanada Goose: La référence pour les conditions extrêmes. Leurs parkas sont conçues pour offrir un équilibre entre style, confort et chaleur inégalée.\nMoose Knuckles: Reconnue pour son esthétique plus audacieuse et urbaine, avec une ingénierie thermique robuste adaptée au climat québécois.\nSoia & Kyo: Une marque axée sur le design contemporain, proposant des manteaux en laine et des doudounes aux lignes épurées et aux tons neutres.\n\nOù magasiner à Montréal\n\nPour essayer ces modèles, plusieurs adresses regroupent ces collections :\nAltitude-Sports: Boutique en ligne basée à Montréal avec un vaste choix de marques haut de gamme comme Arc'teryx et Canada Goose.\nBoutique Le Privé: Excellente destination pour des manteaux en laine et alpaga classiques.\nManteaux Manteaux: Une chaîne québécoise offrant une grande variété de styles et de marques.\n\nSouhaitez-vous privilégier un manteau en laine pour le style ou une parka technique pour les journées de grand froid ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Canada Goose",
+          "Mackage",
+          "Moose Knuckles",
+          "Kanuk"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Les meilleurs manteaux d'hiver au Canada - Hazelview Properties",
+          "Les marques de doudounes Canadiennes - La Canadienne",
+          "Audvik: Manteaux d'Hiver Homme & Femme | Québecois",
+          "Soia & Kyo® CA",
+          "Manteaux Manteaux"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour un manteau chic à Montréal en 2026, les meilleures options se trouvent chez des créateurs locaux alliant élégance et résistance au climat québécois. Les marques comme Manteaux Desloups et Audvik dominent le marché avec des pièces haut de gamme faites au Québec.\n\nLes Incontournables Québécois (Chic & Local)\n\nCes marques proposent des manteaux conçus pour le froid montréalais sans sacrifier le style :\n\nManteaux Desloups : Spécialiste du 100% laine, cette boutique du Plateau-Mont-Royal propose des coupes ajustées ou oversize très élégantes.\nManteau long avec ceinture (#DLF-008) : ~650 CAD, coupe semi-ajustée en laine pure.\nManteau style veston long (#DLF-004) : ~615 CAD, idéal pour un look professionnel sophistiqué.\n\nAudvik : Reconnue pour ses manteaux écoresponsables haut de gamme fabriqués à Montréal, alliant tissus techniques et design urbain.\nModèle MONACO : ~800 - 850 CAD, un parka recyclé au fini chic.\nModèle HELSINKI : ~900 CAD, coupe longue et épurée pour une protection maximale.\n\nSoia & Kyo : Une référence pour les manteaux en laine aux détails raffinés (cols en cuir, coupes asymétriques).\n\nKanuk : L'icône montréalaise pour des manteaux de luxe capables d'affronter les températures extrêmes avec une silhouette intemporelle.\n\nBoutiques et Grands Magasins\n\nPour comparer plusieurs styles en un seul lieu, visitez ces destinations mode :\nLa Maison Simons : Propose une vaste sélection allant de ses marques maison comme Twik ou Contemporaine à des griffes internationales de luxe.\nManteaux Manteaux : Idéal pour trouver une grande variété de marques (Saki, Point Zero, Sicily) avec des options allant des doudounes cintrées aux manteaux en laine mélangée.\nMackage : Pour un investissement luxe, leurs boutiques du centre-ville offrent des manteaux en cuir et laine aux coupes impeccables.\n\nTendances 2026 à Montréal\n\nCouleurs : L'aubergine, le bordeaux profond et le vert sapin sont les teintes phares cette saison.\nStyles : Les capuches oversize et les manteaux \"faits main\" en laine mélangée (disponibles notamment chez H&M autour de 199 - 249 CAD) sont très populaires pour un look chic à moindre coût.\n\nSouhaitez-vous des recommandations spécifiques selon votre budget ou préférez-vous une matière particulière comme la laine ou le duvet ?",
+        "brands_mentioned": [
+          "Mackage",
+          "Kanuk"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Manteaux Manteaux | La maison du manteau au Québec",
+          "Manteaux pour Femme | Printemps - Simons",
+          "Audvik - Manteaux d'hiver faits au Québec",
+          "Desloups",
+          "C'est Beau La Vie! - Site Officiel"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter l'hiver québécois avec élégance et une protection thermique optimale, plusieurs marques de luxe, dont beaucoup sont nées au Québec, proposent des modèles haut de gamme alliant technicité et style.\n\nMarques québécoises de prestige\n\nKanuk : Une véritable institution montréalaise. Leurs manteaux sont réputés pour leur isolation synthétique brevetée qui reste chaude même par temps humide et leur style intemporel.\nMackage : Reconnue pour ses silhouettes cintrées et ses finitions en cuir.\nCalina Lustrous Down Maxi Coat : Un manteau long avec une isolation en duvet recyclé 800-fill et un fini lustré, idéal pour une protection maximale du corps.\nShia Two-In-One : Un modèle polyvalent en laine double face avec un plastron amovible en duvet pour une adaptation aux variations de température.\nQuartz Co. : Se distingue par une esthétique minimaliste et une fabrication locale utilisant du duvet éthique.\nRudsak : Spécialisée dans les manteaux combinant cuir végétalien et un garnissage en duvet de haute qualité.\nMao Long Quilted Puffer : Un modèle long matelassé résistant aux intempéries avec des fentes latérales zippées pour une meilleure mobilité.\nAudvik : Des manteaux conçus et fabriqués au Québec, souvent personnalisables et utilisant des matériaux recyclés comme pour le modèle Monaco.\nDesloups : Pour celles qui préfèrent le style classique de la laine, cette marque propose des manteaux en laine 100% avec une doublure isolante adaptée aux grands froids.\n\nIncontournables canadiens\n\nCanada Goose : La référence mondiale pour les conditions extrêmes.\nChelsea Down Parka : Un classique de longueur hanches, coupe épurée, conçu pour des températures allant de -10°C à -20°C.\nExpedition Heritage Parka : Pour une chaleur absolue si vous prévoyez de passer beaucoup de temps à l'extérieur par froid polaire.\n\nOù les trouver à Montréal\n\nVous pouvez essayer ces modèles dans des boutiques spécialisées ou des grands magasins de luxe :\nHolt Renfrew Ogilvy : Propose une vaste sélection de Canada Goose, Mackage et autres designers internationaux.\nBoutiques Rudsak : Plusieurs succursales, dont celle de la rue Sainte-Catherine.\nBoutique Kanuk : Située sur la rue Rachel Est dans le Plateau-Mont-Royal pour l'expérience complète de la marque.\nManteaux Manteaux : Un détaillant québécois offrant une variété de marques locales et internationales.\n\nSouhaitez-vous des détails sur un niveau de chaleur spécifique ou un type d'isolant (duvet vs synthétique) ?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Mackage",
+          "Kanuk",
+          "Rudsak",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Audvik: Manteaux d'Hiver Homme & Femme | Québecois",
+          "Manteaux d'hiver pour femmes | Parkas de luxe - Quartz Co.",
+          "The Best Winter Jackets for Women | Tested & Ranked - GearLab",
+          "Manteaux Manteaux"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux Nicole Benisti se distinguent par une fusion entre la haute couture et la fonctionnalité technique extrême, conçus pour résister aux hivers canadiens rigoureux. Voici les spécifications techniques générales et les matériaux utilisés par la marque.\n\nMatériaux et Fabrication\n\nLes manteaux utilisent des matériaux haut de gamme sélectionnés pour leur durabilité et leur confort :\n\nIsolation (Duvet) : La majorité des modèles sont dotés d'un rembourrage de haute qualité composé à 90 % de duvet d'oie ou de canard et 10 % de plumes. Pour les modèles comme le Chelsea, le pouvoir gonflant est de 650, offrant une isolation thermique efficace jusqu'à -25 °C.\nRevêtement Extérieur : Utilisation fréquente de nylon haute densité (souvent du \"Mega Twill\"), traité pour être déperlant et coupe-vent.\nFinitions de Luxe : On retrouve des garnitures en cuir d'agneau italien, du tweed importé de France, et de la mouton véritable (shearling).\nMatières Nobles : Certains modèles intègrent des mélanges de cachemire, laine et soie pour un aspect plus texturé.\n\nTechnologies et Conception\n\nLa marque mise sur une structure multicouche pour maximiser la chaleur sans sacrifier le style :\nProtection Intempéries : Coques extérieures conçues pour résister à l'humidité et au vent.\nModularité : Plusieurs modèles incluent des garnitures en fourrure amovibles pour s'adapter aux variations de température.\nCoupe : Les modèles varient entre une silhouette cintrée (\"Fitted\") avec taille définie et des designs \"Oversized\" plus contemporains.\n\nPrix et Disponibilité\n\nLes prix varient considérablement selon le modèle et les matériaux (notamment la présence de fourrure ou de cachemire). Voici des exemples de prix actuels (en CAD) :\n\nModèle | Prix de vente | Prix d'origine | Marchand\nArlberg Down Jacket | ~342 $ | ~1305 $ | ModeSens\nLeonie Floral-Embellished | ~960 $ | ~1600 $ | Holt Renfrew\nKarin Mixed-Media | ~1250 $ | ~2500 $ | Holt Renfrew\nCalista Shearling-Trimmed | ~1400 $ | ~2800 $ | Holt Renfrew\nOxford Cable Knit Cashmere | 1550 $ | — | Nicole Benisti\nChelsea Coat | 2000 $ | — | Denim Kings\n\nNote : Les prix mentionnés sont sujets à changement en fonction des promotions et des stocks disponibles.\n\nSouhaitez-vous comparer un modèle spécifique (comme un parka ou un puffer) ou obtenir plus de détails sur le guide des tailles ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "CABLE KNIT CASHMERE PUFFER JACKET - Nicole Benisti",
+          "Women's Nicole Benisti Chelsea Coat - Denim Kings",
+          "ELIZABETH | SHEARLING JACKET - Nicole Benisti"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Nicole Benisti et Mackage sont deux marques montréalaises de luxe réputées pour leurs manteaux d'hiver alliant haute couture et performance technique. Bien qu'elles partagent des standards de qualité élevés, elles s'adressent à des styles et des besoins légèrement différents.\n\nComparaison des Styles et du Design\n\nNicole Benisti (L'Éclat \"Street-Luxe\") : Ses créations sont souvent plus audacieuses et axées sur le glamour. La marque est célèbre pour ses parkas volumineuses avec des doublures en fourrure colorée et des finitions métallisées ou en cuir. C'est le choix idéal pour celles qui recherchent une pièce forte (statement piece) qui se démarque visuellement.\nMackage (L'Élégance Structurée) : Mackage mise sur une silhouette plus ajustée et aérodynamique. Leurs manteaux, comme le modèle Calina, sont souvent dotés de ceintures et de coupes en A pour souligner la taille.\n\nPerformance Thermique\n\nLes deux marques offrent une isolation en duvet de haute qualité (souvent avec un pouvoir gonflant de 800+), ce qui les rend adaptées aux hivers canadiens rigoureux.\n\nMackage : Propose un système de classification clair. Leurs modèles \"Deep Cold\" comme le Trish sont testés pour résister jusqu'à -30°C. De nombreux modèles incluent un plastron intérieur amovible (bib) pour une protection supplémentaire contre le vent.\nNicole Benisti : Bien que très chauds grâce à leurs épaisses couches de duvet et de fourrure, ils peuvent être plus lourds à porter en raison de l'abondance de matériaux.\n\nCoupe et Sizing\n\nMackage : A tendance à tailler petit. La marque recommande souvent de prendre une taille au-dessus, surtout si vous prévoyez de porter des couches épaisses en dessous. La coupe est très \"slim\" et près du corps.\nNicole Benisti : Propose souvent des coupes plus amples (oversized) ou des parkas plus généreuses, ce qui peut être plus confortable pour la superposition, bien que leurs modèles plus ajustés suivent également des standards de luxe.\n\nTableau Récapitulatif\n\nCaractéristique | Nicole Benisti | Mackage\nEsthétique | Glamour, audacieux, fourrures colorées | Sophistiqué, cintré, urbain\nMatériaux | Duvet, cuir, fourrures excentriques | Duvet recyclé, cuir, fourrures classiques\nTempérature | Adapté au grand froid canadien | Modèles spécifiques jusqu'à -30°C\nAjustement | Souvent plus volumineux ou \"boxy\" | Très ajusté et près du corps\n\nSouhaitez-vous comparer des modèles spécifiques de chaque marque ou obtenir des précisions sur les points de vente à Montréal ?",
+        "brands_mentioned": [
+          "Mackage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Best Winter Coats Guaranteed to Keep You Warm! - Busbee Style",
+          "Women's Mackage Calina Lustrous Down Maxi Coat - Google Reviews",
+          "Review: Mackage Coats – Farren, Calla, Nori - Extra Petite"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

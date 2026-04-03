@@ -1,0 +1,172 @@
+{
+  "brand": "Groupe Dynamite",
+  "product_category": "fast fashion coat and jacket",
+  "top_competitor": "Zara",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleur manteau mode abordable Montréal",
+    "fr_2": "manteau pas cher mais beau pour l'hiver Montréal",
+    "fr_3": "où acheter un manteau tendance à bon prix Montréal",
+    "fr_4": "Dynamite vêtements manteau spécifications matériaux prix",
+    "fr_5": "Dynamite vs Zara manteau hiver comparaison",
+    "en": "best affordable fashion coat Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.0,
+    "brand_appearance_rate_fr": 0.0,
+    "avg_specs_en": 9.7,
+    "avg_specs_fr": 4.2,
+    "spec_preservation": 0.43,
+    "confidence_range": {
+      "en": {
+        "min": 9,
+        "max": 11
+      },
+      "fr": {
+        "min": 2,
+        "max": 8
+      }
+    },
+    "competitor_frequency_en": {
+      "Kanuk": 0.33,
+      "Quartz Co": 0.33,
+      "Dynamite": 0.67,
+      "Zara": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Kanuk": 0.2,
+      "Quartz Co": 0.2,
+      "Zara": 0.4,
+      "Dynamite": 0.4
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For an affordable fashion coat in Montreal, your best bets are local department stores like Simons, specialized clearance events like La Grande Braderie, or exploring the city's thriving vintage and thrift scene.\n\nTop Stores for Affordable Fashion Coats\n\nSimons\nA Montreal staple, Simons offers a vast selection of stylish coats ranging from their affordable in-house brands like Twik and Icône to mid-range designer labels. Shoppers often find significant deals, sometimes up to 75% off during seasonal sales.\n\nCréations GAMA - Vieux-Port - Dubarry Fourrures\nLocated in the Old Port, this second-generation manufacturer is highly rated for providing high-quality wool, alpaca, and shearling coats at \"very reasonable\" and \"excellent\" prices.\n\nLiquidation Traf\nA well-known liquidation store offering deeply discounted brand-name fashion coats.\n\nKanuk\nWhile Kanuk is a premium Montreal brand, their outlet on Rachel Street offers heavy-duty, stylish winter coats at approximately 50% off retail price.\n\nBudget-Friendly Fashion Finds (Under $150)\n\nProduct Name | Merchant | Price (Approx.) | Key Features\nOnly Belted Double-Breasted Trench | Simons | $119 CAD | Recycled polyester, mid-length, satiny lining.\nManon Elegant Coat | Style-Montreal.com | $118.30 CAD | Timeless silhouette, premium fabric blend, tailored fit.\nTwik Long Double-Breasted Felt Overcoat | Simons | $169 $129.95 CAD | Heavyweight wool blend, straight fit, Canadian design.\nModern Fit 4-Way Stretch Wool Coat | Tip Top | $348.97 $104.69 CAD | Wool blend with removable hood, 70% off sale price.\n\nLocal Fashion Events & Thrifting\n\nLa Grande Braderie de Mode Québécoise: This massive \"sample sale\" event occurs in the spring and autumn (next scheduled for October 22, 2026 at Bonsecours Market) and offers up to 80% off on Quebec-designed fashion, including coats. Brands like Kanuk, Quartz Co, and others regularly participate, offering significant markdown from their usual $475+ retail price.\n\nEva B: A world-famous vintage store on St-Laurent Blvd where you can find unique jackets and coats for $30–$40. It offers two floors of highly affordable, curated vintage fashion.\n\nPlateau & Mile End Thrifting: Neighborhoods like the Plateau and Mile End are hubs for ethical and affordable fashion. Consider a Secondhand Shopping Tour to find hidden gems in high-end vintage and budget-friendly shops.\n\nAre you looking for a lightweight spring trench or a heavy winter parka specifically?",
+        "brands_mentioned": [
+          "Kanuk",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "TOP 10 BEST Winter Coats in Montreal, QC - Yelp",
+          "The Best Places to Shop For Winter Jackets in Montreal - FASHION Magazine",
+          "Women's Coats & Jackets | Spring | Simons Canada"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Dynamite offers a variety of outerwear ranging from structured wool-blend coats to modern faux leather and suede options. Prices typically range from $99.95 to $229.95 CAD for new items, with frequent sale prices as low as $42.00 CAD.\n\nWool-Blend Coats\n\nThese are core seasonal pieces featuring a \"brushed woven fabric\" designed for a soft, dense handfeel.\n\nDynamite Women's Belted Wool Wrap Coat\nPrice: Currently discounted to $84.00 from $179.95 CAD.\nMaterials: 52% polyester, 30% wool, 7% acrylic, 5% nylon, 3% rayon, and 3% other fibers.\nFeatures a high neck, open front, self-tie belt, and dropped shoulders.\n\nDynamite Women's Unstructured Wool Coat\nPrice: Discounted to $70.00 from $169.95 CAD.\nMaterials: Same wool-blend composition as the Belted Wrap.\nAn oversized, double-breasted fit with notched lapels and a buttoned back vent.\n\nDynamite Women's Oversized Wool Coat\nPrice: Approximately $229.95 CAD.\nMaterials: 55% polyester, 30% wool, and 15% viscose.\n\nTrench & Faux Leather Coats\n\nDynamite's trench styles often utilize synthetic materials for specialized textures like suede or high-shine leather.\n\nDynamite Women's Faux Leather Trench Coat\nPrice: $159.95 CAD.\nMaterials: 100% polyurethane (body) with 100% polyester lining.\nA fitted silhouette made from soft faux leather with a subtle shine.\n\nDynamite Women's Cropped Faux Suede Trench Coat\nPrice: $149.95 CAD.\nMaterials: 90% polyester and 10% spandex for added stretch.\nA relaxed-fit jacket featuring a storm flap, epaulets, and a detachable self-tie closure.\n\nDynamite Women's Sateen Trench Coat\nPrice: Approximately $113.30 CAD.\nMaterials: 48% polyester, 47% cotton, and 5% nylon.\nA regular-fit trench with a smooth sateen finish and raglan sleeves.\n\nPuffer & Technical Outerwear\n\nThese items focus on insulation and wind resistance.\n\nDynamite Twill Jacket\nPrice: $99.95 CAD.\nMaterials: 60% cotton, 32% recycled polyester, and 8% nylon.\nA structured twill piece with a peach-soft feel and a drawstring hem.\n\nAre you looking for a specific colour or size availability in one of these styles?",
+        "brands_mentioned": [
+          "Dynamite"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Women's Jackets & Coats - Leather, Cropped & Trench Coats - Dynamite",
+          "Unstructured Wool Coat - Dynamite Clothing",
+          "New Coats & Jackets | Shop Online - Dynamite Clothing"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "When choosing between Dynamite and Zara for a winter coat, the decision typically comes down to fit and structure (Dynamite) versus trend-forward variety and technical features (Zara).\n\nAt a Glance: Dynamite vs. Zara\n\nFeature | Dynamite | Zara\nBest For | Polished, consistent fit; classic \"clean girl\" aesthetic. | High-fashion trends; specialized warmth features.\nCommon Materials | Wool blends (often ~30% wool), synthetic linings. | Recycled polyester, down/feather fills, faux and true suede.\nPrice Range | ~$60 – $180 CAD (frequent deep sales). | ~$90 – $280+ CAD.\nWarmth | Light-to-mid weight; better for layering. | Ranges from fashion-only to lab-tested for -20°C.\n\nDynamite Winter Coats\n\nDynamite is highly regarded for its structured silhouettes that often mirror high-end brands like Aritzia at a lower price point.\n\nFit & Style: Known for a consistent, \"elevated\" look. Their wool-blend coats often feature oversized or belted designs that are very popular for a polished look.\n\nMaterials & Quality: Most wool coats are a blend of approximately 30% wool with polyester, acrylic, and nylon. The fabric has a brushed, dense handfeel (often described as a wool blend). While soft, they may be prone to wrinkling compared to higher-end alternatives.\n\nWarmth: These are generally better suited for late fall or milder winter days. They are often uninsulated, making them more of a \"fashion\" layer than a heavy-duty winter barrier.\n\nZara Winter Coats\n\nZara offers a much broader range of styles, from viral suede bombers to technical puffers designed for extreme cold.\n\nTechnical Performance: Unlike many fast-fashion brands, Zara offers a \"TRF\" or \"Woman\" outerwear line that includes water-repellent and windproof puffers. Some models are lab-tested for temperatures as low as -20°C to -33°C and feature 70% down/30% feather fills.\n\nStyle Variety: If you want the latest runway-inspired look—such as the viral suede trend of 2025—Zara is the go-to. They also offer unique details like internal straps for carrying the coat over your shoulders.\n\nSizing & Quality: Sizing can be inconsistent; the \"Zara Woman\" line generally runs larger, while other sub-lines may be tighter.\n\nThe Verdict\n\nFor serious winter warmth in a Canadian climate, Zara's puffer and down-filled options are more functional, especially those with temperature ratings. If you want a classic, tailored wool look for office wear or milder weather, Dynamite's wool blends offer better value, especially during their frequent 50-60% off sales.\n\nWould you like to see current sale prices for specific styles, such as puffers or long wool overcoats?",
+        "brands_mentioned": [
+          "Zara",
+          "Dynamite"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "LETS COMPARE the faux leather trench… aritzia vs dynamite - TikTok",
+          "The 7 Best Zara Coat Trends of 2025 to Shop Right Now - Who What Wear",
+          "Toronto Fashion Haul Review: Shopping at Dynamite - TikTok"
+        ],
+        "brand_rank": null
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour trouver le meilleur manteau mode et abordable à Montréal en 2026, tout dépend si vous cherchez une pièce ultra-tendance, un classique local ou une aubaine d'entrepôt.\n\nLes Incontournables de la Mode Accessible\n\nSimons : Une institution montréalaise. La collection Contemporaine propose des modèles comme le manteau mi-long en nylon retransformé autour de 130 CAD. C'est l'endroit idéal pour allier style actuel et prix raisonnables.\n\nUNIQLO : Situé au centre-ville et dans plusieurs centres commerciaux, UNIQLO CA est imbattable pour ses doudounes légères et ses manteaux minimalistes avec la technologie HEATTECH.\n\nH&M : Parfait pour les tendances de saison à prix mini. On y trouve des manteaux duveteux ou des vestes matelassées entre 60 CAD et 110 CAD.\n\nCréateurs Québécois & Boutiques Spécialisées\n\nManteaux Manteaux : Avec des succursales au Centre Rockland et au Carrefour Angrignon, cette chaîne québécoise offre un vaste choix de manteaux pour toute la famille, souvent avec des promotions intéressantes.\n\nAudvik : Marque québécoise offrant, entre autres, un manteau isolé ultra-léger autour de 195 CAD, alliant performance technique et coupe urbaine.\n\nMarigold par Marilyne Baril : Pour un style plus designer et local, la veste longue Chelsea (environ 149 CAD) est une option élégante conçue à Montréal.\n\nLes Meilleures Aubaines (Entrepôts et Seconde Main)\n\nRodin Montréal (Vente d'entrepôt) : Situé dans le quartier de la mode (Chabanel), Rodin est une destination clé pour des manteaux d'hiver de grandes marques avec des rabais permanents en magasin.\n\nFriperies Vintage : Pour un manteau de laine unique et abordable, explorez les friperies du Plateau ou du Mile-End, comme celles recommandées par Time Out Montréal, pour dénicher des pièces de qualité à une fraction du prix neuf.\n\nRecherchez-vous un style spécifique, comme une doudoune bouffante pour le grand froid ou un trench de printemps léger ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "VENTE D'ENTREPÔT | Rodin Montréal",
+          "Manteaux Manteaux - Découvrez nos Boutiques - Rockland",
+          "Audvik: Manteaux d'Hiver Homme & Femme | Québecois"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour trouver un manteau d'hiver à Montréal qui allie style, chaleur et petit prix, privilégiez les centres de liquidation, les ventes d'entrepôt et les marques reconnues pour leur rapport qualité-prix.\n\nMagasins de liquidation et entrepôts\n\nCes adresses sont idéales pour dénicher des marques haut de gamme à prix réduit :\n\nManteaux Manteaux (Centre de Liquidation) : Spécialisé dans la mode féminine, ce centre propose une vaste sélection de styles actuels à prix d'aubaine.\n\nRodin Montréal (Vente d'entrepôt) : Une destination de choix pour des manteaux et bottes pour toute la famille avec des rabais constants en magasin.\n\nDépôt Plein Air : Pour les manteaux techniques et de plein air à prix réduit, avec des conseils personnalisés pour trouver le modèle adapté à vos besoins.\n\nMega vente d'entrepôt (Mode masculine) : Une adresse incontournable sur la rue Chabanel pour les hommes cherchant de la variété à prix compétitifs.\n\nMarques abordables et stylées\n\nCertaines enseignes offrent des modèles neufs très accessibles tout en restant esthétiques :\n\nDecathlon : Propose des manteaux techniques (comme le modèle MT100 pour homme autour de 60 $) qui sont à la fois sobres et performants pour le climat montréalais.\n\nAubainerie : Une option locale fiable avec des manteaux mi-longs pour femme aux alentours de 125 $.\n\nJeans Dépôt : Idéal pour des manteaux d'hiver simples et robustes à partir de 70 $.\n\nOptions de seconde main et événements\n\nPour du \"beau\" à prix imbattable, le marché de l'occasion est très dynamique :\n\nBazar Vintage du Plateau : Un événement régulier (prochaine édition prévue) où l'on peut trouver des manteaux d'hiver de qualité à prix dérisoire.\n\nSports Experts / Atmosphère Sports (en ligne) permet de trouver des marques comme Kanuk ou Quartz Co à des prix fortement réduits, souvent autour de 300 à 600 au lieu de 800 $+.\n\nSouhaitez-vous des précisions sur un style spécifique (parka technique, manteau en laine) ou recherchez-vous des adresses dans un quartier précis ?",
+        "brands_mentioned": [
+          "Kanuk",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Manteaux et bottes d'hiver | VENTE D'ENTREPÔT - Rodin Montréal",
+          "Manteaux d'hiver - Décathlon",
+          "Bazar Vintage du Plateau"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "À Montréal, vous pouvez trouver des manteaux tendance à prix abordable en explorant les grandes enseignes québécoises, les ventes d'entrepôt ou les boutiques spécialisées en liquidation. Voici les meilleures options selon votre style et votre budget :\n\n1. Incontournables de la mode québécoise et canadienne\n\nCes détaillants offrent une large sélection allant du manteau de laine classique à la doudoune moderne, avec des options souvent sous les 150 $.\n\nSimons : Une destination phare pour des manteaux aux styles variés (Contemporaine, Twik). Vous y trouverez des modèles mi-longs en nylon ou en laine à partir de 130 $.\n\nManteaux Manteaux : Spécialisé dans les vêtements d'extérieur, ce magasin propose des marques comme Saki, Point Zero et Only à des prix compétitifs.\n\nAubainerie : Idéal pour des manteaux d'hiver fonctionnels et tendance pour toute la famille, avec des doudounes et manteaux mi-longs abordables.\n\n2. Ventes d'entrepôt et liquidation\n\nPour des marques haut de gamme à une fraction du prix, ces adresses sont essentielles.\n\nRodin Montréal (Vente d'entrepôt) : Situé sur la rue Chabanel, cet entrepôt offre des rabais constants sur des manteaux et bottes d'hiver pour toute la famille.\n\nJeans Dépôt : Une option économique pour des manteaux d'hiver décontractés (style \"puffer\" ou camel) souvent affichés autour de 70 $.\n\nBoutique Designers : Permet de trouver des marques comme Vero Moda à prix réduit, parfois dès 52 $.\n\n3. Friperies et mode circulaire\n\nPour un look unique et durable, les friperies montréalaises regorgent de trésors vintage, parfois de grandes marques.\n\nSeconde : Une boutique vintage prisée pour ses trouvailles de créateurs et ses manteaux en fourrure ou laine soigneusement sélectionnés.\n\nChaînes solidaires : Des enseignes comme le Chaînon, Renaissance ou le Village des Valeurs permettent de dénicher des manteaux à très petit prix.\n\nÉvénements spéciaux : Un échange de vêtements pour le Jour de la Terre aura lieu prochainement.\n\n4. Grandes chaînes pour petits budgets\n\nZara et H&M : Offrent des manteaux tendance à prix accessible, incluant des vestes courtes et des manteaux matelassés très populaires chez les jeunes, avec des prix pouvant descendre sous les 60 $.\n\nDecathlon : La référence pour des manteaux techniques et chauds au meilleur rapport qualité-prix (modèles dès 60 $).\n\nRecherchez-vous un style spécifique, comme un manteau de laine chic ou une doudoune pour le grand froid ?",
+        "brands_mentioned": [
+          "Zara"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Manteaux Manteaux | La maison du manteau au Québec",
+          "Achetez un manteau ou veste - Reitmans",
+          "Manteaux et bottes d'hiver | VENTE D'ENTREPÔT - Rodin Montréal"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "La collection de manteaux chez Dynamite propose une variété de styles allant des modèles en laine classiques aux trenchs en faux cuir. Les prix réguliers se situent généralement entre 100 et 200 CAD, bien que de nombreuses promotions permettent de les obtenir à partir de 60 à 85 CAD.\n\nPrincipaux Modèles et Prix\n\nManteaux en Laine (Mélanges) :\n\nManteau surdimensionné en laine à double boutonnage : Un classique ample souvent affiché à environ 179,95 (prix réduit vers 84,00 ou 63,00 $).\n\nManteau croisé en laine à ceinture : Modèle structuré avec ceinture, prix réduit autour de 84,00 $.\n\nManteau cintré en laine : Coupe ajustée pour un look plus formel, environ 189,95 (souvent en solde à 84,00).\n\nTrenchs et Modèles en Faux Cuir :\n\nTrench en faux cuir : Style ajusté avec finition brillante subtile, environ 159,95 $.\n\nTrench court en faux suède : Coupe décontractée avec épaulettes et fermeture amovible, environ 149,95 $.\n\nTrench en satinette : Finition satinée avec manches raglan, environ 113,30 $.\n\nBlouson aviateur en faux cuir ou denim Tencel™ : Styles plus décontractés entre 119,95 et 129,95.\n\nVeste matelassée longue avec garniture en faux cuir pour une protection supplémentaire contre le froid, avec ceinture.\n\nMatériaux et Spécifications\n\nLes manteaux de Dynamite utilisent principalement des mélanges de fibres synthétiques et naturelles pour équilibrer style et entretien :\n\nMélanges de Laine : Les manteaux dits « en laine » sont généralement composés d'environ 10 % à 30 % de laine, mélangée avec du polyester (souvent recyclé), de l'acrylique, du nylon et de la viscose.\n\nFaux Cuir et Suède : Utilisent des matériaux synthétiques de haute qualité pour imiter la texture du cuir ou du suède tout en étant plus abordables.\n\nEntretien : La majorité des manteaux en mélange de laine ou en faux cuir nécessitent un nettoyage à sec uniquement. Certains modèles plus légers peuvent être lavables à la machine à l'eau froide.\n\nConseils de Taille\n\nCertains modèles, comme le manteau matelassé ou les coupes surdimensionnées, ont tendance à tailler grand. Il est recommandé de consulter le guide des tailles sur le site de Dynamite.",
+        "brands_mentioned": [
+          "Dynamite"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Jackets | Shop Sale Clothes | Dynamite CA",
+          "Women's Jackets & Coats - Leather, Cropped & Trench Coats - Dynamite",
+          "New Coats & Jackets | Shop Online - Dynamite Clothing"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Choisir entre un manteau Dynamite et un manteau Zara dépend principalement de votre priorité entre l'adaptation au climat canadien et les tendances de mode internationales.\n\nComparaison Rapide\n\nDynamite : Marque d'origine canadienne, elle conçoit des manteaux mieux adaptés aux réalités du froid local, avec un accent sur les coupes professionnelles et intemporelles.\n\nZara : Géant de la fast-fashion, Zara excelle dans les micro-tendances éphémères et propose un choix de styles beaucoup plus vaste, mais avec une qualité de matériaux (souvent synthétiques) et une durabilité parfois critiquées.\n\nDétails par Catégorie\n\nStyle et Design\n\nDynamite : Propose des styles \"essentiels\" comme des manteaux en laine classiques, des modèles structurés ou des manteaux matelassés pensés pour une garde-robe de travail ou de sortie élégante.\n\nZara : Reconnue pour ses designs audacieux et ses \"dupes\" de haute couture. Zara offre des manteaux en suède, des doudounes longues et des pièces d'inspiration vintage.\n\nQualité et Matériaux\n\nDynamite : En tant que marque locale, elle met en avant sa compréhension du froid. Ses manteaux, comme les modèles en laine mélangée, sont souvent perçus comme plus robustes pour un usage quotidien au Canada.\n\nZara : La qualité peut être inégale. Si certains modèles comme le manteau \"mouton double face\" sont appréciés pour leur chaleur relative, de nombreuses pièces utilisent des tissus synthétiques qui peuvent boulocher rapidement ou offrir une isolation insuffisante pour les grands froids canadiens.\n\nPrix (Basé sur les offres récentes)\n\nDynamite : Les prix observés pour les manteaux en laine varient généralement entre ~70 CAD et ~84 CAD en période de promotion.\n\nZara : La gamme est plus large, avec des articles allant de ~135 CAD pour des doudounes longues à plus de ~400 CAD pour des pièces haut de gamme en mélange de laine ou des parkas plus complexes.\n\nVerdict\n\nChoisissez Dynamite pour un investissement plus sûr en termes de confort thermique et un style classique qui restera pertinent. Choisissez Zara si vous recherchez un look de saison spécifique ou une pièce tendance à prix abordable.\n\nSouhaitez-vous des recommandations de modèles précis chez l'une ou l'autre marque pour orienter votre choix ?",
+        "brands_mentioned": [
+          "Zara",
+          "Dynamite"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "le guide des manteaux - Dynamite Clothing",
+          "Notre avis sur la marque Zara - Comme un camion",
+          "ZARA COLLECTION HIVER : MANTEAUX/VESTES - YouTube"
+        ],
+        "brand_rank": null
+      }
+    ]
+  }
+}

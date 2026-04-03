@@ -1,0 +1,179 @@
+{
+  "brand": "Lululemon",
+  "product_category": "technical athletic jacket",
+  "top_competitor": "Nike",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "veste de sport technique pour l'entraînement Montréal",
+    "fr_2": "meilleur manteau de course à pied pour l'hiver Québec",
+    "fr_3": "vêtements de sport performants à Montréal",
+    "fr_4": "Lululemon veste spécifications techniques complètes matériaux technologie prix",
+    "fr_5": "Lululemon vs Nike veste sport comparaison",
+    "en": "best technical athletic jacket Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 0.67,
+    "brand_appearance_rate_fr": 0.8,
+    "avg_specs_en": 6.0,
+    "avg_specs_fr": 5.4,
+    "spec_preservation": 0.9,
+    "confidence_range": {
+      "en": {
+        "min": 2,
+        "max": 12
+      },
+      "fr": {
+        "min": 2,
+        "max": 9
+      }
+    },
+    "competitor_frequency_en": {
+      "Arc'teryx": 0.33,
+      "Kanuk": 0.33,
+      "Garage": 0.33,
+      "Nike": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Columbia": 0.2,
+      "Nike": 0.6,
+      "Arc'teryx": 0.4,
+      "Adidas": 0.2,
+      "Patagonia": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "For a technical athletic jacket in Montreal, the \"best\" choice depends on your specific activity, as the city's climate requires different levels of breathability and insulation for running, cycling, or urban winter life.\n\nTop-Rated Technical Jackets by Activity\n\nBest for Running: Running Room Extreme Element Jacket\nHighlights: Specifically built for Montreal's \"don't sit out\" athletes, this jacket features fully seam-sealed construction for wind and water protection.\nTechnical Features: Vented back panel for airflow during high-intensity runs and iridescent reflective details for visibility on dark Montreal evenings.\nWhere to find: Available at Running Room (Coin Des Coureurs) locations, including Avenue du Parc in the Mile End.\n\nBest for High-Performance Outdoor: Arc'teryx Beta Jacket\nHighlights: A \"do-everything\" shell famous for its performance across a wide range of mountain and urban activities.\nWhere to find: Arc'teryx stores on Saint-Catherine or boutique retailers like Livestock on Rue Clark.\n\nBest for Cycling: Castelli Perfetto Air Jacket\nHighlights: Uses Ristretto technology to precisely regulate airflow—keeping you warm without letting sweat build up during cold rides.\nTechnical Features: Features a PFAS-free DWR treatment to shed road spray and light rain, with extra insulation in strategic \"wind-hit\" areas.\nWhere to find: Specialized shops like Montréal International Sports.\n\nBest for Urban Performance: Kanuk Mont-Royal Parka\nHighlights: Handcrafted in Montreal, this jacket is specifically designed for the city's urban winter, rated for temperatures between -20°C and -30°C.\nTechnical Features: Insulated with \"Thermo+\" vegan down-alternative and finished with a technical water-resistant coating.\nWhere to find: The Kanuk flagship store on Rue Rachel E.\n\nKey Local Retailers for Technical Gear\n\nSports Experts — 930 Rue Sainte-Catherine O — A massive downtown destination.\n\nChlorophylle — 716 Rue Sainte-Catherine O — Features high-quality gear designed and developed locally in Quebec for urban adventurers.\n\nAre you looking for a lightweight shell for spring training or a fully insulated technical jacket for Montreal's deep winter?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Kanuk"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Chlorophylle Montreal - Ste-Catherine",
+          "La Cordée Boulevard Saint-Laurent",
+          "Altitude Sports"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Lululemon technical jackets range in price from approximately $89 CAD to $498 CAD, depending on whether they are lightweight training shells, insulated running layers, or fully waterproof parkas. Key technical features across the line include proprietary fabrics like Luon, Nulu, and Glyde, along with high-performance technologies like PrimaLoft insulation and SoftSeal waterproofing.\n\nPopular Lululemon Jacket Technical Specs\n\nlululemon Define Jacket — $138.00 CAD\nA fan-favourite designed for daily routines and studio travel.\nMaterials: Nulu™ fabric (81% Nylon, 19% Lycra Elastane) for a buttery-soft feel or Luon™ fabric for a more supportive, cottony feel.\nTechnology: Four-way stretch, sweat-wicking, and breathable. Features Cuffins™ to keep hands warm and a zipper garage to prevent chin chafing.\n\nlululemon Pace Breaker Jacket — $188.00 CAD\nA versatile training jacket with wind-resistant and water-repellent treatments.\nTechnology: Features a wraparound ventilation panel for maximum airflow during intense training and a close-fitting hood.\n\nlululemon Men's Cross Chill City-to-Trail Jacket — $268.00 CAD\nDesigned specifically for trail running in wet conditions.\nMaterials: SoftSeal Fabric which is fully waterproof.\nTechnology: Seam-sealed construction to block out rain. Includes zippered hand pockets with a hidden phone sleeve and a cinchable hood.\n\nlululemon Another Mile Jacket — $248.00 CAD\nA high-performance insulated jacket for cold-weather running.\nMaterials: Uses Glyde™ fabric with a water-repellent finish and PrimaLoft® insulation that stays warm even when wet.\nTechnology: Includes a removable dickie that zips inside for extra warmth and reflective details for low-light visibility.\n\nlululemon Sojourn Jacket — $158.00 CAD\nA sleek, versatile jacket.\n\nKey Lululemon Proprietary Fabrics\n\nLuon™: A cotton-like, four-way stretch fabric used in many Define Jackets.\nNulu™: Lightweight, buttery-soft fabric for yoga and studio wear.\nGlyde™: A smooth, water-repellent fabric often used in technical outerwear.\nUtilitech™: An abrasion-resistant fabric with a cottony feel and built-in stretch.\nSoftSeal: A waterproof technology used in rain-specific gear to keep the wearer dry.\n\nAre you looking for a jacket for a specific activity like heavy rain running or winter commuting?",
+        "brands_mentioned": [
+          "Garage"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "lululemon Men's Cross Chill City-to-Trail Jacket",
+          "lululemon Pace Breaker Jacket",
+          "lululemon Define Jacket"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "The primary difference between Lululemon and Nike athletic jackets lies in their design philosophy: Lululemon focuses on a premium \"studio-to-street\" aesthetic with buttery-soft proprietary fabrics, while Nike prioritizes high-performance technical engineering for intense training and sport-specific needs.\n\nCore Comparison\n\nFabric & Comfort: Lululemon is widely praised for its \"Science of Feel,\" using fabrics like Nulu and Everlux that offer a high-end, soft-to-the-touch experience ideal for yoga and casual wear. Nike utilizes performance-driven technologies like Dri-FIT for moisture management and Therma-FIT for heat regulation during outdoor training.\n\nFit & Style: Lululemon jackets often have a more tailored, elegant silhouette designed to transition easily from the gym to everyday life. Nike leans into a sportier, trendy aesthetic with more relaxed or functional fits.\n\nPerformance: Nike is generally the preferred choice for high-intensity or \"dynamic\" movement due to its slightly firmer hold and engineered sweat-wicking materials.\n\nPopular Models & Features\n\nLululemon (e.g., Define, Another Mile) | Nike (e.g., Tech Fleece, Therma-FIT)\n\nPrimary Use: Yoga, running, lifestyle/athleisure | Training, running, sport-specific\nKey Tech: Nulu, Everlux, Luon | Dri-FIT, Therma-FIT, Storm-FIT\nFit Style: Slim, contoured, \"buttery\" feel | Functional, athletic, tech-focused\nPrice Point: Higher, premium positioning | More accessible, varies by line\n\nValue and Pricing\n\nLululemon maintains a higher price point due to its direct-to-consumer model and premium branding, with gross margins significantly higher than Nike's. Nike offers a broader range of prices and is often more accessible through third-party retailers.\n\nAre you looking for a jacket for a specific activity, like winter running or yoga, or more for everyday casual wear?",
+        "brands_mentioned": [
+          "Nike"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "canoe",
+          "UBC Blogs",
+          "Nike",
+          "Lululemon"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "Pour trouver une veste de sport technique à Montréal, vous avez accès à une vaste sélection allant de l'équipement abordable aux vêtements de haute performance. Voici les meilleures options selon vos besoins :\n\nBoutiques spécialisées et multi-marques\n\nCes magasins offrent la plus grande variété de technologies (imperméabilité, respirabilité, coupe-vent) :\n\nSports Experts : La destination principale au centre-ville avec un large inventaire de marques comme Nike, Under Armour et Columbia. Vous y trouverez des vestes d'entraînement spécialisées pour la course ou la musculation. 930 Rue Sainte-Catherine O.\n\nLa Cordée : Idéal pour les vestes techniques de plein air et d'entraînement par temps variable, avec une expertise reconnue à Montréal.\n\nBoutique Endurance : Une référence pour les coureurs, proposant des vestes techniques de course à pied avec des conseils personnalisés. La Petite-Patrie.\n\nMarques premium disponibles à Montréal\n\nPour des designs spécifiques et des matériaux exclusifs :\n\nlululemon : Propose des vestes techniques reconnues pour leur flexibilité et leur gestion de l'humidité, parfaites pour l'entraînement urbain.\n\nChlorophylle : Marque québécoise située sur la rue Sainte-Catherine, spécialisée dans les vêtements imper-respirants adaptés au climat local.\n\nNike Montreal : Située au centre-ville, la boutique propose les dernières gammes de training et de running.\n\nOptions budgétaires\n\nDecathlon Canada : Excellent rapport qualité-prix. Vous pouvez trouver des vestes de course coupe-vent autour de 30$ ou des modèles imperméables autour de 40$. Centre Eaton, 705 Rue Sainte-Catherine O.\n\nMarques québécoises à découvrir\n\nSi vous souhaitez encourager le talent local, ces marques offrent d'excellentes options techniques :\n\nLOLË (disponible chez Simons)\nGARNEAU (performance cycliste et course)",
+        "brands_mentioned": [
+          "Columbia",
+          "Nike"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Lululemon",
+          "Sports Experts",
+          "La Cordée",
+          "Chlorophylle",
+          "Decathlon Canada",
+          "Boutique Endurance"
+        ],
+        "brand_rank": 17
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Pour courir l'hiver au Québec, le « meilleur » manteau dépend de votre budget et de votre tolérance au froid. Le consensus des experts, notamment chez Altitude Sports et MEC, est de privilégier un système multicouche plutôt qu'un seul gros manteau.\n\nMeilleurs choix par catégorie (Saison 2026)\n\nLe plus complet : Asics Road Winter Jacket\nCe modèle est recommandé pour les températures sous -5°C. Il combine des zones isolées sur la poitrine pour la chaleur et des panneaux extensibles pour la liberté de mouvement. Il possède des fentes d'aération ajustables au dos pour éviter la surchauffe et même une fenêtre transparente pour voir votre montre intelligente sans relever la manche.\nPrix indicatif : environ 235 CAD chez BlackToe Running.\n\nLe meilleur rapport qualité-prix : Decathlon Kiprun Run 900 Warm\nIdéal pour les budgets serrés ou les débutants, ce manteau est conçu pour les températures entre -5°C et -15°C.\nPrix indicatif : environ 90 CAD chez Decathlon CA.\n\nPour la visibilité et l'humidité : ASICS Lite-Show Winter Jacket\nCe manteau de type « softshell » à trois couches est conçu pour rester au sec tout en améliorant votre visibilité grâce à des détails réfléchissants à 360°. Il possède un fini déperlant (DWR) et des zones de ventilation sous les bras.\nPrix indicatif : environ 156 CAD (en solde) chez Soccer Sport Fitness.\n\nIsolation thermique avancée : Mizuno Thermal Charge BT\nIl intègre la technologie « Breath Thermo », qui transforme l'humidité du corps en chaleur, ce qui est particulièrement efficace lors des grands froids québécois.\nPrix indicatif : environ 180 CAD chez Soccer Sport Fitness.\n\nBoutiques spécialisées à Québec pour des conseils personnalisés\n\nLe Coureur Nordique : Située au 141 Chemin Ste-Foy, cette boutique est une référence pour les coureurs.\n\nBoréal Running : Boutique spécialisée en course à pied à Québec.\n\nConseil clé : la multicouche\nPortez une couche de base en synthétique ou en laine mérinos pour évacuer l'humidité, et utilisez le manteau comme couche protectrice contre le vent et la neige.\n\nRespirabilité vs Chaleur : Un manteau trop chaud vous fera transpirer excessivement, ce qui mène au refroidissement. Cherchez des modèles avec des zones de ventilation au dos ou sous les bras.\n\nSouhaitez-vous des recommandations sur les couches de base (merinos ou synthétique) pour compléter votre équipement ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Les Meilleurs Manteaux de Course d'Hiver - Altitude Sports",
+          "Conseils et équipement pour la course hivernale - MEC",
+          "Boutique spécialisée en course à pied à Québec - Boréal Running",
+          "i-Run"
+        ],
+        "brand_rank": null
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "À Montréal, vous pouvez trouver des vêtements de sport haute performance alliant technicité et style dans plusieurs enseignes spécialisées, allant des grandes bannières aux boutiques de niche.\n\nOù magasiner à Montréal\n\nAltitude Sports : Basé à Montréal, ce détaillant en ligne (avec parfois des événements de vente physique) est une référence pour les marques de pointe comme Arc'teryx, Salomon et On Running. Idéal pour le trail, la course et le plein air technique.\n\nSports Experts : Avec de nombreuses succursales (Sainte-Catherine, Centre Rockland), ils offrent la plus large sélection de marques de performance comme Nike, Under Armour et Adidas pour l'entraînement en salle et la course.\n\nSimons (i.FiV5) : Leur section sport i.FiV5 propose des vêtements techniques au design soigné, incluant des marques propres et des collaborations de performance.\n\nDecathlon : Situé notamment au Centre Eaton, c'est l'option la plus abordable pour des vêtements techniques de bonne qualité.\n\nChlorophylle : Marque québécoise avec boutique sur la rue Sainte-Catherine, spécialisée dans les vêtements de performance pour le plein air et la randonnée.\n\nTypes de vêtements de performance à privilégier\n\nVêtements de compression : Conçus pour agir comme une « seconde peau », ils appliquent une pression graduée pour stabiliser les muscles et favoriser le retour veineux lors d'efforts prolongés. Des marques comme Compressport sont réputées pour leurs manchons et collants techniques.\n\nTissus respirants et évacuation de l'humidité : Pour les entraînements intensifs, recherchez des matières synthétiques techniques (comme le polyester ou les membranes type Gore-Tex) qui évacuent la vapeur de transpiration pour éviter la surchauffe.\n\nSystème multicouche (« Pelure d'oignon ») : Indispensable pour courir à Montréal par temps froid. La première couche doit être respirante (évite le coton qui reste humide), suivie d'une couche isolante et d'une protection contre le vent ou la pluie.\n\nSélection de produits performants\n\nNike Pro Dri-FIT\nlululemon Swiftly Tech\nDecathlon Kalenji Run 500 : Une option abordable et respirante (environ 20 CAD) chez Decathlon pour les sorties matinales.\n\nSouhaitez-vous des recommandations pour une discipline spécifique (comme le triathlon ou le yoga) ou pour une saison particulière à Montréal ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Nike",
+          "Adidas"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Course, Camping, Vélo, Rando et plus - Altitude Sports",
+          "Vêtements compressifs et performance en endurance - YouTube / Courir Mieux par Cyril Forestier",
+          "Les Avantages des Vêtements de Compression - RVCA France"
+        ],
+        "brand_rank": 26
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Lululemon propose une vaste gamme de vestes adaptées au yoga, à la course et aux conditions météorologiques extrêmes. Voici les spécifications techniques, matériaux et technologies pour les modèles phares disponibles au Canada en avril 2026.\n\nModèles pour Femmes\n\nLululemon Define Jacket *Luon : Surnommée la « veste BBL » pour sa coupe ajustée, elle est idéale pour le studio ou le quotidien.\nMatériaux : Tissu Luon™ (87 % nylon, 13 % élasthanne Lycra®) offrant une sensation de coton extensible.\nTechnologie : Élasticité quadridirectionnelle, respirante et évacuant la transpiration. Comprend des ouvertures pour les pouces et des rabats Cuffins™ pour garder les mains au chaud.\nPrix : Environ 138 CAD.\n\nLululemon Rain Rebel Jacket : Une veste de pluie élégante conçue pour les déplacements urbains.\nMatériaux : Extérieur en tissu Glyde™ imperméable (100 % polyester avec membrane).\nTechnologie : Coutures scellées, capuche ajustable et rabats aux poignets.\nPrix : Environ 268 CAD.\n\nLululemon Cross Chill Performance Jacket : Conçue spécifiquement pour la course par temps froid.\nMatériaux : Tissu SoftSeal imperméable avec intérieur en polaire pelucheuse.\nTechnologie : Capuche ajustable pour maintenir la vision périphérique et poches zippées avec compartiment caché pour téléphone.\nPrix : Environ 248 CAD.\n\nModèles pour Hommes\n\nLululemon Pace Breaker Jacket — 188 CAD\nUne veste polyvalente pour la course et l'entraînement multisport.\nMatériaux : Corps en nylon recyclé (79 %) et élasthanne Xtra Life Lycra® (21 %).\nTechnologie : Panneau de ventilation enveloppant en maille pour un flux d'air maximal, tissu résistant à l'abrasion et finition déperlante.\n\nLululemon Cross Chill City-to-Trail Jacket — 268 CAD\nVeste imperméable pour le trail running.\nMatériaux : Tissu SoftSeal entièrement imperméable avec construction à coutures scellées.\n\nSouhaitez-vous comparer un modèle spécifique avec une veste d'une autre marque comme Arc'teryx ou Patagonia ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Patagonia"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Men's Coats & Jackets - Lululemon",
+          "Define Jacket *Luon | Women's Coats & Jackets - Lululemon",
+          "Define Jacket *Luon | Coats and Jackets - lululemon EU"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Le choix entre une veste de sport Lululemon et Nike dépend principalement de votre activité (yoga/lifestyle vs entraînement intensif) et de votre budget. Alors que Lululemon mise sur une coupe ajustée et des matières ultra-douces, Nike privilégie souvent la performance technique et la durabilité brute.\n\nComparaison des caractéristiques clés\n\nCaractéristique | Lululemon | Nike\nUsage idéal | Yoga, Pilates, course légère, quotidien (athleisure) | Running intensif, HIIT, sports collectifs, extérieur\nMatières | Tissus \"Nulu\" (beurreux), \"Luon\" (extensible) | Dri-FIT (évacuation), Repel (déperlant), Therma-FIT\nCoupe & Style | Très ajustée (slim fit), flatteuse, minimaliste | Plus structurée, parfois plus de compression ou de volume\nDurabilité | Confort supérieur; pilling possible après lavages fréquents | Résilience élevée sous un entraînement intense\nPrix | Généralement plus élevé (~138 CAD - 248 CAD) | Gamme plus large, souvent plus abordable (~80 CAD - 180 CAD)\n\nModèles populaires\n\nLululemon - Define Jacket : Reconnue pour sa coupe ajustée qui épouse les formes et ses détails pratiques comme les passe-pouces et les \"cuffins\" pour garder les mains au chaud. Elle est idéale pour le studio ou comme couche intermédiaire légère.\n\nNike - Collection Unlimited Repel : Ces vestes sont conçues pour la polyvalence (running, gym, randonnée). Elles intègrent souvent une finition déperlante et sont packables (repliables dans une pochette) pour un transport facile.\n\nNike - Therma-FIT : Recommandé pour les activités par temps froid, ce tissu aide à réguler la chaleur naturelle du corps tout en offrant une protection contre le vent.\n\nPoints de différenciation majeurs\n\nConfort vs Performance : Les utilisateurs préfèrent souvent Lululemon pour le confort \"seconde peau\" et l'esthétique soignée. À l'inverse, Nike est souvent privilégié pour sa technologie d'évacuation de la transpiration et sa capacité à supporter des frottements répétés.",
+        "brands_mentioned": [
+          "Nike"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Reddit - r/Lululemen - Opinions on jackets",
+          "Reddit - I sipped the Lululemon kool-aid",
+          "Nike Official"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}

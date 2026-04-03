@@ -46,6 +46,7 @@ from scorer import (
 from report_generator import generate_scary_report
 
 PROBES_TXT_DIR = Path(__file__).resolve().parent.parent / "probes_txt"
+REPORTS_TXT_DIR = Path(__file__).resolve().parent.parent / "reports_txt"
 LEADS_DIR = Path(__file__).resolve().parent.parent / "leads"
 TARGETS_CSV = LEADS_DIR / "targets.csv"
 
@@ -289,8 +290,8 @@ def process_brand_folder(brand_dir, targets_map):
     gemini_data["top_competitor"] = row.get("top_competitor", "")
 
     # Save aggregated probes JSON (same format as _gemini_probes.json)
-    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
-    probes_path = REPORTS_DIR / f"{brand_key}_txt_probes.json"
+    REPORTS_TXT_DIR.mkdir(parents=True, exist_ok=True)
+    probes_path = REPORTS_TXT_DIR / f"{brand_key}_probes.json"
     with open(probes_path, "w", encoding="utf-8") as f:
         json.dump(gemini_data, f, indent=2, ensure_ascii=False)
     print(f"    Saved: {probes_path.name}")
@@ -299,7 +300,7 @@ def process_brand_folder(brand_dir, targets_map):
     score_result = score_brand_gemini(brand_display, gemini_data, None, None)
     score_result["methodology"] = f"manual-txt-import, {len(probes)} probes ({len([p for p in probes if p['lang']=='en'])} EN, {len([p for p in probes if p['lang']=='fr'])} FR)"
 
-    score_path = REPORTS_DIR / f"{brand_key}_txt_score.json"
+    score_path = REPORTS_TXT_DIR / f"{brand_key}_score.json"
     with open(score_path, "w", encoding="utf-8") as f:
         json.dump(score_result, f, indent=2, ensure_ascii=False)
     print(f"    Score: IAS {score_result['ias']}/100 [{score_result['severity']}]")
@@ -329,7 +330,7 @@ def process_brand_folder(brand_dir, targets_map):
         f"Manual probe import, {len(probes)} probes ({len([p for p in probes if p['lang']=='en'])} EN, {len([p for p in probes if p['lang']=='fr'])} FR)"
     )
 
-    report_path = REPORTS_DIR / f"{brand_key}_txt_scary_report.md"
+    report_path = REPORTS_TXT_DIR / f"{brand_key}_scary_report.md"
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report)
     print(f"    Report: {report_path.name}")
@@ -369,12 +370,12 @@ def main():
 
     print(f"TXT Probe Importer -- processing {len(brand_dirs)} brand(s)")
     print(f"Source: {PROBES_TXT_DIR}")
-    print(f"Output: {REPORTS_DIR}")
+    print(f"Output: {REPORTS_TXT_DIR}")
 
     for brand_dir in brand_dirs:
         process_brand_folder(brand_dir, targets_map)
 
-    print(f"\nDone. Reports saved to {REPORTS_DIR}/")
+    print(f"\nDone. Reports saved to {REPORTS_TXT_DIR}/")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,192 @@
+{
+  "brand": "Mackage",
+  "product_category": "luxury winter down coat",
+  "top_competitor": "Canada Goose",
+  "model": "manual-txt-import",
+  "runs_per_query": 8,
+  "queries": {
+    "fr_1": "meilleur manteau d'hiver luxe Montréal",
+    "fr_2": "marque manteau luxe duvet haut de gamme Québec",
+    "fr_3": "parka haut de gamme femme hiver canadien",
+    "fr_4": "Mackage manteau hiver spécifications techniques complètes matériaux prix",
+    "fr_5": "Mackage vs Canada Goose manteau luxe comparaison",
+    "en": "best luxury winter coat brand Montreal"
+  },
+  "aggregated": {
+    "brand_appearance_rate_en": 1.0,
+    "brand_appearance_rate_fr": 1.0,
+    "avg_specs_en": 8.3,
+    "avg_specs_fr": 7.2,
+    "spec_preservation": 0.86,
+    "confidence_range": {
+      "en": {
+        "min": 5,
+        "max": 12
+      },
+      "fr": {
+        "min": 4,
+        "max": 10
+      }
+    },
+    "competitor_frequency_en": {
+      "Canada Goose": 0.67,
+      "Moose Knuckles": 0.33,
+      "Kanuk": 0.33,
+      "Rudsak": 0.33,
+      "Sentaler": 0.33,
+      "Moncler": 0.33
+    },
+    "competitor_frequency_fr": {
+      "Canada Goose": 0.6,
+      "Moose Knuckles": 0.4,
+      "Kanuk": 0.6,
+      "Rudsak": 0.4,
+      "Moncler": 0.2,
+      "Quartz Co": 0.4,
+      "Arc'teryx": 0.2,
+      "Patagonia": 0.2,
+      "Nobis": 0.2
+    }
+  },
+  "raw_responses": {
+    "en": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_en.txt)",
+        "text": "Montreal is a global hub for luxury outerwear, with several of the world's most prestigious winter coat brands originating right here. For the ultimate Montreal winter experience, Mackage is often considered the top choice for its blend of high-fashion silhouettes and extreme weather performance.\n\nTop Montreal-Based Luxury Brands\n\nThese brands are designed and often manufactured locally to handle the city's unique combination of humidity and deep freezes.\n\nMackage: Known for \"elevated winter essentials,\" Mackage coats often feature signature leather detailing and tailored fits.\nEdward-F 2-in-1 Down Parka: A deep winter essential with a removable hooded bib and natural fur collar, rated for temperatures down to −35°C.\nMoritz Rabbit Fur-Lined Parka: A high-performance twill parka lined with rabbit fur and trimmed with silver fox fur for superior protection.\n\nKanuk: A Montreal icon for over 50 years, Kanuk coats are recognizable for their distinctive style and are built to withstand the harshest Quebec winters.\n\nSentaler: Known for luxurious alpaca wool coats with signature ribbed detailing, Sentaler gained global fame when the Princess of Wales wore one.\n\nSoia & Kyo: A Montreal brand offering refined, fashion-forward outerwear with a focus on sustainability and cruelty-free materials.\n\nRudsak: Combines Montreal street style with technical winter performance, known for leather-accented parkas and bomber jackets.\n\nNour Hammour: A luxury leather brand based in Montreal, specializing in shearling and moto-inspired pieces.\n\nZuki Furs / Birger Christensen / Dimitri Jourovski Montreal: Specializes in ultra-high-end fur and shearling luxury lifestyle products.\nReversible Shearling Lamb Parka: A versatile luxury piece featuring Merinillo shearling and a timeless design.\n\nAudvik: Handcrafted in Montreal's fashion district (Chabanel), Audvik focuses on eco-friendly, durable products.\nMontréal II Winter Coat: An urban parka updated with Primaloft insulation and recycled materials, rated for −30°C.\n\nInternational Luxury Favorites in Montreal\n\nWhile not founded in Montreal, these brands are staple \"luxury status\" choices found at high-end retailers like Holt Renfrew Ogilvy.\n\nCanada Goose: The \"gold standard\" for Canadian winter wear, ubiquitous for its technical performance and recognizable red disc logo.\nExpedition Parka: Originally developed for scientists in Antarctica, it provides maximum protection in extreme cold.\nLangford Parka: A cleaner, more urban-style parka with a streamlined look.\n\nMoose Knuckles: Offers a more \"edgy\" luxury aesthetic with heavy-duty construction.\nOriginal 3Q Jacket: A top-protection-rated jacket with 90/10 down fill and removable shearling trim.\n\nMoncler: The premier choice for high-fashion \"puffer\" style, often seen in upscale neighborhoods like Westmount.\n\nAre you looking for a specific style, such as a tailored wool-look parka or a high-shine puffer, to narrow down the best boutique for you?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Moose Knuckles",
+          "Kanuk",
+          "Rudsak",
+          "Sentaler",
+          "Moncler"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Canadian Made Winter Coats & Parkas | Montreal - Audvik",
+          "Quartz Co. | Down Insulated Winter Jackets Designed in Canada",
+          "Mackage CA",
+          "Canada Goose"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeB_en.txt)",
+        "text": "Mackage winter coats for 2026 feature high-performance technical materials and a price range typically between $950 CAD and $2,490 CAD. Their designs often focus on a 2-in-1 modular system and are engineered for extreme cold, with several models rated for temperatures as low as -35°C.\n\nCore Technical Specifications\n\nMackage coats use proprietary fabric technologies and high-fill power insulation to balance warmth and weight.\n\nInsulation & Warmth:\nFill Power: Most winter parkas use 800+ fill power traceable duck or goose down.\nTemperature Ratings: Heavy parkas like the Edward-f are rated down to -35°C, while lighter models like the Farren are rated for -15°C.\nBib System: Many models include a removable 2-in-1 hooded bib for added chest protection and temperature versatility.\n\nFabric Technology:\nNordic Tech: A 2-layer fabric with a membrane that is windproof, water-repellent, and breathable.\nAgile-360 Stretch: A proprietary stretch fabric offering mobility and flexibility without compromising insulation.\n\nSustainability & Trims:\nMackage emphasizes sustainability, using recycled materials and ethically sourced animal products.\nSustainable Fill: Mackage has been RDS (Responsible Down Standard) certified since 2019, using 100% sustainable and traceable down.\nShell & Lining: Commonly composed of recycled nylon, polyester, and polyamide.\nTrims & Fur: Use of LWG Gold Certified leather for detailing. Fur trims, when present, often include Finland Raccoon, Silver Fox, or Rabbit fur.\n\nPricing & Model Highlights (2026)\n\nPrices vary based on length, insulation weight, and the presence of fur trims.\n\nMen's Models:\nMackage Edward-f 2-in-1 Down Parka: Features a Finland Raccoon fur collar and is rated for extreme cold. Price: $1,690 CAD at Mackage CA.\nMackage Edward-nfr 2-in-1 Down Coat: A similar 2-in-1 design without the fur trim. Price: $1,460 CAD at Mackage CA.\nMackage Sullivan 2-in-1 Down Coat: A \"sartorial precision\" piece for commuting, rated for -25°C. Price: $1,590 CAD at Mackage CA.\n\nWomen's Models:\nMackage Calina Lustrous Down Maxi Coat: An A-line longline coat with 800-fill down. Price: $1,350 CAD at Mackage CA.\nMackage Farren Agile-360 Down Coat: A lightweight, semi-fitted stretch coat rated for -15°C. Price: $1,050 CAD at Mackage CA.\nMackage Khaki Down Calla-Bx Coat: Features a silver fox fur trim and Agile-360 stretch shell. Price: $2,229.97 CAD at Mackage EU.\n\nWould you like to compare specific temperature ratings for these models to find the best fit for your local climate?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "KEATON 2-in-1 Insulated Technical Blazer for Men - Mackage CA",
+          "Our Product | Mackage US",
+          "Downs & Parkas | Mackage CA"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeC_en.txt)",
+        "text": "The primary difference between Mackage and Canada Goose lies in their design philosophy: Mackage prioritizes a \"fashion-forward,\" tailored aesthetic with high-end luxury details, while Canada Goose is known for its \"utilitarian,\" functional focus designed for extreme arctic conditions.\n\nComparison Overview\n\nFeature | Mackage | Canada Goose\nPrimary Style | Tailored, sharp, and sophisticated | Utilitarian, sporty, and \"Antarctic\"\nFit | Slimmer, body-conscious silhouettes | Standard, more relaxed or boxy fits\nWarmth | Ratings typically down to -25°C to -35°C | Highly functional; often used with just a T-shirt in -30°C\nMaterials | Recycled down, silver fox/rabbit fur, leather trim | High-durability Arctic Tech fabric, signature backpack straps\nWarranty | High durability; 3+ years often noted as \"like new\" | Renowned for its lifetime warranty\n\nKey Brand Highlights\n\nMackage:\nFashion Focus: Founders emphasize that many brands focus too much on what's inside the coat and not enough on the design.\nLuxury Details: Often features distinctive elements like the \"Signature Collar\" with fur and leather welt pockets.\nVersatility: Popular 2-in-1 designs (e.g., the Edward-X) include removable hooded bibs for adaptable coverage.\n\nCanada Goose:\nDurability: Tailors note the exceptional longevity of older models, though some reviewers feel newer quality has changed.\nPractical Features: Famous for its internal backpack straps that allow for easy carrying indoors.\nMarket Position: Generally considered more \"sport-focused\" and less formal than Mackage.\n\nPricing and Availability\n\nBoth brands occupy similar luxury price points, generally ranging from $800 to $1,700 CAD depending on the specific model and features like fur trim. You can find current models at retailers like Altitude Sports, Fadedsoul, and Mackage's official site.\n\nAre you looking for a coat primarily for daily urban commuting or for extreme outdoor activities?",
+        "brands_mentioned": [
+          "Canada Goose"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Mackage vs Canada Goose : r/durham - Reddit",
+          "Mackage vs Canada Goose luxury winter coat comparison - Various Sources"
+        ],
+        "brand_rank": 1
+      }
+    ],
+    "fr": [
+      {
+        "run": 1,
+        "suffix": "(from probeA_fr1.txt)",
+        "text": "À Montréal, le choix d'un manteau d'hiver de luxe repose sur un équilibre entre une isolation thermique capable de résister à des températures de -30°C et un design raffiné adapté à la vie urbaine. Voici les meilleures options de luxe disponibles en ville, classées par style et performance.\n\nIncontournables de la performance (Froid extrême)\n\nCes marques sont réputées pour leur capacité à affronter les jours les plus froids de l'hiver montréalais grâce à des technologies d'isolation de pointe.\n\nCanada Goose : Véritable référence mondiale, le modèle Expedition Parka (environ 1 995 CAD) est conçu pour les températures arctiques. La marque propose des coupes variées allant du style aviateur (Chilliwack) aux parkas pleine longueur, avec une attention méticuleuse portée à l'étanchéité et au vent.\n\nKanuk : Une icône montréalaise. Leurs manteaux sont spécifiquement conçus pour l'humidité et le froid du Québec, utilisant souvent des isolants synthétiques ou du duvet responsable.\n\nMoncler : Le summum du luxe européen pour les \"puffers\". Leur technologie de duvet (environ 1 095 CAD), alliant légèreté et protection thermique supérieure.\n\nMode et design raffiné\n\nPour ceux qui privilégient une silhouette élégante sans sacrifier la chaleur, ces maisons montréalaises dominent le marché du luxe.\n\nMackage : Très prisée pour ses coupes ajustées et ses finitions en cuir. Le Parka Edward-f (environ 1 690 CAD) est un best-seller 2-en-1 avec col en fourrure naturelle, conçu pour offrir un maximum de chaleur (jusqu'à -35°C) tout en restant respirant.\n\nMoose Knuckles : Allie un style audacieux et rebelle à une ingénierie de précision. Leurs modèles, comme le 3Q Jacket (entre 975 CAD et 1 400 CAD selon les options), sont célèbres pour leur logo métallique distinctif et leur résistance au \"froid canadien\".\n\nRudsak : Spécialiste du cuir et des bordures de luxe, Rudsak propose des collections \"Heritage\" qui mélangent textures riches et protection hivernale sophistiquée.\n\nLuxe artisanal et local\n\nGorski Montréal : Pour un luxe absolu incluant du cachemire avec col en peau lainée mérinos pouvant atteindre 4 995 CAD.\n\nAudvik : Une marque 100 % montréalaise qui mise sur la durabilité et l'écoresponsabilité. Leurs parkas (environ 900 CAD) sont conçus et fabriqués localement à partir de matières recyclées.\n\nOù les essayer à Montréal ?\n\nPour une expérience de magasinage complète, vous pouvez visiter les boutiques phares ou les grands magasins spécialisés :\n\nSainte-Catherine & Centre-Ville : La Baie d'Hudson et Holt Renfrew Ogilvy regroupent la majorité de ces marques de prestige (Moncler, Canada Goose, Mackage) au même endroit.\nRoyalmount : Le nouveau pôle du luxe à Montréal accueille les boutiques officielles de Mackage et Moose Knuckles.\nPlateau & Mile End : Quartier idéal pour visiter les ateliers-boutiques de marques locales comme Kanuk.\n\nSouhaitez-vous comparer les températures nominales spécifiques de ces manteaux ou trouver une boutique près de chez vous ?",
+        "brands_mentioned": [
+          "Canada Goose",
+          "Moose Knuckles",
+          "Kanuk",
+          "Rudsak",
+          "Moncler"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Gorski Montreal",
+          "Maudits Français",
+          "Rudsak",
+          "YouTube"
+        ],
+        "brand_rank": 17
+      },
+      {
+        "run": 2,
+        "suffix": "(from probeA_fr2.txt)",
+        "text": "Le Québec regorge de marques de luxe spécialisées dans les manteaux en duvet haut de gamme, alliant performance thermique extrême et design sophistiqué. Voici les incontournables :\n\nLes Leaders du Luxe et de la Performance\n\nKanuk : Véritable icône montréalaise, Kanuk est réputée pour ses manteaux capables de résister aux froids les plus intenses du Québec. Ils utilisent du duvet de haute qualité et des isolants synthétiques de pointe. Les prix varient généralement entre ~1 000 et 1 500 pour les modèles phares.\n\nQuartz Co. : Cette marque se distingue par une esthétique minimaliste et une fabrication locale. Leurs manteaux, comme le modèle JULES Heritage, sont isolés avec du duvet de canard blanc d'origine traçable et conçus pour des températures allant jusqu'à -30 °C.\n\nMackage : Axée sur la mode haut de gamme, Mackage propose des coupes très ajustées et des détails luxueux (fourrures, cuir). Leurs parkas en duvet sont des pièces de prestige vendues entre 1 000 et 1 600.\n\nStyle Urbain et \"Handcrafted\"\n\nRudsak : Une marque montréalaise reconnue pour son style \"rebelle luxueux\". Leurs parkas en duvet intègrent souvent des garnitures en cuir et des coupes structurées, parfaites pour un look urbain élégant.\n\nAudvik : Fabriqués à la main dans leur atelier de Chabanel à Montréal, les manteaux Audvik privilégient l'écoresponsabilité et la production locale. Ils offrent des options en duvet recyclé très performantes pour l'hiver canadien.\n\nAutres marques québécoises à considérer\n\nPajar Canada : Bien que célèbres pour leurs bottes, Pajar propose des parkas en duvet haut de gamme conçus pour les conditions arctiques avec une touche de mode européenne.\n\nSoia & Kyo : Petite sœur de Mackage, cette marque propose des designs plus doux et épurés, souvent avec des mélanges de laine et de duvet de haute qualité.\n\nSouhaitez-vous comparer des modèles spécifiques pour un usage urbain ou pour des activités de plein air plus intenses ?",
+        "brands_mentioned": [
+          "Kanuk",
+          "Rudsak",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Manteaux pour hommes | Parkas de luxe canadiens - Quartz Co.",
+          "ENTREPRISE FIÈREMENT CANADIENNE - Quartz Co. Designed in Canada",
+          "Manteaux Quartz Co. : Les frères québécois qui nous garde au chaud - CLUSIER"
+        ],
+        "brand_rank": 9
+      },
+      {
+        "run": 3,
+        "suffix": "(from probeA_fr3.txt)",
+        "text": "Pour affronter l'hiver canadien, une parka haut de gamme pour femme doit allier isolation thermique (souvent en duvet de haute qualité), imperméabilité et style. Les marques canadiennes dominent ce marché avec des modèles conçus spécifiquement pour des températures pouvant atteindre −30°C ou moins.\n\nMarques emblématiques et modèles phares\n\nCanada Goose : La référence mondiale pour le grand froid.\nParka Mystique : Une coupe pleine longueur offrant une protection maximale contre les environnements rudes, souvent utilisée sur les plateaux de tournage froids. Elle est isolée avec du duvet de canard blanc à facteur de gonflement de 625.\nParka Shelburne : Un modèle mi-cuisse très populaire pour la ville, alliant élégance et chaleur.\nParka Junction (Black Label) : Fabriquée en textile Enduraluxe recyclé, elle est légère, durable et déperlante.\n\nKanuk : Marque québécoise réputée pour ses manteaux haut de gamme fabriqués localement, conçus pour l'humidité et le froid intense du Québec.\n\nMackage et Moose Knuckles : Ces marques se distinguent par un design plus urbain et luxueux, utilisant souvent des finitions en fourrure et des coupes très ajustées.\n\nQuartz Co. : Reconnu pour ses designs épurés et son isolation en duvet canadien de source responsable.\n\nNobis : Une excellente alternative à Canada Goose, offrant des parkas entièrement imperméables grâce à des membranes techniques tout en restant élégantes.\n\nAlternatives techniques et internationales\n\nArc'teryx (Patera Parka) : Idéale pour celles qui cherchent une protection contre les intempéries (neige mouillée, vent) sans le volume d'une parka traditionnelle. Elle combine duvet d'oie 750 et membrane GORE-TEX.\n\n66°North (Parka Jökla) : Conçue pour les conditions arctiques professionnelles avec un duvet d'oie 800 et un tissu Cordura ultra-résistant.\n\nPatagonia (Tres 3-in-1) : Très polyvalente, elle se compose d'une coquille imperméable et d'une doublure amovible en duvet, s'adaptant aux variations de température.\n\nComparatif rapide des options disponibles\n\nModèle | Marque | Type d'isolation | Prix approx. (CAD) | Particularité\nMystique | Canada Goose | Duvet canard 625 | ~1 950 $ | Coupe pleine longueur\nJökla | 66°North | Duvet oie 800 | ~1 573 $ | Qualité professionnelle arctique\nJunction | Canada Goose | Duvet canard 750 | ~1 775 $ | Ultra-légère et sans fourrure\nPatera | Arc'teryx | Duvet oie 750 / GORE-TEX | ~760 $ | Imperméabilité supérieure\nTres 3-in-1 | Patagonia | Duvet recyclé 700 | ~869 $ | Polyvalence (3 manteaux en 1)\n\nSouhaitez-vous privilégier une marque qui fabrique ses manteaux au Québec ou une option plus sportive et technique ?",
+        "brands_mentioned": [
+          "Arc'teryx",
+          "Patagonia",
+          "Canada Goose",
+          "Moose Knuckles",
+          "Kanuk",
+          "Nobis",
+          "Quartz Co"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Winter Coats for Women | Parkas made in Canada - Quartz Co.",
+          "Les marques de doudounes Canadiennes - La Canadienne",
+          "Les meilleurs manteaux d'hiver au Canada - Hazelview Properties"
+        ],
+        "brand_rank": 12
+      },
+      {
+        "run": 4,
+        "suffix": "(from probeB_fr.txt)",
+        "text": "Les manteaux d'hiver Mackage sont reconnus pour leur équilibre entre haute performance technique et esthétique de luxe. Les prix varient généralement entre 850 CAD pour les modèles légers et plus de 1 690 CAD pour les parkas de grand froid.\n\nMatériaux et Isolation\n\nMackage utilise des matériaux de première qualité pour assurer une protection thermique optimale :\n\nIsolation en duvet : Utilisation de duvet de canard traçable avec un facteur de gonflement (Fill Power) de 800+, offrant un excellent rapport chaleur-poids.\nTissus Techniques : Coquille souvent composée d'un mélange de nylon et de polyester (ex: 59% polyamide, 41% polyester) avec une membrane à 2 épaisseurs respirante et perméable à l'air.\nFinitions de luxe : Utilisation de cuir de mouton ou de vache pour les détails, et de fourrures naturelles comme le raton laveur de Finlande ou le mouton retourné pour les cols.\n\nSpécifications Techniques Standards\n\nLes modèles phares (comme le Sullivan ou le Edward) partagent des caractéristiques conçues pour les hivers rigoureux :\n\nRésistance aux intempéries : Propriétés hydrofuges, résistantes à l'eau et coupe-vent.\nCotes de température : Protection efficace contre les froids extrêmes allant de -15°C pour les doudounes légères jusqu'à -35°C pour les parkas \"Nordic Tech\".\nConception 2-en-1 : Plusieurs modèles incluent un plastron (bib) à capuchon amovible pour adapter le niveau de chaleur.\nDétails de performance : Poignets coupe-tempête en tricot côtelé, poches isolées et cordons de serrage à la taille pour emprisonner la chaleur.\n\nModèles et Prix (Exemples sur Mackage.ca)\n\nModèle | Type | Température | Prix approx.\nTooky | Duvet léger matelassé | Automne/Hiver doux | 850 CAD\nFreya-sw | Doudoune fini froissé | Jusqu'à -15°C | 1 190 CAD\nEdward-nfr | Parka Nordic Tech (sans fourrure) | Jusqu'à -35°C | 1 460 CAD\nSullivan | Manteau 2-en-1 avec plastron | Jusqu'à -25°C | 1 590 CAD\nEdward-f | Parka avec fourrure naturelle | Jusqu'à -35°C | 1 690 CAD\n\nVous pouvez consulter la collection complète directement sur le site de Mackage Canada ou chez des détaillants comme Altitude Sports.\n\nSouhaitez-vous comparer les performances thermiques d'un modèle spécifique pour homme ou pour femme ?",
+        "brands_mentioned": [],
+        "specs_found": [],
+        "sources_cited": [
+          "Mackage - Altitude Sports",
+          "Doudounes et parkas - Manteaux pour hommes | Mackage CA",
+          "Mackage Sullivan 2-in-1 Down Coat With Removable Bib - Google"
+        ],
+        "brand_rank": 1
+      },
+      {
+        "run": 5,
+        "suffix": "(from probeC_fr.txt)",
+        "text": "Le choix entre Mackage et Canada Goose dépend principalement de votre priorité : le style sophistiqué ou la performance technique pure. Bien que les deux marques occupent le segment du luxe avec des prix souvent situés entre 800 et 1 500 CAD, elles offrent des expériences hivernales distinctes.\n\nComparaison des points clés\n\nStyle et Coupe :\nMackage est reconnue pour ses silhouettes ajustées, ses détails en cuir et ses finitions luxueuses comme la fourrure de renard argenté. Elle est privilégiée pour un look \"urbain chic\" et mode.\nCanada Goose adopte une esthétique plus utilitaire et \"sportive\". Leurs coupes sont souvent plus amples pour favoriser la fonctionnalité en conditions extrêmes.\n\nPerformance Thermique :\nCanada Goose excelle dans le froid extrême, avec des modèles testés pour résister jusqu'à -30 °C et plus grâce à leur duvet à fort pouvoir gonflant.\nMackage propose également une excellente isolation (souvent 800 fill power) et des technologies comme le \"Nordic Tech\" pour les températures allant jusqu'à -35 °C sur certains modèles techniques.\n\nDurabilité et Garantie :\nCanada Goose est réputée pour sa durabilité exceptionnelle et offre une garantie à vie sur ses produits. Cependant, certains tissus comme l'Arctic Tech peuvent présenter des signes de décoloration avec le temps.\nMackage est souvent jugée plus résistante esthétiquement sur le long terme par certains utilisateurs, gardant un aspect \"neuf\" plus longtemps. Elle offre également une garantie à vie.\n\nModèles phares par marque\n\nOptions chez Mackage\n\nMackage Edward-X : Un parka 2-en-1 pour homme avec plastron amovible et col en fourrure, conçu pour des températures allant jusqu'à -35 °C. Prix: $1,690.00 CAD.\n\nMackage Kay-F : Un manteau en duvet ajusté pour femme, longueur trois-quarts, avec un col en fourrure signature et une résistance jusqu'à -25 °C. Prix: $1,450.00 CAD. 4.8 (9 reviews)\n\nMackage Shiloh-X : Un modèle 2-en-1 polyvalent avec visière anti-intempéries et fourrure de renard, idéal pour un style sophistiqué par grand froid. Prix: $1,550.00 CAD.\n\nOptions chez Canada Goose\n\nCanada Goose Maitland Parka : Un parka robuste à la coupe ajustée, longueur hanches, conçu pour une protection quotidienne en ville. Prix: $1,575.00 CAD. 4.7 (62 reviews)\n\nCanada Goose Rushton Coat : Une option plus légère et élégante, de style \"mac coat\", pour une chaleur modérée avec une touche classique. Prix: $1,295.00 CAD.\n\nCanada Goose Bayview Parka : Un modèle décontracté inspiré des doudounes (puffer), utilisant des matériaux recyclés pour une chaleur confortable au quotidien. Prix: $1,250.00 CAD. 5.0 (3 reviews)\n\nSouhaitez-vous comparer des modèles spécifiques pour homme ou pour femme afin d'affiner votre choix ?",
+        "brands_mentioned": [
+          "Canada Goose"
+        ],
+        "specs_found": [],
+        "sources_cited": [
+          "Mackage Coat Review | Natalie Yerger",
+          "Review: Mackage Coats – Farren, Calla, Nori - Extra Petite",
+          "Winter coats - Quality vs Brand : r/malefashionadvice - Reddit",
+          "fascinate-online.com"
+        ],
+        "brand_rank": 1
+      }
+    ]
+  }
+}
